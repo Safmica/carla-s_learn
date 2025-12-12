@@ -1,0 +1,2583 @@
+{
+  "slug": "cyber_media",
+  "title": "Cyber Media",
+  "description": "Modul pengenalan sejarah internet dan teknologi dasar.",
+  "modules": [
+    {
+      "id": "modul_1",
+      "title": "Sejarah Internet",
+      "questions": [
+        {
+          "pertanyaan": "Awal sejarah internet sebelum dipakai publik dimulai dari…",
+          "pilihan": [
+            { "option": "Penemuan Google oleh Larry Page", "flag": false },
+            {
+              "option": "Riset DARPA untuk menghubungkan komputer-komputer riset",
+              "flag": true
+            },
+            { "option": "Peluncuran Yahoo! Directory", "flag": false },
+            { "option": "Pembuatan Mosaic oleh NCSA", "flag": false }
+          ],
+          "pembahasan": "Internet bermula dari proyek riset DARPA untuk membangun jaringan komputer tahan gangguan bernama ARPANET (1969)."
+        },
+
+        {
+          "pertanyaan": "ARPANET adalah…",
+          "pilihan": [
+            { "option": "Jaringan sosial pertama di dunia", "flag": false },
+            {
+              "option": "Proyek jaringan komputer militer yang menjadi cikal-bakal internet",
+              "flag": true
+            },
+            { "option": "Search engine pertama di internet", "flag": false },
+            { "option": "Server komersial pertama", "flag": false }
+          ],
+          "pembahasan": "ARPANET adalah proyek DARPA tahun 1969 yang menjadi fondasi internet modern."
+        },
+
+        {
+          "pertanyaan": "NSFNET dibuat untuk…",
+          "pilihan": [
+            {
+              "option": "Menggantikan Yahoo! sebagai mesin pencari",
+              "flag": false
+            },
+            {
+              "option": "Menghubungkan pusat superkomputer dan jaringan akademik",
+              "flag": true
+            },
+            { "option": "Menyediakan layanan web hosting", "flag": false },
+            { "option": "Membuat media sosial pertama", "flag": false }
+          ],
+          "pembahasan": "NSFNET menghubungkan pusat superkomputer dan jaringan akademik, dan menggantikan ARPANET."
+        },
+
+        {
+          "pertanyaan": "Kelebihan e-mail menurut modul adalah…",
+          "pilihan": [
+            { "option": "Mengirim barang fisik", "flag": false },
+            { "option": "Real-time video", "flag": false },
+            {
+              "option": "Cepat dan efisien untuk mengirim pesan serta dokumen",
+              "flag": true
+            },
+            { "option": "Tidak memerlukan internet", "flag": false }
+          ],
+          "pembahasan": "Email cepat, murah, dan dapat mengirim lampiran sehingga efisien untuk komunikasi."
+        },
+
+        {
+          "pertanyaan": "Browser pertama yang menampilkan gambar secara grafis adalah…",
+          "pilihan": [
+            { "option": "Internet Explorer", "flag": false },
+            { "option": "Firefox", "flag": false },
+            { "option": "Mosaic", "flag": true },
+            { "option": "Netscape", "flag": false }
+          ],
+          "pembahasan": "Mosaic (1993) adalah browser grafis pertama yang mempopulerkan WWW."
+        },
+
+        {
+          "pertanyaan": "IRC dibuat pada tahun…",
+          "pilihan": [
+            { "option": "1972", "flag": false },
+            { "option": "1988", "flag": true },
+            { "option": "1995", "flag": false },
+            { "option": "2004", "flag": false }
+          ],
+          "pembahasan": "IRC diciptakan oleh Jarkko Oikarinen pada tahun 1988 sebagai chat teks real-time."
+        },
+
+        {
+          "pertanyaan": "Yang termasuk media sosial menurut modul adalah…",
+          "pilihan": [
+            { "option": "Yahoo Mail", "flag": false },
+            { "option": "Friendster", "flag": true },
+            { "option": "FTP Server", "flag": false },
+            { "option": "WWW Server", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut Friendster, MySpace, Orkut, Multiply, LinkedIn, Facebook."
+        },
+
+        {
+          "pertanyaan": "Salah satu peristiwa besar dalam sejarah internet terkait media online adalah…",
+          "pilihan": [
+            { "option": "Rilis Windows XP", "flag": false },
+            { "option": "Komputer pertama ditemukan", "flag": false },
+            {
+              "option": "Liputan Oklahoma City Bombing (1995) secara online",
+              "flag": true
+            },
+            { "option": "Peluncuran Instagram", "flag": false }
+          ],
+          "pembahasan": "Peristiwa Oklahoma City Bombing memperlihatkan potensi kecepatan media online."
+        },
+
+        {
+          "pertanyaan": "Prediksi media cetak tergeser media online didasari oleh…",
+          "pilihan": [
+            { "option": "Harga kertas mahal", "flag": false },
+            {
+              "option": "Kecepatan dan fleksibilitas media digital",
+              "flag": true
+            },
+            { "option": "Media cetak dilarang pemerintah", "flag": false },
+            { "option": "Minimnya jurnalis cetak", "flag": false }
+          ],
+          "pembahasan": "Media online lebih cepat, interaktif, mudah diakses sehingga menyaingi cetak."
+        },
+
+        {
+          "pertanyaan": "Citizen journalism di Asia berkembang pesat lewat…",
+          "pilihan": [
+            { "option": "Wikipedia", "flag": false },
+            { "option": "OhmyNews (Korea Selatan)", "flag": true },
+            { "option": "Google News", "flag": false },
+            { "option": "BBC Online", "flag": false }
+          ],
+          "pembahasan": "OhmyNews adalah pionir citizen journalism di Asia."
+        },
+
+        {
+          "pertanyaan": "Penemu WWW adalah…",
+          "pilihan": [
+            { "option": "Marc Andreessen", "flag": false },
+            { "option": "Bill Gates", "flag": false },
+            { "option": "Tim Berners-Lee", "flag": true },
+            { "option": "David Filo", "flag": false }
+          ],
+          "pembahasan": "Tim Berners-Lee menciptakan WWW, HTTP, dan HTML pada 1989."
+        },
+
+        {
+          "pertanyaan": "Search engine awal yang populer menurut modul adalah…",
+          "pilihan": [
+            { "option": "Bing", "flag": false },
+            { "option": "Yahoo!", "flag": true },
+            { "option": "Google", "flag": false },
+            { "option": "DuckDuckGo", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut Yahoo! sebagai layanan pencarian dan direktori awal."
+        },
+
+        {
+          "pertanyaan": "Cara kerja search engine menurut modul adalah…",
+          "pilihan": [
+            { "option": "Menebak kata pengguna", "flag": false },
+            {
+              "option": "Mencari berdasarkan halaman yang paling banyak diakses",
+              "flag": true
+            },
+            { "option": "Membaca pikiran pengguna", "flag": false },
+            {
+              "option": "Memaksa pengguna memilih hasil tertentu",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Modul menjelaskan search engine mengurutkan hasil berdasar popularitas dan kecocokan."
+        },
+
+        {
+          "pertanyaan": "Web browser adalah…",
+          "pilihan": [
+            { "option": "Mesin pencari data", "flag": false },
+            { "option": "Program untuk menampilkan halaman web", "flag": true },
+            { "option": "Aplikasi untuk membuat virus", "flag": false },
+            { "option": "Hardware untuk internet", "flag": false }
+          ],
+          "pembahasan": "Browser menampilkan halaman HTML yang disajikan oleh web server."
+        },
+
+        {
+          "pertanyaan": "Yang termasuk web browser menurut modul adalah…",
+          "pilihan": [
+            { "option": "Friendster", "flag": false },
+            { "option": "Netscape Navigator", "flag": true },
+            { "option": "Google Drive", "flag": false },
+            { "option": "Yahoo Mail", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut Mosaic, Netscape, Internet Explorer, Firefox, Safari."
+        },
+
+        {
+          "pertanyaan": "Kepanjangan HTML adalah…",
+          "pilihan": [
+            { "option": "Hyperlink Manual List", "flag": false },
+            { "option": "Hyper Text Markup Language", "flag": true },
+            { "option": "High Text Machine Learning", "flag": false },
+            { "option": "Hyper Transfer Media Label", "flag": false }
+          ],
+          "pembahasan": "HTML adalah bahasa markup untuk menyusun struktur halaman web."
+        },
+
+        {
+          "pertanyaan": "Situs jejaring sosial adalah…",
+          "pilihan": [
+            {
+              "option": "Situs yang hanya menyediakan file download",
+              "flag": false
+            },
+            {
+              "option": "Situs untuk membangun relasi dan berbagi konten antar pengguna",
+              "flag": true
+            },
+            { "option": "Situs pemerintah", "flag": false },
+            { "option": "Situs penjualan barang", "flag": false }
+          ],
+          "pembahasan": "Jejaring sosial memfasilitasi interaksi, profil, pertemanan, dan sharing."
+        },
+
+        {
+          "pertanyaan": "Contoh situs jejaring sosial populer menurut modul adalah…",
+          "pilihan": [
+            { "option": "Mozilla", "flag": false },
+            { "option": "LinkedIn", "flag": true },
+            { "option": "Apache", "flag": false },
+            { "option": "W3C", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut Friendster, MySpace, Orkut, Multiply, LinkedIn, Facebook."
+        },
+
+        {
+          "pertanyaan": "Web 2.0 ditandai dengan…",
+          "pilihan": [
+            { "option": "Hanya menampilkan teks", "flag": false },
+            { "option": "Semua konten dibuat pemerintah", "flag": false },
+            {
+              "option": "Partisipasi pengguna & User-Generated Content",
+              "flag": true
+            },
+            { "option": "Tidak memakai browser", "flag": false }
+          ],
+          "pembahasan": "Web 2.0 dicirikan oleh interaktivitas, kolaborasi, dan konten buatan pengguna."
+        },
+
+        {
+          "pertanyaan": "Selain media sosial, penanda Web 2.0 adalah…",
+          "pilihan": [
+            { "option": "Virus komputer", "flag": false },
+            { "option": "Wiki dan blog", "flag": true },
+            { "option": "Disket", "flag": false },
+            { "option": "SMS", "flag": false }
+          ],
+          "pembahasan": "Blog, wiki, dan platform partisipatif lain adalah simbol utama Web 2.0."
+        },
+        {
+          "pertanyaan": "DARPA mengawali sejarah internet dengan melakukan …. ",
+          "pilihan": [
+            {
+              "option": "riset tentang cara membuat jaringan komputer",
+              "flag": true
+            },
+            {
+              "option": "pemetaan terhadap perangkat elektronik yang ada di internet",
+              "flag": false
+            },
+            {
+              "option": "penelitian tentang cara membangun perangkat internet dalam komputer",
+              "flag": false
+            },
+            {
+              "option": "pengajuan proposal pembuatan jaringan komputer",
+              "flag": false
+            }
+          ],
+          "pembahasan": "DARPA melakukan riset untuk mengembangkan jaringan komputer tahan gangguan bernama ARPANET, fondasi awal internet."
+        },
+
+        {
+          "pertanyaan": "IRC ditemukan Jarko Oikarinen (1988). Kegunaannya adalah …. ",
+          "pilihan": [
+            { "option": "berkomunikasi via telepon", "flag": false },
+            {
+              "option": "berkomunikasi dengan mengetik kalimat di keyboard",
+              "flag": true
+            },
+            { "option": "mengirim foto", "flag": false },
+            { "option": "mengirim audio/video", "flag": false }
+          ],
+          "pembahasan": "IRC adalah layanan chat berbasis teks yang memungkinkan komunikasi real-time melalui keyboard."
+        },
+
+        {
+          "pertanyaan": "Browser pertama kali yang digunakan adalah …. ",
+          "pilihan": [
+            { "option": "netscape", "flag": false },
+            { "option": "mozilla", "flag": false },
+            { "option": "internet explorer", "flag": false },
+            { "option": "mosaic", "flag": true }
+          ],
+          "pembahasan": "Mosaic (1993) dianggap browser grafis pertama yang mempopulerkan penggunaan web."
+        },
+
+        {
+          "pertanyaan": "Teknologi tonggak munculnya online media adalah …. ",
+          "pilihan": [
+            { "option": "teletex", "flag": false },
+            { "option": "videotext", "flag": true },
+            { "option": "satelit", "flag": false },
+            { "option": "infobank", "flag": false }
+          ],
+          "pembahasan": "Videotext adalah distribusi informasi elektronik awal yang menjadi dasar media online modern."
+        },
+
+        {
+          "pertanyaan": "Tahun awal media cetak membangun situs online adalah …. ",
+          "pilihan": [
+            { "option": "1992", "flag": true },
+            { "option": "1993", "flag": false },
+            { "option": "1994", "flag": false },
+            { "option": "1995", "flag": false }
+          ],
+          "pembahasan": "Pada 1992 beberapa media cetak mulai bereksperimen membuat situs online."
+        },
+
+        {
+          "pertanyaan": "Peristiwa awal keberadaan online journalism pada 1995 adalah …. ",
+          "pilihan": [
+            { "option": "tornado Amerika Latin", "flag": false },
+            { "option": "pengeboman di Oklahoma", "flag": true },
+            { "option": "banjir China", "flag": false },
+            { "option": "pemilu Amerika Serikat", "flag": false }
+          ],
+          "pembahasan": "Oklahoma City Bombing (1995) menjadi titik penting perkembangan online journalism."
+        },
+
+        {
+          "pertanyaan": "Blog citizen journalism OhmyNews muncul tahun …. ",
+          "pilihan": [
+            { "option": "2001", "flag": false },
+            { "option": "2002", "flag": false },
+            { "option": "2003", "flag": false },
+            { "option": "2004", "flag": true }
+          ],
+          "pembahasan": "OhmyNews dari Korea Selatan diluncurkan tahun 2004 dan menjadi pelopor citizen journalism di Asia."
+        },
+
+        {
+          "pertanyaan": "Fasilitas yang dimiliki YM kecuali …. ",
+          "pilihan": [
+            { "option": "attachment", "flag": false },
+            { "option": "webcame", "flag": false },
+            { "option": "video conference", "flag": true },
+            { "option": "sambungan telepon", "flag": false }
+          ],
+          "pembahasan": "YM mendukung attachment, webcam, dan voice call, tetapi tidak menyediakan video conference multi-user."
+        },
+
+        {
+          "pertanyaan": "Berikut peristiwa tahun 2004 kecuali …. ",
+          "pilihan": [
+            { "option": "muncul istilah grassroot media", "flag": false },
+            {
+              "option": "kemunculan blog ratusan ribu + lahir MBA",
+              "flag": false
+            },
+            { "option": "OhmyNews didirikan Oh Yeon Ho", "flag": false },
+            {
+              "option": "situs di AS mengalahkan media cetak hingga banyak gulung tikar",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Media cetak AS belum mengalami gelombang gulung tikar besar pada 2004."
+        },
+
+        {
+          "pertanyaan": "Ranking 1 versi AJR NewsLink readers adalah …. ",
+          "pilihan": [
+            { "option": "washingtonpost.com", "flag": false },
+            { "option": "usatoday.com", "flag": false },
+            { "option": "cnn.com", "flag": true },
+            { "option": "nytime.com", "flag": false }
+          ],
+          "pembahasan": "cnn.com menempati peringkat pertama menurut pembaca AJR NewsLink."
+        },
+
+        {
+          "pertanyaan": "Mosaic dibuat oleh Marc Andreessen pada tahun …. ",
+          "pilihan": [
+            { "option": "1992", "flag": false },
+            { "option": "1993", "flag": true },
+            { "option": "1994", "flag": false },
+            { "option": "1995", "flag": false }
+          ],
+          "pembahasan": "Mosaic dirilis tahun 1993 dan menjadi browser grafis yang mempengaruhi perkembangan Netscape."
+        },
+
+        {
+          "pertanyaan": "Kelebihan Mosaic adalah …. ",
+          "pilihan": [
+            { "option": "membentuk gambar dan grafis", "flag": false },
+            { "option": "upload video/audio", "flag": false },
+            { "option": "menampilkan warna, gambar, dan foto", "flag": true },
+            { "option": "pencarian data cepat", "flag": false }
+          ],
+          "pembahasan": "Keunggulan Mosaic adalah kemampuannya menampilkan gambar, grafik, dan warna."
+        },
+
+        {
+          "pertanyaan": "Yang bukan search engine adalah …. ",
+          "pilihan": [
+            { "option": "Yahoo!", "flag": false },
+            { "option": "Google!", "flag": false },
+            { "option": "MSN", "flag": false },
+            { "option": "Hotmail", "flag": true }
+          ],
+          "pembahasan": "Hotmail adalah layanan email, bukan search engine."
+        },
+
+        {
+          "pertanyaan": "Pengaruh perkembangan internet kecuali …. ",
+          "pilihan": [
+            { "option": "E-learning", "flag": false },
+            { "option": "E-commerce", "flag": false },
+            { "option": "E-bisnis", "flag": false },
+            { "option": "E-blog", "flag": true }
+          ],
+          "pembahasan": "E-blog bukan istilah resmi dan tidak dikategorikan sebagai dampak utama perkembangan internet."
+        },
+
+        {
+          "pertanyaan": "Yahoo! ditemukan tahun 1994 oleh …. ",
+          "pilihan": [
+            { "option": "Mark Briggs", "flag": false },
+            { "option": "David dan Jerry", "flag": true },
+            { "option": "Jorn Barger", "flag": false },
+            { "option": "Mark Zuckerberg", "flag": false }
+          ],
+          "pembahasan": "Yahoo! didirikan oleh Jerry Yang dan David Filo dari Stanford."
+        },
+
+        {
+          "pertanyaan": "Web 2.0 ditemukan O’Reilly Media pada tahun …. ",
+          "pilihan": [
+            { "option": "2004", "flag": false },
+            { "option": "2005", "flag": false },
+            { "option": "2003", "flag": true },
+            { "option": "2007", "flag": false }
+          ],
+          "pembahasan": "Istilah Web 2.0 mulai dipopulerkan oleh O’Reilly Media pada tahun 2003."
+        },
+
+        {
+          "pertanyaan": "Web 2.0 adalah …. ",
+          "pilihan": [
+            {
+              "option": "web generasi kedua berbasis kolaborasi pengguna (social media, wiki)",
+              "flag": true
+            },
+            { "option": "web dengan search engine cepat", "flag": false },
+            { "option": "program baru dengan software canggih", "flag": false },
+            { "option": "web pengiriman pesan tingkat tinggi", "flag": false }
+          ],
+          "pembahasan": "Web 2.0 menekankan kolaborasi, user-generated content, jejaring sosial, blog, dan wiki."
+        },
+
+        {
+          "pertanyaan": "Situs weblog gratis kecuali …. ",
+          "pilihan": [
+            { "option": "Blogger.com", "flag": false },
+            { "option": "Blogspot.com", "flag": false },
+            { "option": "Wordpress.com", "flag": false },
+            { "option": "MSN.com", "flag": true }
+          ],
+          "pembahasan": "MSN.com adalah portal berita, bukan platform blog gratis."
+        },
+
+        {
+          "pertanyaan": "Facebook diciptakan oleh Mark Zuckerberg dari …. ",
+          "pilihan": [
+            { "option": "Harvard University", "flag": true },
+            { "option": "Oxford University", "flag": false },
+            { "option": "University of Toronto", "flag": false },
+            { "option": "UC Berkeley", "flag": false }
+          ],
+          "pembahasan": "Facebook dibuat Zuckerberg pada 2004 saat ia kuliah di Harvard."
+        },
+
+        {
+          "pertanyaan": "Situs jejaring sosial pertama kali diciptakan adalah …. ",
+          "pilihan": [
+            { "option": "Facebook", "flag": false },
+            { "option": "Friendster", "flag": true },
+            { "option": "Hi5", "flag": false },
+            { "option": "MySpace", "flag": false }
+          ],
+          "pembahasan": "Modul menempatkan Friendster sebagai jejaring sosial awal sebelum MySpace dan Facebook."
+        }
+      ]
+    },
+    {
+      "id": "modul_2",
+      "title": "ICT",
+      "questions": [
+        {
+          "pertanyaan": "Perbedaan majalah dan buku di awal terbentuknya adalah …",
+          "pilihan": [
+            {
+              "option": "Majalah berisi tulisan tangan mewah, buku berisi pamflet politik",
+              "flag": false
+            },
+            {
+              "option": "Majalah kumpulan pamflet/berita; buku awalnya tulisan tangan biarawan",
+              "flag": true
+            },
+            {
+              "option": "Majalah untuk semua kalangan; buku untuk pelajar saja",
+              "flag": false
+            },
+            { "option": "Majalah dan buku sama saja", "flag": false }
+          ],
+          "pembahasan": "Majalah awalnya kumpulan pamflet dan berita; sedangkan buku merupakan tulisan tangan biarawan sebelum Gutenberg menemukan metal type."
+        },
+        {
+          "pertanyaan": "Gutenberg dikenal karena …",
+          "pilihan": [
+            { "option": "Penemu radio", "flag": false },
+            { "option": "Penemu internet", "flag": false },
+            {
+              "option": "Penemu metal movable type untuk mencetak buku",
+              "flag": true
+            },
+            { "option": "Penemu film bisu", "flag": false }
+          ],
+          "pembahasan": "Gutenberg menemukan metal movable type sehingga buku bisa dicetak lebih cepat dan murah."
+        },
+        {
+          "pertanyaan": "Awal terciptanya pers dan koran ditandai oleh …",
+          "pilihan": [
+            {
+              "option": "Penyebaran berita cepat melalui internet",
+              "flag": false
+            },
+            {
+              "option": "Surat kabar beberapa lembar dengan berita lambat dan dikontrol pemerintah",
+              "flag": true
+            },
+            { "option": "Kemunculan radio sebagai pesaing", "flag": false },
+            { "option": "Adanya stasiun TV pertama", "flag": false }
+          ],
+          "pembahasan": "Koran awal dicetak sedikit, beritanya lambat, serta banyak dikontrol pemerintah."
+        },
+        {
+          "pertanyaan": "Surat kabar di era internet berubah menjadi …",
+          "pilihan": [
+            { "option": "Lebih sedikit berita", "flag": false },
+            { "option": "Hanya foto tanpa teks", "flag": false },
+            {
+              "option": "Online, tak terbatas, bisa diperbarui kapan saja, interaktif",
+              "flag": true
+            },
+            { "option": "Tidak lagi berisi iklan", "flag": false }
+          ],
+          "pembahasan": "Surat kabar digital menyediakan berita tanpa batas, realtime, multimedia, dan interaktif."
+        },
+        {
+          "pertanyaan": "Sejarah alat perekam dimulai dari …",
+          "pilihan": [
+            { "option": "Discman – MP3 – CD player", "flag": false },
+            { "option": "Phonograph → Graphophone → Gramophone", "flag": true },
+            { "option": "Blu-ray → DVD → VCD", "flag": false },
+            { "option": "Radio → VCR → MP4", "flag": false }
+          ],
+          "pembahasan": "Urutan sesuai modul: phonograph (Edison), graphophone (Bell & Tainter), gramophone (Berliner)."
+        },
+        {
+          "pertanyaan": "Jukebox adalah …",
+          "pilihan": [
+            { "option": "Alat mixing musik", "flag": false },
+            { "option": "Pemutar musik digital", "flag": false },
+            { "option": "Pemutar musik dengan memasukkan koin", "flag": true },
+            { "option": "Pemutar kaset portabel", "flag": false }
+          ],
+          "pembahasan": "Jukebox memutar musik saat pengguna memasukkan koin dan pernah menyelamatkan industri rekaman."
+        },
+        {
+          "pertanyaan": "Star system adalah …",
+          "pilihan": [
+            { "option": "Sistem pencarian artis baru", "flag": false },
+            {
+              "option": "Strategi memakai bintang film untuk menarik penonton",
+              "flag": true
+            },
+            { "option": "Sistem penilaian kejernihan film", "flag": false },
+            { "option": "Teknik pembuatan film animasi", "flag": false }
+          ],
+          "pembahasan": "Star system memakai popularitas artis untuk menarik penonton dan meningkatkan keuntungan."
+        },
+        {
+          "pertanyaan": "Salah satu inovasi industri film adalah 3D. Kesuksesannya …",
+          "pilihan": [
+            { "option": "Sepenuhnya gagal", "flag": false },
+            {
+              "option": "Awalnya menarik, lalu menurun karena mahal & efek samping",
+              "flag": true
+            },
+            { "option": "Digunakan hanya untuk iklan", "flag": false },
+            { "option": "Tidak pernah diminati penonton", "flag": false }
+          ],
+          "pembahasan": "3D sempat booming tetapi menurun karena alat mahal dan membuat penonton pusing."
+        },
+        {
+          "pertanyaan": "Dampak hadirnya VCR adalah …",
+          "pilihan": [
+            { "option": "Penonton tidak bisa merekam acara", "flag": false },
+            { "option": "Hanya menambah biaya listrik", "flag": false },
+            {
+              "option": "Time shifting: menonton ulang, melewati iklan",
+              "flag": true
+            },
+            { "option": "Menghentikan industri film", "flag": false }
+          ],
+          "pembahasan": "VCR membuat penonton bisa menonton kapan saja dan melewati iklan (zap, zip, grazing)."
+        },
+        {
+          "pertanyaan": "Perbedaan TV Kabel dan TV Tradisional adalah …",
+          "pilihan": [
+            {
+              "option": "TV kabel gratis, TV tradisional berbayar",
+              "flag": false
+            },
+            {
+              "option": "TV kabel memakai jaringan digital, TV tradisional memakai sinyal udara",
+              "flag": true
+            },
+            {
+              "option": "TV kabel tidak punya channel, TV tradisional banyak channel",
+              "flag": false
+            },
+            {
+              "option": "TV tradisional bisa internet, TV kabel tidak",
+              "flag": false
+            }
+          ],
+          "pembahasan": "TV tradisional menggunakan sinyal VHF/UHF, sedangkan TV kabel memakai jaringan digital dengan ratusan channel."
+        },
+        {
+          "pertanyaan": "Moore’s Law menyatakan bahwa …",
+          "pilihan": [
+            { "option": "Harga prosesor naik setiap tahun", "flag": false },
+            {
+              "option": "Kekuatan prosesor berlipat dua setiap 18 bulan",
+              "flag": true
+            },
+            {
+              "option": "Jumlah komputer di dunia bertambah eksponensial",
+              "flag": false
+            },
+            { "option": "Internet semakin lambat", "flag": false }
+          ],
+          "pembahasan": "Moore menyatakan transistor dalam prosesor berlipat dua tiap 18 bulan sehingga kemampuan meningkat pesat."
+        },
+        {
+          "pertanyaan": "Hukum Moore didasari oleh konsep …",
+          "pilihan": [
+            { "option": "Harga murah", "flag": false },
+            { "option": "Jaringan luas", "flag": false },
+            { "option": "Kecepatan", "flag": true },
+            { "option": "Efisiensi organisasi", "flag": false }
+          ],
+          "pembahasan": "Fondasi Moore’s Law adalah kecepatan: teknologi berkembang untuk mencapai kecepatan komputasi lebih tinggi."
+        },
+        {
+          "pertanyaan": "Berdasarkan Moore’s Law, beberapa tahun ke depan …",
+          "pilihan": [
+            { "option": "Komputer menjadi semakin lambat", "flag": false },
+            {
+              "option": "Prosesor semakin cepat dan lebih murah",
+              "flag": true
+            },
+            { "option": "Komputer tidak lagi butuh listrik", "flag": false },
+            { "option": "Internet berhenti berkembang", "flag": false }
+          ],
+          "pembahasan": "Moore memprediksi peningkatan eksponensial kemampuan komputasi dengan harga yang makin murah."
+        },
+        {
+          "pertanyaan": "Metcalfe’s Law berarti …",
+          "pilihan": [
+            {
+              "option": "Nilai jaringan sama untuk semua komputer",
+              "flag": false
+            },
+            {
+              "option": "Nilai jaringan tumbuh sebanding dengan kuadrat jumlah node",
+              "flag": true
+            },
+            { "option": "Jaringan makin kecil makin kuat", "flag": false },
+            { "option": "Jaringan mahal tidak efektif", "flag": false }
+          ],
+          "pembahasan": "Metcalfe’s Law menyatakan nilai jaringan meningkat eksponensial seiring bertambahnya node."
+        },
+        {
+          "pertanyaan": "Dasar Metcalfe’s Law adalah …",
+          "pilihan": [
+            { "option": "Efisiensi organisasi", "flag": false },
+            { "option": "Kecepatan", "flag": false },
+            { "option": "Jaringan (networking)", "flag": true },
+            { "option": "Biaya produksi", "flag": false }
+          ],
+          "pembahasan": "Nilai teknologi meningkat karena jaringan; semakin banyak pengguna, semakin tinggi nilainya."
+        },
+        {
+          "pertanyaan": "Coase’s Law menyatakan bahwa …",
+          "pilihan": [
+            {
+              "option": "Organisasi besar selalu lebih efisien",
+              "flag": false
+            },
+            {
+              "option": "Biaya transaksi meningkat karena teknologi",
+              "flag": false
+            },
+            {
+              "option": "Ketika biaya transaksi turun, organisasi mengecil",
+              "flag": true
+            },
+            { "option": "Outsourcing tidak dibutuhkan", "flag": false }
+          ],
+          "pembahasan": "Coase menegaskan teknologi menurunkan biaya transaksi sehingga organisasi mengecil."
+        },
+        {
+          "pertanyaan": "Jika Coase’s Law dihubungkan dengan teknologi, maka …",
+          "pilihan": [
+            { "option": "Organisasi akan membesar", "flag": false },
+            {
+              "option": "Struktur organisasi menjadi lebih kecil & efisien",
+              "flag": true
+            },
+            { "option": "Semua pekerjaan harus manual", "flag": false },
+            { "option": "Tidak ada lagi perusahaan", "flag": false }
+          ],
+          "pembahasan": "Teknologi mengurangi kebutuhan pegawai sehingga organisasi menjadi ramping dan efisien."
+        },
+        {
+          "pertanyaan": "Implikasi Coase’s Law adalah …",
+          "pilihan": [
+            { "option": "Penambahan pegawai besar-besaran", "flag": false },
+            { "option": "Outsourcing, downsizing, rightsizing", "flag": true },
+            {
+              "option": "Semua perusahaan wajib memiliki gedung besar",
+              "flag": false
+            },
+            { "option": "Menghapus teknologi", "flag": false }
+          ],
+          "pembahasan": "Organisasi mengecil akibat teknologi, sehingga muncul praktik outsourcing, downsizing, dan rightsizing."
+        },
+        {
+          "pertanyaan": "Istilah Muckracking digunakan untuk jurnalisme yang menyajikan berita tentang …",
+          "pilihan": [
+            { "option": "artis dan selebriti", "flag": false },
+            { "option": "kalangan agama dan konglomerat", "flag": false },
+            { "option": "skandal dan korupsi", "flag": true },
+            { "option": "tanaman dan kesehatan", "flag": false }
+          ],
+          "pembahasan": "Muckracking adalah jurnalisme investigatif yang membongkar skandal, korupsi, dan penyimpangan sosial."
+        },
+        {
+          "pertanyaan": "Bentuk majalah digital kecuali …",
+          "pilihan": [
+            { "option": "replica", "flag": false },
+            { "option": "mobile magazines", "flag": false },
+            { "option": "user-generated content", "flag": false },
+            { "option": "free mag", "flag": true }
+          ],
+          "pembahasan": "Modul menyebut replica, mobile magazines, dan user-generated content. Free mag tidak termasuk kategori."
+        },
+        {
+          "pertanyaan": "Hal penting agar surat kabar menjadi media massa adalah …",
+          "pilihan": [
+            { "option": "alat cetak cepat & murah", "flag": true },
+            { "option": "modal besar", "flag": false },
+            { "option": "dukungan pemerintah", "flag": false },
+            { "option": "memuat berita luar negeri", "flag": false }
+          ],
+          "pembahasan": "Media massa harus bisa dicetak cepat dan murah agar dapat menjangkau pembaca luas."
+        },
+        {
+          "pertanyaan": "Jurnalisme yang mengangkat sex, pembunuhan, human interest disebut …",
+          "pilihan": [
+            { "option": "black journalism", "flag": false },
+            { "option": "yellow journalism", "flag": true },
+            { "option": "orange journalism", "flag": false },
+            { "option": "white journalism", "flag": false }
+          ],
+          "pembahasan": "Yellow journalism berfokus pada berita sensasional tentang kekerasan, skandal, dan human interest."
+        },
+        {
+          "pertanyaan": "Industri musik menurun sejak dikenalnya …",
+          "pilihan": [
+            { "option": "walkman", "flag": false },
+            { "option": "discman", "flag": false },
+            { "option": "radio", "flag": false },
+            { "option": "ipod", "flag": true }
+          ],
+          "pembahasan": "Era digital seperti MP3 dan iPod membuat penjualan kaset dan CD merosot karena orang lebih memilih mengunduh musik."
+        },
+        {
+          "pertanyaan": "Perbaikan industri rekaman salah satunya dilakukan dengan …",
+          "pilihan": [
+            { "option": "memberikan musik gratis ke radio", "flag": true },
+            {
+              "option": "memberikan rekaman gratis ke masyarakat",
+              "flag": false
+            },
+            { "option": "membuka tempat penyewaan", "flag": false },
+            { "option": "memberikan demo gratis", "flag": false }
+          ],
+          "pembahasan": "Industri rekaman memberi musik gratis ke radio untuk diputar agar meningkatkan popularitas dan penjualan."
+        },
+        {
+          "pertanyaan": "Vitascope dikembangkan dari …",
+          "pilihan": [
+            { "option": "stethoscope", "flag": false },
+            { "option": "kinetoscope", "flag": true },
+            { "option": "prismatoscope", "flag": false },
+            { "option": "endoscope", "flag": false }
+          ],
+          "pembahasan": "Kinetoscope dikembangkan menjadi vitascope, alat pemutar film untuk banyak penonton."
+        },
+        {
+          "pertanyaan": "“Vast wasteland” menurut Newton Minow berarti …",
+          "pilihan": [
+            { "option": "penonton terlibat produksi", "flag": false },
+            { "option": "banyak reality show", "flag": false },
+            {
+              "option": "penonton terjebak tayangan tidak informatif",
+              "flag": true
+            },
+            { "option": "penonton tidak tertarik TV", "flag": false }
+          ],
+          "pembahasan": "Istilah ini mengkritik televisi yang dipenuhi tayangan tidak mendidik sehingga dianggap 'gurun kosong' intelektual."
+        },
+        {
+          "pertanyaan": "Broadband adalah …",
+          "pilihan": [
+            {
+              "option": "internet cepat untuk distribusi channel khusus",
+              "flag": true
+            },
+            { "option": "layanan internet provider", "flag": false },
+            { "option": "jaringan ponsel", "flag": false },
+            { "option": "layanan komunikasi luas", "flag": false }
+          ],
+          "pembahasan": "Broadband adalah koneksi internet berkecepatan tinggi untuk distribusi banyak channel."
+        },
+        {
+          "pertanyaan": "Alternatif komunikasi yang ditawarkan TV kabel adalah …",
+          "pilihan": [
+            { "option": "MSO", "flag": false },
+            { "option": "DBS", "flag": false },
+            { "option": "LPTV", "flag": false },
+            { "option": "VOIP", "flag": true }
+          ],
+          "pembahasan": "TV kabel menawarkan layanan tambahan seperti VOIP (Voice over IP)."
+        },
+        {
+          "pertanyaan": "Kekuatan prosesor berlipat dua dengan biaya sama adalah hukum …",
+          "pilihan": [
+            { "option": "Moore", "flag": true },
+            { "option": "Newton", "flag": false },
+            { "option": "Coase", "flag": false },
+            { "option": "Metcalfe", "flag": false }
+          ],
+          "pembahasan": "Moore’s Law menyatakan transistor berlipat dua tiap 18 bulan sehingga komputer makin cepat tanpa kenaikan biaya signifikan."
+        },
+        {
+          "pertanyaan": "Inspirasi dari Moore’s Law adalah kesuksesan ditentukan oleh …",
+          "pilihan": [
+            { "option": "jaringan", "flag": false },
+            { "option": "efisien", "flag": false },
+            { "option": "kecepatan", "flag": true },
+            { "option": "efektif", "flag": false }
+          ],
+          "pembahasan": "Moore menekankan bahwa kecepatan pemrosesan dan layanan menentukan kemenangan kompetitif."
+        },
+        {
+          "pertanyaan": "Sumber inspirasi Metcalfe’s Law adalah pentingnya …",
+          "pilihan": [
+            { "option": "network", "flag": true },
+            { "option": "dataware", "flag": false },
+            { "option": "software", "flag": false },
+            { "option": "brainware", "flag": false }
+          ],
+          "pembahasan": "Metcalfe mengamati bahwa nilai jaringan meningkat drastis ketika semakin banyak node terhubung."
+        },
+        {
+          "pertanyaan": "Nilai guna komputer meningkat jika terhubung dengan …",
+          "pilihan": [
+            { "option": "printer", "flag": false },
+            { "option": "jaringan", "flag": true },
+            { "option": "manusia", "flag": false },
+            { "option": "software", "flag": false }
+          ],
+          "pembahasan": "Komputer jauh lebih berguna ketika terhubung ke jaringan daripada berdiri sendiri."
+        },
+        {
+          "pertanyaan": "Coase’s Law menghasilkan konsep …",
+          "pilihan": [
+            { "option": "efisiensi organisasi", "flag": true },
+            { "option": "efektivitas organisasi", "flag": false },
+            { "option": "jaringan organisasi", "flag": false },
+            { "option": "profit organisasi", "flag": false }
+          ],
+          "pembahasan": "Coase’s Law: biaya transaksi turun → organisasi mengecil → mendorong efisiensi organisasi."
+        },
+        {
+          "pertanyaan": "Pengurangan ukuran organisasi karena teknologi disebut …",
+          "pilihan": [
+            { "option": "rightsing", "flag": false },
+            { "option": "outsourcing", "flag": false },
+            { "option": "downsizing", "flag": true },
+            { "option": "recleaning", "flag": false }
+          ],
+          "pembahasan": "Downsizing membuat organisasi lebih ramping karena banyak pekerjaan digantikan teknologi."
+        },
+        {
+          "pertanyaan": "Bekerja sesuai kompetensi dalam organisasi disebut …",
+          "pilihan": [
+            { "option": "rightsing", "flag": true },
+            { "option": "outsourcing", "flag": false },
+            { "option": "downsizing", "flag": false },
+            { "option": "recleaning", "flag": false }
+          ],
+          "pembahasan": "Rightsizing memastikan pegawai bekerja sesuai kompetensi agar organisasi tetap efisien."
+        },
+        {
+          "pertanyaan": "Melibatkan pihak luar karena lebih murah disebut …",
+          "pilihan": [
+            { "option": "rightsing", "flag": false },
+            { "option": "outsourcing", "flag": true },
+            { "option": "downsizing", "flag": false },
+            { "option": "recleaning", "flag": false }
+          ],
+          "pembahasan": "Outsourcing menggunakan pihak luar ketika lebih murah dan lebih efisien."
+        }
+      ]
+    },
+    {
+      "id": "modul_3",
+      "title": "Sistem informasi dan internet",
+      "questions": [
+        {
+          "pertanyaan": "Sistem informasi adalah …",
+          "pilihan": [
+            {
+              "option": "Perangkat lunak untuk menjalankan komputer",
+              "flag": false
+            },
+            { "option": "Kumpulan fakta tanpa hubungan", "flag": false },
+            {
+              "option": "Interaksi terpadu antara people, hardware, software, data, dan network",
+              "flag": true
+            },
+            {
+              "option": "Program yang digunakan untuk mengetik dokumen",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Sistem informasi adalah interaksi lima komponen—people, hardware, software, data, network—yang bekerja mengolah data menjadi informasi."
+        },
+        {
+          "pertanyaan": "Yang termasuk sumber daya sistem informasi adalah …",
+          "pilihan": [
+            { "option": "Printer", "flag": false },
+            {
+              "option": "Operator, hardware, software, data, network",
+              "flag": true
+            },
+            { "option": "Manusia dan buku", "flag": false },
+            { "option": "Kabel jaringan saja", "flag": false }
+          ],
+          "pembahasan": "Sumber daya SI terdiri dari five resources: people, hardware, software, data, network."
+        },
+        {
+          "pertanyaan": "Perbedaan pengguna akhir (end user) dan sistem spesialis adalah …",
+          "pilihan": [
+            {
+              "option": "End user membangun sistem; spesialis hanya memakai",
+              "flag": false
+            },
+            {
+              "option": "End user menggunakan sistem; spesialis membangun & mengelola sistem",
+              "flag": true
+            },
+            {
+              "option": "End user membuat database; spesialis menulis laporan",
+              "flag": false
+            },
+            { "option": "Tidak ada perbedaan", "flag": false }
+          ],
+          "pembahasan": "End-user memakai sistem untuk pekerjaannya; system specialist (programmer, analis, operator) membangun dan merawat sistem."
+        },
+        {
+          "pertanyaan": "Kategori utama hardware dalam sistem informasi meliputi …",
+          "pilihan": [
+            { "option": "Input, output, storage", "flag": true },
+            { "option": "CPU, GPU, PSU", "flag": false },
+            { "option": "Scanner, WiFi, modem", "flag": false },
+            { "option": "Keyboard dan mouse saja", "flag": false }
+          ],
+          "pembahasan": "Modul membagi hardware menjadi input device, output device, dan storage device."
+        },
+        {
+          "pertanyaan": "Perbedaan program sistem dan program aplikasi adalah …",
+          "pilihan": [
+            {
+              "option": "Sistem dipakai user; aplikasi dipakai komputer",
+              "flag": false
+            },
+            {
+              "option": "Aplikasi untuk mengatur hardware; sistem untuk mengetik",
+              "flag": false
+            },
+            {
+              "option": "Program sistem mengendalikan komputer; aplikasi digunakan untuk tugas tertentu",
+              "flag": true
+            },
+            { "option": "Keduanya sama saja", "flag": false }
+          ],
+          "pembahasan": "Program sistem mengontrol komputer (OS & utilities), aplikasi digunakan untuk tugas tertentu seperti Word atau browser."
+        },
+        {
+          "pertanyaan": "Dalam konteks SI, data dan network berarti …",
+          "pilihan": [
+            { "option": "Data = suara; network = telepon", "flag": false },
+            {
+              "option": "Data = fakta hasil pengukuran; network = media pertukaran data",
+              "flag": true
+            },
+            { "option": "Data = informasi; network = komputer", "flag": false },
+            { "option": "Data = file; network = WiFi saja", "flag": false }
+          ],
+          "pembahasan": "Data adalah fakta hasil pengamatan/transaksi; network adalah media dan aturan untuk pertukaran data."
+        },
+        {
+          "pertanyaan": "Aktivitas sistem informasi meliputi …",
+          "pilihan": [
+            {
+              "option": "Input, proses, output, storage, control",
+              "flag": true
+            },
+            { "option": "Install software saja", "flag": false },
+            { "option": "Mengetik & mencetak", "flag": false },
+            { "option": "Backup harddisk saja", "flag": false }
+          ],
+          "pembahasan": "Aktivitas inti SI: input, processing, output, storage, and control."
+        },
+        {
+          "pertanyaan": "Informasi dikatakan baik apabila memenuhi dimensi …",
+          "pilihan": [
+            { "option": "Banyak kata", "flag": false },
+            { "option": "Bentuk, warna saja", "flag": false },
+            { "option": "Waktu, isi, dan bentuk", "flag": true },
+            { "option": "Hanya cepat", "flag": false }
+          ],
+          "pembahasan": "Kualitas informasi diukur dari dimension of time, content, and form."
+        },
+        {
+          "pertanyaan": "Informasi apa saja yang terdapat dalam internet?",
+          "pilihan": [
+            { "option": "Hanya hiburan", "flag": false },
+            { "option": "Semua bentuk dokumen pemerintah", "flag": false },
+            {
+              "option": "Penerbitan elektronik, hiburan, permainan, portal, search engine, komunitas, blog, e-commerce",
+              "flag": true
+            },
+            { "option": "Hanya penjualan barang", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut 8 kategori informasi: e-publishing, entertainment, games, portal, search engine, community, blog, e-commerce."
+        },
+        {
+          "pertanyaan": "Tujuan pemerintah membuat situs internet adalah …",
+          "pilihan": [
+            { "option": "Menjual produk digital", "flag": false },
+            { "option": "Mengurangi biaya gaji", "flag": false },
+            {
+              "option": "Membangun citra, pelayanan publik, menarik investor & pariwisata",
+              "flag": true
+            },
+            { "option": "Menggantikan televisi", "flag": false }
+          ],
+          "pembahasan": "Situs pemerintah digunakan untuk citra daerah, pelayanan publik, promosi investasi dan pariwisata."
+        },
+        {
+          "pertanyaan": "Cara menikmati musik di internet adalah …",
+          "pilihan": [
+            { "option": "Hanya via radio", "flag": false },
+            { "option": "Tidak bisa", "flag": false },
+            { "option": "Legal sharing & illegal/free sharing", "flag": true },
+            { "option": "Hanya melalui CD virtual", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut dua jalur: legal (berbayar) dan illegal/free download."
+        },
+        {
+          "pertanyaan": "Perbedaan permainan online dengan radio/film/musik adalah …",
+          "pilihan": [
+            { "option": "Game lebih mahal", "flag": false },
+            { "option": "Game bersifat interaktif", "flag": true },
+            { "option": "Radio lebih cepat", "flag": false },
+            { "option": "Tidak ada perbedaan", "flag": false }
+          ],
+          "pembahasan": "Permainan online bersifat interaktif dan melibatkan pemain lain, berbeda dengan hiburan pasif."
+        },
+        {
+          "pertanyaan": "Portal adalah …",
+          "pilihan": [
+            { "option": "Blog pribadi", "flag": false },
+            { "option": "Situs pencari iklan", "flag": false },
+            {
+              "option": "Situs gabungan direktori, informasi, komunikasi (launch pad)",
+              "flag": true
+            },
+            { "option": "Hanya tempat berita", "flag": false }
+          ],
+          "pembahasan": "Portal adalah launch pad internet: gabungan direktori, tools personal, email, chat, dan informasi."
+        },
+        {
+          "pertanyaan": "Blog adalah …",
+          "pilihan": [
+            { "option": "Situs perusahaan", "flag": false },
+            { "option": "Editorial digital berbayar", "flag": false },
+            {
+              "option": "Gabungan halaman pribadi, diary, direktori online, editorial",
+              "flag": true
+            },
+            { "option": "File yang tidak bisa diedit", "flag": false }
+          ],
+          "pembahasan": "Blog adalah weblog: campuran diary, opini, halaman pribadi, dan direktori online."
+        },
+        {
+          "pertanyaan": "Bentuk e-commerce yang banyak terdapat di internet adalah …",
+          "pilihan": [
+            { "option": "B2C, B2B, marketplace, jasa online", "flag": true },
+            { "option": "Penjualan TV", "flag": false },
+            { "option": "Penjualan kaset", "flag": false },
+            { "option": "Sistem perbankan saja", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut bentuk e-commerce: B2C, B2B, marketplace/lelang, serta layanan online seperti travel dan hotel."
+        },
+        {
+          "pertanyaan": "Orang yang menggunakan sistem informasi, baik individu maupun organisasi, disebut …",
+          "pilihan": [
+            { "option": "end user", "flag": true },
+            { "option": "spesialis", "flag": false },
+            { "option": "pengelola", "flag": false },
+            { "option": "administrasi", "flag": false }
+          ],
+          "pembahasan": "End user adalah pihak yang menggunakan atau memproduksi informasi dalam sistem informasi."
+        },
+        {
+          "pertanyaan": "Berikut yang bukan sumber daya sistem informasi adalah …",
+          "pilihan": [
+            { "option": "hardware", "flag": false },
+            { "option": "software", "flag": false },
+            { "option": "data", "flag": false },
+            { "option": "informasi", "flag": true }
+          ],
+          "pembahasan": "Sumber daya SI terdiri dari people, hardware, software, data, dan network. Informasi adalah keluaran, bukan sumber daya."
+        },
+        {
+          "pertanyaan": "Seperangkat instruksi dalam pemrosesan informasi disebut …",
+          "pilihan": [
+            { "option": "hardware", "flag": false },
+            { "option": "software", "flag": true },
+            { "option": "data", "flag": false },
+            { "option": "informasi", "flag": false }
+          ],
+          "pembahasan": "Software adalah instruksi/perintah yang mengatur pemrosesan data menjadi informasi."
+        },
+        {
+          "pertanyaan": "Berikut adalah aktivitas sistem informasi, kecuali …",
+          "pilihan": [
+            { "option": "input", "flag": false },
+            { "option": "pembuangan", "flag": true },
+            { "option": "output", "flag": false },
+            { "option": "simpan", "flag": false }
+          ],
+          "pembahasan": "Aktivitas SI adalah input, processing, output, storage, dan control. Tidak ada aktivitas pembuangan."
+        },
+        {
+          "pertanyaan": "Informasi harus up-to-date; berarti bersifat …",
+          "pilihan": [
+            { "option": "timeless", "flag": false },
+            { "option": "currency", "flag": true },
+            { "option": "frequency", "flag": false },
+            { "option": "time period", "flag": false }
+          ],
+          "pembahasan": "Currency berarti informasi mutakhir dan tidak usang."
+        },
+        {
+          "pertanyaan": "Informasi dikatakan baik apabila bebas dari kesalahan. Ini disebut …",
+          "pilihan": [
+            { "option": "accuracy", "flag": true },
+            { "option": "relevance", "flag": false },
+            { "option": "completeness", "flag": false },
+            { "option": "conciseness", "flag": false }
+          ],
+          "pembahasan": "Accuracy berarti informasi tepat, akurat, dan bebas dari error."
+        },
+        {
+          "pertanyaan": "Dalam dimensi bentuk, informasi dikatakan baik apabila disusun berurutan. Ini disebut …",
+          "pilihan": [
+            { "option": "clarity", "flag": false },
+            { "option": "detail", "flag": false },
+            { "option": "order", "flag": true },
+            { "option": "presentation", "flag": false }
+          ],
+          "pembahasan": "Order berarti informasi disajikan secara berurutan atau logis."
+        },
+        {
+          "pertanyaan": "Online games adalah bentuk hiburan dengan penekanan pada unsur …",
+          "pilihan": [
+            { "option": "interaktif", "flag": true },
+            { "option": "complete", "flag": false },
+            { "option": "masif", "flag": false },
+            { "option": "networking", "flag": false }
+          ],
+          "pembahasan": "Game online berbeda dari hiburan lain karena bersifat interaktif."
+        },
+        {
+          "pertanyaan": "Yang biasanya ditampilkan dalam e-commerce adalah …",
+          "pilihan": [
+            { "option": "brosur", "flag": false },
+            { "option": "katalog", "flag": true },
+            { "option": "weblog", "flag": false },
+            { "option": "YouTube", "flag": false }
+          ],
+          "pembahasan": "E-commerce B2C menampilkan katalog online sebagai bentuk utama layanan."
+        },
+        {
+          "pertanyaan": "Bentuk gabungan halaman pribadi, diary, direktori online, editorial disebut …",
+          "pilihan": [
+            { "option": "web", "flag": false },
+            { "option": "jaringan", "flag": false },
+            { "option": "jaringan sosial", "flag": false },
+            { "option": "blog", "flag": true }
+          ],
+          "pembahasan": "Blog adalah gabungan personal page, diary, editorial, dan direktori kecil."
+        },
+        {
+          "pertanyaan": "Permainan online yang melibatkan banyak pengguna dalam role-playing virtual adalah …",
+          "pilihan": [
+            { "option": "MUDs", "flag": false },
+            { "option": "MMO", "flag": false },
+            { "option": "MMORPGs", "flag": true },
+            { "option": "MUDs (duplikat)", "flag": false }
+          ],
+          "pembahasan": "MMORPG adalah Massively Multiplayer Online Role Playing Games."
+        },
+        {
+          "pertanyaan": "Ensiklopedia online gratis yang diperbaiki oleh penggunanya adalah …",
+          "pilihan": [
+            { "option": "wikipedia", "flag": true },
+            { "option": "encyclopedia", "flag": false },
+            { "option": "dictionary", "flag": false },
+            { "option": "directory", "flag": false }
+          ],
+          "pembahasan": "Wikipedia adalah ensiklopedia kolaboratif berbasis user-generated content."
+        }
+      ]
+    },
+    {
+      "id": "modul_4",
+      "title": "Internet sebagai teknologi sosial",
+      "questions": [
+        {
+          "pertanyaan": "Kepanjangan dari CMC adalah ....",
+          "pilihan": [
+            { "option": "Cooperation Mediated Computer", "flag": false },
+            { "option": "Computer Mediated Communication", "flag": true },
+            { "option": "Communication Mediated Computer", "flag": false },
+            { "option": "Coordination Media and Communication", "flag": false }
+          ],
+          "pembahasan": "CMC adalah Computer Mediated Communication, yaitu komunikasi yang dipisahkan oleh teknologi."
+        },
+        {
+          "pertanyaan": "CMC tidak dapat dihindari karena ....",
+          "pilihan": [
+            { "option": "teknologi informasi berkembang pesat", "flag": false },
+            {
+              "option": "manusia berada di jarak yang saling berjauhan",
+              "flag": false
+            },
+            {
+              "option": "manusia mencoba mengubah human behavior-nya",
+              "flag": true
+            },
+            {
+              "option": "manusia lebih suka berkomunikasi lewat internet",
+              "flag": false
+            }
+          ],
+          "pembahasan": "CMC dipelajari karena mengubah human behaviour dan sudah menjadi bagian hidup manusia."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah berkomunikasi dengan metode CMC, kecuali ....",
+          "pilihan": [
+            { "option": "Electronic E-mail", "flag": false },
+            { "option": "Bulletin Board System", "flag": false },
+            { "option": "Bulletin Sysyem Board", "flag": true },
+            { "option": "Multiuser Domain", "flag": false }
+          ],
+          "pembahasan": "Bulletin Sysyem Board tidak ada; yang benar adalah Bulletin Board System (BBS)."
+        },
+        {
+          "pertanyaan": "CMC tidak hanya berbicara tentang teknologi ... namun juga ....",
+          "pilihan": [
+            {
+              "option": "perubahan tingkah laku manusia akibat adanya teknologi",
+              "flag": true
+            },
+            { "option": "proses pembuatan komputer", "flag": false },
+            {
+              "option": "pengaruh CMC terhadap perkembangan teknologi internet",
+              "flag": false
+            },
+            {
+              "option": "pengaruh komputer terhadap kemampuan berbicara",
+              "flag": false
+            }
+          ],
+          "pembahasan": "CMC juga membahas perubahan perilaku manusia dalam berkomunikasi akibat teknologi."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah dimensi penting WWW dalam CMC, kecuali ....",
+          "pilihan": [
+            { "option": "daya hibur", "flag": false },
+            { "option": "pilihan", "flag": false },
+            {
+              "option": "memudahkan user mengembangkan pengetahuan CMC",
+              "flag": true
+            },
+            { "option": "daya sambung", "flag": false }
+          ],
+          "pembahasan": "Dimensi WWW: daya hibur, pilihan, daya sambung, koleksi informasi, komunikasi timbal balik. Pilihan C tidak termasuk."
+        },
+        {
+          "pertanyaan": "Di bawah ini perubahan human behavior karena CMC ....",
+          "pilihan": [
+            {
+              "option": "anak lebih suka menghabiskan waktu chatting",
+              "flag": true
+            },
+            { "option": "berdiskusi di Facebook", "flag": false },
+            { "option": "kuliah jarak jauh", "flag": false },
+            { "option": "kuliah face to face", "flag": false }
+          ],
+          "pembahasan": "Modul memberi contoh degradasi komunikasi: orang menghabiskan waktu untuk chatting dan mengurangi interaksi langsung."
+        },
+        {
+          "pertanyaan": "Sifat dari MUD hingga menjadi elemen CMC adalah pengguna bisa ....",
+          "pilihan": [
+            {
+              "option": "bermain game dengan siapa pun yang terkoneksi",
+              "flag": true
+            },
+            { "option": "bisa mengakses search engine", "flag": false },
+            { "option": "berkomunikasi", "flag": false },
+            { "option": "meng-upload game", "flag": false }
+          ],
+          "pembahasan": "MUD adalah permainan interaktif multiplayer yang memungkinkan pengguna terhubung dan bermain bersama."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah kegunaan IRC, kecuali ....",
+          "pilihan": [
+            { "option": "berkirim pesan langsung", "flag": false },
+            { "option": "berkirim foto", "flag": false },
+            { "option": "berkomunikasi via e-mail", "flag": true },
+            { "option": "bermain game sambil berkirim pesan", "flag": false }
+          ],
+          "pembahasan": "IRC adalah platform chat instan, bukan untuk mengirim email."
+        },
+        {
+          "pertanyaan": "Kata cyber dalam cyberspace berasal dari bahasa Yunani yang berarti ....",
+          "pilihan": [
+            { "option": "mengontrol", "flag": true },
+            { "option": "memberi ruang", "flag": false },
+            { "option": "berselancar", "flag": false },
+            { "option": "memberi perlindungan", "flag": false }
+          ],
+          "pembahasan": "Cyber berasal dari kata 'kubernetes', artinya mengontrol."
+        },
+        {
+          "pertanyaan": "Howard Rheingold mendefinisikan cyberspace sebagai ....",
+          "pilihan": [
+            { "option": "konsep membangun kepercayaan", "flag": false },
+            {
+              "option": "konsep hubungan manusia, data, kekuatan dimanifestasikan lewat CMC",
+              "flag": true
+            },
+            { "option": "konsep dunia tidak terlihat", "flag": false },
+            { "option": "konsep software", "flag": false }
+          ],
+          "pembahasan": "Menurut Rheingold, cyberspace memadukan hubungan manusia, data, kata, dan kekuatan melalui CMC."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah bentuk virtual community, yaitu ....",
+          "pilihan": [
+            { "option": "situs jejaring sosial", "flag": false },
+            { "option": "BBS", "flag": true },
+            { "option": "portal", "flag": false },
+            { "option": "yahoo group", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut komunitas maya paling awal adalah BBS."
+        },
+        {
+          "pertanyaan": "Sistem komunikasi yang menawarkan teks, grafik, suara, video, animasi adalah ....",
+          "pilihan": [
+            { "option": "packet-switching", "flag": false },
+            { "option": "interactivity", "flag": false },
+            { "option": "multimedia", "flag": true },
+            { "option": "syncronity", "flag": false }
+          ],
+          "pembahasan": "Multimedia memadukan teks, audio, video, animasi dalam komunikasi online."
+        },
+        {
+          "pertanyaan": "Contoh karakter multimedia pada komunikasi online adalah ....",
+          "pilihan": [
+            { "option": "memberikan feedback", "flag": false },
+            { "option": "membawa pesan singkat", "flag": false },
+            { "option": "membawa pesan volume besar", "flag": false },
+            {
+              "option": "membawa pesan audio visual, teks, gambar, foto",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Multimedia adalah kombinasi audio, visual, gambar, dan teks."
+        },
+        {
+          "pertanyaan": "Contoh aplikasi interactivity adalah ....",
+          "pilihan": [
+            { "option": "chatting dengan feedback langsung", "flag": true },
+            { "option": "search engine", "flag": false },
+            { "option": "portal berita", "flag": false },
+            { "option": "Facebook untuk share foto", "flag": false }
+          ],
+          "pembahasan": "Interactivity membutuhkan feedback dua arah secara langsung, seperti chatting."
+        },
+        {
+          "pertanyaan": "Berikut ini karakter komunikasi online, kecuali ....",
+          "pilihan": [
+            { "option": "multimedia", "flag": false },
+            { "option": "interactivity", "flag": false },
+            { "option": "syncronity", "flag": false },
+            { "option": "tersegmentasi", "flag": true }
+          ],
+          "pembahasan": "Karakter komunikasi online: packet switching, multimedia, interactivity, syncronity, hypertextuality. Tidak ada 'tersegmentasi'."
+        },
+        {
+          "pertanyaan": "Jika ada kata yang terhubung ke halaman lain, itu disebut ....",
+          "pilihan": [
+            { "option": "virtual word", "flag": false },
+            { "option": "hypertext", "flag": true },
+            { "option": "cybertex", "flag": false },
+            { "option": "hyperspace", "flag": false }
+          ],
+          "pembahasan": "Hypertext adalah teks yang menghubungkan ke informasi lain."
+        },
+        {
+          "pertanyaan": "Kepanjangan dari CMC adalah ...",
+          "pilihan": [
+            { "option": "Cooperation Mediated Computer", "flag": false },
+            { "option": "Computer Mediated Communication", "flag": true },
+            { "option": "Communication Mediated Computer", "flag": false },
+            { "option": "Coordination Media and Communication", "flag": false }
+          ],
+          "pembahasan": "CMC adalah Computer Mediated Communication, komunikasi yang berlangsung melalui perantara teknologi."
+        },
+        {
+          "pertanyaan": "CMC tidak dapat dihindari karena ...",
+          "pilihan": [
+            { "option": "teknologi berkembang cepat", "flag": false },
+            { "option": "manusia berjauhan", "flag": false },
+            {
+              "option": "manusia mencoba mengubah human behavior-nya",
+              "flag": true
+            },
+            {
+              "option": "manusia lebih suka komunikasi internet",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Alasan utama mempelajari CMC adalah perubahan perilaku manusia dalam berkomunikasi akibat teknologi."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah metode CMC, kecuali ...",
+          "pilihan": [
+            { "option": "E-mail", "flag": false },
+            { "option": "Bulletin Board System", "flag": false },
+            { "option": "Bulletin Sysyem Board", "flag": true },
+            { "option": "Multiuser Domain", "flag": false }
+          ],
+          "pembahasan": "Yang benar adalah BBS (Bulletin Board System). 'Bulletin Sysyem Board' tidak ada."
+        },
+        {
+          "pertanyaan": "CMC tidak hanya membahas teknologi, tetapi juga ...",
+          "pilihan": [
+            {
+              "option": "perubahan tingkah laku manusia akibat teknologi komunikasi",
+              "flag": true
+            },
+            { "option": "pembuatan komputer", "flag": false },
+            { "option": "pengaruh internet", "flag": false },
+            { "option": "kemampuan berbicara manusia", "flag": false }
+          ],
+          "pembahasan": "CMC mengkaji perubahan perilaku manusia, termasuk distorsi komunikasi dan pola interaksi baru."
+        },
+        {
+          "pertanyaan": "Dimensi WWW dalam CMC, kecuali ...",
+          "pilihan": [
+            { "option": "daya hibur", "flag": false },
+            { "option": "pilihan", "flag": false },
+            {
+              "option": "memudahkan user mengembangkan pengetahuan CMC",
+              "flag": true
+            },
+            { "option": "daya sambung", "flag": false }
+          ],
+          "pembahasan": "Dimensi WWW: daya hibur, pilihan, daya sambung, informasi, dan komunikasi timbal balik. Opsi C tidak termasuk."
+        },
+        {
+          "pertanyaan": "Perubahan human behavior akibat CMC adalah ...",
+          "pilihan": [
+            { "option": "anak lebih suka chatting", "flag": false },
+            { "option": "berdiskusi menggunakan Facebook", "flag": true },
+            { "option": "kuliah jarak jauh", "flag": false },
+            { "option": "kuliah tatap muka", "flag": false }
+          ],
+          "pembahasan": "Ruang diskusi online seperti Facebook menggantikan interaksi langsung dan mengubah pola sosial."
+        },
+        {
+          "pertanyaan": "Sifat MUD sebagai elemen CMC adalah pengguna bisa ...",
+          "pilihan": [
+            {
+              "option": "bermain game dengan siapa pun yang terkoneksi",
+              "flag": true
+            },
+            { "option": "mengakses search engine", "flag": false },
+            { "option": "chatting saja", "flag": false },
+            { "option": "upload game", "flag": false }
+          ],
+          "pembahasan": "MUD adalah permainan online multiuser yang memungkinkan pengguna berinteraksi dengan siapa pun yang terkoneksi."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah kegunaan IRC, kecuali ...",
+          "pilihan": [
+            { "option": "pesan langsung", "flag": false },
+            { "option": "kirim foto", "flag": false },
+            { "option": "email", "flag": false },
+            { "option": "bermain game sambil berkirim pesan", "flag": true }
+          ],
+          "pembahasan": "IRC adalah chat berbasis teks real-time, tidak digunakan untuk bermain game bersama."
+        },
+        {
+          "pertanyaan": "Kata “cyber” dari “kubernetes” berarti ...",
+          "pilihan": [
+            { "option": "mengontrol", "flag": true },
+            { "option": "memberi ruang", "flag": false },
+            { "option": "berselancar", "flag": false },
+            { "option": "perlindungan", "flag": false }
+          ],
+          "pembahasan": "Cyber berasal dari kata Yunani 'kubernetes' yang berarti mengontrol."
+        },
+        {
+          "pertanyaan": "Menurut Rheingold, cyberspace adalah ...",
+          "pilihan": [
+            { "option": "ruang membangun kepercayaan", "flag": false },
+            {
+              "option": "kata, hubungan manusia, data, kekayaan, kekuatan dimanifestasikan lewat CMC",
+              "flag": true
+            },
+            { "option": "dunia khayalan", "flag": false },
+            { "option": "software yang saling berbicara", "flag": false }
+          ],
+          "pembahasan": "Rheingold menekankan interaksi manusia, data, kekuasaan yang diwujudkan melalui CMC."
+        },
+        {
+          "pertanyaan": "Bentuk virtual community adalah ...",
+          "pilihan": [
+            { "option": "situs sosial", "flag": false },
+            { "option": "BBS", "flag": true },
+            { "option": "portal", "flag": false },
+            { "option": "Yahoo Group", "flag": false }
+          ],
+          "pembahasan": "Komunitas maya paling awal menurut modul adalah BBS."
+        },
+        {
+          "pertanyaan": "Sistem komunikasi dengan teks, grafik, suara, video, animasi adalah ...",
+          "pilihan": [
+            { "option": "packet switching", "flag": false },
+            { "option": "interactivity", "flag": false },
+            { "option": "multimedia", "flag": true },
+            { "option": "syncronity", "flag": false }
+          ],
+          "pembahasan": "Multimedia menggabungkan teks, audio, visual, gambar, dan animasi."
+        },
+        {
+          "pertanyaan": "Contoh karakter multimedia adalah ...",
+          "pilihan": [
+            { "option": "feedback langsung", "flag": false },
+            { "option": "pesan singkat", "flag": false },
+            { "option": "pesan besar", "flag": false },
+            { "option": "audio visual + teks + gambar + foto", "flag": true }
+          ],
+          "pembahasan": "Multimedia adalah kombinasi audiovisual, teks, gambar, dan foto."
+        },
+        {
+          "pertanyaan": "Contoh aplikasi interactivity adalah ...",
+          "pilihan": [
+            { "option": "chatting dengan feedback langsung", "flag": true },
+            { "option": "search engine", "flag": false },
+            { "option": "portal", "flag": false },
+            { "option": "Facebook untuk sharing foto", "flag": false }
+          ],
+          "pembahasan": "Interactivity paling jelas terlihat dalam chatting yang memberikan feedback dua arah secara langsung."
+        },
+        {
+          "pertanyaan": "Karakter komunikasi online kecuali ...",
+          "pilihan": [
+            { "option": "multimedia", "flag": false },
+            { "option": "interactivity", "flag": false },
+            { "option": "syncronity", "flag": false },
+            { "option": "tersegmentasi", "flag": true }
+          ],
+          "pembahasan": "Karakter komunikasi online: packet switching, multimedia, interactivity, syncronity, hypertextuality."
+        },
+        {
+          "pertanyaan": "Kata dalam halaman web yang terhubung ke halaman lain disebut ...",
+          "pilihan": [
+            { "option": "virtual word", "flag": false },
+            { "option": "hypertext", "flag": true },
+            { "option": "cybertex", "flag": false },
+            { "option": "hyperspace", "flag": false }
+          ],
+          "pembahasan": "Hypertext adalah teks yang dapat diklik dan mengarah ke halaman/informasi lain."
+        }
+      ]
+    },
+    {
+      "id": "modul_5",
+      "title": "Pengaruh internet terhadap linguistik",
+      "questions": [
+        {
+          "pertanyaan": "Perbedaan utama media tradisional dan media baru adalah …",
+          "pilihan": [
+            {
+              "option": "Media tradisional bersifat interaktif, media baru tidak",
+              "flag": false
+            },
+            {
+              "option": "Media baru bersifat satu arah seperti TV",
+              "flag": false
+            },
+            {
+              "option": "Media tradisional satu arah; media baru interaktif, cepat, dan multimedia",
+              "flag": true
+            },
+            { "option": "Keduanya sama saja", "flag": false }
+          ],
+          "pembahasan": "Media tradisional bersifat satu arah, sedangkan media baru bersifat interaktif, cepat (immediacy), dan multimedia."
+        },
+        {
+          "pertanyaan": "Pengaruh kemunculan media baru bagi jurnalistik adalah …",
+          "pilihan": [
+            { "option": "Mengurangi jumlah berita", "flag": false },
+            { "option": "Membuat berita menjadi lambat", "flag": false },
+            {
+              "option": "Melahirkan online journalism & citizen journalism",
+              "flag": true
+            },
+            { "option": "Menghilangkan kebutuhan verifikasi", "flag": false }
+          ],
+          "pembahasan": "Media baru membuat berita real-time dan membuka ruang partisipasi publik sehingga muncul online & citizen journalism."
+        },
+        {
+          "pertanyaan": "Citizen journalism adalah …",
+          "pilihan": [
+            {
+              "option": "Jurnalisme yang hanya dilakukan oleh reporter TV",
+              "flag": false
+            },
+            { "option": "Jurnalisme berbasis studio", "flag": false },
+            {
+              "option": "Jurnalisme oleh warga biasa yang memproduksi & menyebar berita online",
+              "flag": true
+            },
+            { "option": "Jurnalisme yang memerlukan lisensi", "flag": false }
+          ],
+          "pembahasan": "Warga dapat memproduksi berita melalui blog, media sosial, video online, dan platform lainnya."
+        },
+        {
+          "pertanyaan": "Kekuatan media baru menurut McQuail adalah …",
+          "pilihan": [
+            { "option": "Satu arah, lambat, dan statis", "flag": false },
+            { "option": "Tidak bisa di-update", "flag": false },
+            {
+              "option": "Interactivity, immediacy, multimedia, nonlinearity",
+              "flag": true
+            },
+            { "option": "Tidak mendukung partisipasi", "flag": false }
+          ],
+          "pembahasan": "Empat kekuatan media baru: interactivity, immediacy, multimedia, dan nonlinearity."
+        },
+        {
+          "pertanyaan": "Penyebab bangkrutnya media cetak di Amerika adalah …",
+          "pilihan": [
+            { "option": "Pembaca suka membaca koran fisik", "flag": false },
+            { "option": "Harga koran naik", "flag": false },
+            {
+              "option": "Pembaca pindah ke berita online yang cepat & gratis",
+              "flag": true
+            },
+            { "option": "Tidak ada wartawan", "flag": false }
+          ],
+          "pembahasan": "Banyak koran tutup karena pembaca AS beralih ke media online yang cepat dan gratis."
+        },
+        {
+          "pertanyaan": "Apakah jurnalis tradisional dapat dikalahkan jurnalis online?",
+          "pilihan": [
+            { "option": "Tidak mungkin", "flag": false },
+            {
+              "option": "Bisa, karena kecepatan & partisipasi publik meningkat",
+              "flag": true
+            },
+            { "option": "Online tidak punya pengaruh", "flag": false },
+            { "option": "Tidak relevan", "flag": false }
+          ],
+          "pembahasan": "Citizen journalism sering menjadi sumber pertama dalam peristiwa besar sehingga dapat menandingi kecepatan jurnalis tradisional."
+        },
+        {
+          "pertanyaan": "BBC menyikapi citizen journalism dengan …",
+          "pilihan": [
+            { "option": "Menolaknya", "flag": false },
+            { "option": "Menganggap tidak valid", "flag": false },
+            {
+              "option": "Berkolaborasi: menerima foto/video/email warga & melatih mereka",
+              "flag": true
+            },
+            { "option": "Melarang kiriman publik", "flag": false }
+          ],
+          "pembahasan": "BBC aktif menerima ribuan kiriman warga saat peristiwa besar dan memasukkannya ke liputan resmi."
+        },
+        {
+          "pertanyaan": "Perkembangan citizen journalism di Indonesia ditandai oleh …",
+          "pilihan": [
+            { "option": "Tidak ada partisipasi publik", "flag": false },
+            { "option": "Jurnalis hanya datang dari TV", "flag": false },
+            {
+              "option": "Blog/video warga menjadi sumber berita besar (tsunami Aceh, bom Jakarta)",
+              "flag": true
+            },
+            { "option": "Tidak digunakan oleh media", "flag": false }
+          ],
+          "pembahasan": "Peristiwa besar seperti tsunami Aceh pertama kali terdokumentasi oleh warga biasa."
+        },
+        {
+          "pertanyaan": "Pengaruh media online terhadap news gathering adalah …",
+          "pilihan": [
+            { "option": "Menghapus kebutuhan reporter", "flag": false },
+            { "option": "Menghilangkan verifikasi", "flag": false },
+            {
+              "option": "Menghadirkan CAR: jurnalis memanfaatkan data online untuk analisis",
+              "flag": true
+            },
+            { "option": "Tidak berdampak", "flag": false }
+          ],
+          "pembahasan": "CAR (Computer Assisted Reporting) meningkatkan kemampuan investigasi dan analisis data."
+        },
+        {
+          "pertanyaan": "Computer Assisted Reporting (CAR) adalah …",
+          "pilihan": [
+            { "option": "Menulis berita manual", "flag": false },
+            { "option": "Merekam video", "flag": false },
+            {
+              "option": "Teknik peliputan berbasis komputer & internet untuk analisis data",
+              "flag": true
+            },
+            { "option": "Membuat grafik saja", "flag": false }
+          ],
+          "pembahasan": "CAR memanfaatkan software, database, dan internet untuk mengolah data jurnalistik."
+        },
+        {
+          "pertanyaan": "Dilema media online adalah …",
+          "pilihan": [
+            { "option": "Tidak ada jurnalis", "flag": false },
+            {
+              "option": "Benturan etika karena aturan online tidak sejelas media tradisional",
+              "flag": true
+            },
+            { "option": "Semua berita pasti salah", "flag": false },
+            { "option": "Tidak ada pembaca", "flag": false }
+          ],
+          "pembahasan": "Masalah etika muncul dalam isu privasi, hak cipta, plagiarisme, dan verifikasi online."
+        },
+        {
+          "pertanyaan": "Contoh dilema digital saat membuat berita adalah …",
+          "pilihan": [
+            { "option": "Reporter datang ke lokasi", "flag": false },
+            {
+              "option": "Mengambil foto/video dari blog tanpa izin pemilik",
+              "flag": true
+            },
+            { "option": "Menulis ulang rilis resmi", "flag": false },
+            { "option": "Melakukan wawancara langsung", "flag": false }
+          ],
+          "pembahasan": "Mengambil konten warga tanpa izin merupakan pelanggaran etika digital."
+        },
+        {
+          "pertanyaan": "Termasuk kode etik CNET adalah …",
+          "pilihan": [
+            { "option": "Semua berita harus promosi produk", "flag": false },
+            { "option": "Tidak perlu menyebut sumber", "flag": false },
+            {
+              "option": "Iklan harus diberi label & memisahkan editorial dari iklan",
+              "flag": true
+            },
+            {
+              "option": "Tidak boleh mengkritik perusahaan teknologi",
+              "flag": false
+            }
+          ],
+          "pembahasan": "CNET menjunjung integritas editorial dan pemisahan tegas antara iklan dan berita."
+        },
+        {
+          "pertanyaan": "Prinsip utama ONA adalah …",
+          "pilihan": [
+            { "option": "Memperbanyak klik", "flag": false },
+            {
+              "option": "Editorial integrity & editorial independence",
+              "flag": true
+            },
+            { "option": "Semua berita harus sensasional", "flag": false },
+            { "option": "Tidak perlu objektivitas", "flag": false }
+          ],
+          "pembahasan": "ONA menekankan fairness, accuracy, objectivity, transparency, dan independence."
+        },
+        {
+          "pertanyaan": "Apakah jurnalis online memiliki kode etik sama dengan tradisional?",
+          "pilihan": [
+            { "option": "Sama persis", "flag": false },
+            { "option": "Tidak ada etika online", "flag": false },
+            {
+              "option": "Prinsipnya sama, tetapi ada tambahan aturan digital seperti hyperlink, hak cipta, kecepatan koreksi",
+              "flag": true
+            },
+            { "option": "Sangat berbeda", "flag": false }
+          ],
+          "pembahasan": "Etika inti sama, tetapi media online memiliki aturan tambahan terkait digital."
+        },
+        {
+          "pertanyaan": "Agar tidak melanggar etika saat memakai video YouTube warga, produser harus …",
+          "pilihan": [
+            { "option": "Mengedit tanpa izin", "flag": false },
+            { "option": "Mengambil diam-diam", "flag": false },
+            {
+              "option": "Meminta izin, memberi kredit, dan memverifikasi keaslian",
+              "flag": true
+            },
+            { "option": "Menghapus watermark", "flag": false }
+          ],
+          "pembahasan": "Izin, sumber, dan verifikasi adalah etika utama dalam penggunaan konten warga."
+        },
+        {
+          "pertanyaan": "Journalistic excellence berarti …",
+          "pilihan": [
+            { "option": "Menulis cepat", "flag": false },
+            { "option": "Fokus pada sensasi", "flag": false },
+            {
+              "option": "Berpegang pada akurasi, fairness, objektivitas, dan verifikasi",
+              "flag": true
+            },
+            { "option": "Menarik klik sebanyak mungkin", "flag": false }
+          ],
+          "pembahasan": "Prinsip utama jurnalisme berkualitas adalah akurasi, fairness, objektivitas, dan verifikasi."
+        },
+        {
+          "pertanyaan": "Agar portal milik perusahaan elektronik tetap independen, maka …",
+          "pilihan": [
+            { "option": "Semua berita harus memuji perusahaan", "flag": false },
+            { "option": "Tidak boleh ada kritik", "flag": false },
+            {
+              "option": "Pisahkan editorial & iklan + jaga objektivitas",
+              "flag": true
+            },
+            { "option": "Gunakan reviewer internal saja", "flag": false }
+          ],
+          "pembahasan": "Independensi dijaga dengan memisahkan berita dari kepentingan komersial."
+        },
+        {
+          "pertanyaan": "Kode etik blogger = kode etik jurnalis profesional?",
+          "pilihan": [
+            { "option": "Sama persis", "flag": false },
+            { "option": "Tidak ada kode etik blogger", "flag": false },
+            {
+              "option": "Tidak sama; blogger punya etika versi Rebecca Blood (lebih longgar)",
+              "flag": true
+            },
+            { "option": "Sangat ketat", "flag": false }
+          ],
+          "pembahasan": "Etika blogger tidak seketat jurnalis profesional; mengacu pada prinsip Rebecca Blood."
+        },
+        {
+          "pertanyaan": "Kode etik blogger menurut Rebecca Blood adalah …",
+          "pilihan": [
+            { "option": "Tidak perlu mencantumkan sumber", "flag": false },
+            { "option": "Bebas membuat hoaks", "flag": false },
+            {
+              "option": "Mencantumkan URL sumber, mengoreksi kesalahan, hindari konflik kepentingan",
+              "flag": true
+            },
+            { "option": "Tidak menerima komentar", "flag": false }
+          ],
+          "pembahasan": "Etika blogger: cantumkan URL sumber, koreksi kesalahan, hindari konflik kepentingan, dan transparansi."
+        },
+        {
+          "pertanyaan": "Karakter the new media menurut Denis McQuail, kecuali …",
+          "pilihan": [
+            { "option": "interactivity", "flag": false },
+            { "option": "immediacy", "flag": false },
+            { "option": "nonlinearity", "flag": false },
+            { "option": "one way communication", "flag": true }
+          ],
+          "pembahasan": "One way communication adalah ciri media tradisional, bukan media baru."
+        },
+        {
+          "pertanyaan": "Sifat immediacy pada media online berarti …",
+          "pilihan": [
+            { "option": "membawa pesan audiovisual", "flag": false },
+            {
+              "option": "mengirim pesan dengan sangat cepat melampaui media tradisional",
+              "flag": true
+            },
+            { "option": "dipakai untuk interaksi", "flag": false },
+            { "option": "menyediakan portal hiburan", "flag": false }
+          ],
+          "pembahasan": "Immediacy adalah kemampuan media online menyampaikan informasi secara real-time."
+        },
+        {
+          "pertanyaan": "CAR adalah kepanjangan dari …",
+          "pilihan": [
+            { "option": "Computer Association and Reportage", "flag": false },
+            { "option": "Computer Assisted Reporting", "flag": true },
+            { "option": "Cooperation And Reporting", "flag": false },
+            { "option": "Coordination Assisted Reporting", "flag": false }
+          ],
+          "pembahasan": "CAR adalah teknik liputan berbasis komputer dan internet untuk analisis data."
+        },
+        {
+          "pertanyaan": "CAR pertama kali dipraktikkan pada tahun …",
+          "pilihan": [
+            { "option": "1952", "flag": true },
+            { "option": "1953", "flag": false },
+            { "option": "1954", "flag": false },
+            { "option": "1955", "flag": false }
+          ],
+          "pembahasan": "CBS menggunakan CAR pada analisis pemilu tahun 1952."
+        },
+        {
+          "pertanyaan": "Berikut ini syarat penerapan CAR secara maksimal, kecuali …",
+          "pilihan": [
+            { "option": "negara dengan keterbukaan data", "flag": false },
+            { "option": "jurnalis yang paham komputer", "flag": false },
+            { "option": "internet memadai", "flag": false },
+            { "option": "jurnalis yang anti bribery", "flag": true }
+          ],
+          "pembahasan": "Anti-bribery tidak disebut sebagai syarat penerapan CAR."
+        },
+        {
+          "pertanyaan": "Web yang dikembangkan untuk CAR adalah …",
+          "pilihan": [
+            { "option": "www.nicar.org", "flag": true },
+            { "option": "picar.com", "flag": false },
+            { "option": "poynter.org", "flag": false },
+            { "option": "gocar.org", "flag": false }
+          ],
+          "pembahasan": "NICAR adalah lembaga khusus untuk Computer Assisted Reporting."
+        },
+        {
+          "pertanyaan": "Citizen Journalism adalah …",
+          "pilihan": [
+            {
+              "option": "dijalankan warga dengan latar belakang jurnalistik",
+              "flag": false
+            },
+            { "option": "hanya untuk ahli bidang tertentu", "flag": false },
+            {
+              "option": "jurnalisme oleh warga dari kalangan apa pun",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Citizen journalism dilakukan oleh warga biasa yang melaporkan informasi."
+        },
+        {
+          "pertanyaan": "Kegunaan IRC, kecuali …",
+          "pilihan": [
+            { "option": "pesan langsung", "flag": false },
+            { "option": "kirim foto", "flag": false },
+            { "option": "email", "flag": false },
+            { "option": "bermain game sambil berkirim pesan", "flag": true }
+          ],
+          "pembahasan": "IRC adalah chat teks real-time, tidak digunakan untuk bermain game."
+        },
+        {
+          "pertanyaan": "Digital dilemma adalah …",
+          "pilihan": [
+            { "option": "bingung memilih media", "flag": false },
+            { "option": "bingung soal produktivitas berita", "flag": false },
+            {
+              "option": "kebingungan etis karena belum ada KEJ khusus media online",
+              "flag": true
+            },
+            { "option": "kekhawatiran internet", "flag": false }
+          ],
+          "pembahasan": "Media online menimbulkan dilema karena aturan etikanya belum selengkap media tradisional."
+        },
+        {
+          "pertanyaan": "Media baru menimbulkan kekhawatiran baru, kecuali …",
+          "pilihan": [
+            {
+              "option": "berpotensi memicu aktivitas jurnalistik tidak etis (privasi, hak cipta)",
+              "flag": true
+            },
+            {
+              "option": "muncul area abu-abu editorial vs advertising",
+              "flag": false
+            },
+            { "option": "kekhawatiran pelanggaran etika", "flag": false },
+            {
+              "option": "kekalahan media tradisional dalam menjalankan kode etik",
+              "flag": false
+            }
+          ],
+          "pembahasan": "KUNCI LO = A. (Catatan: dalam modul A sebenarnya termasuk kekhawatiran, tapi G ikut kunci lo.)"
+        },
+        {
+          "pertanyaan": "Pernyataan benar tentang kode etik media online dibanding tradisional, kecuali …",
+          "pilihan": [
+            {
+              "option": "kode etik media online sama sekali berbeda",
+              "flag": true
+            },
+            { "option": "sama persis", "flag": false },
+            {
+              "option": "menginduk tetapi ada tambahan untuk hak cipta",
+              "flag": false
+            },
+            { "option": "tidak ada kode etik", "flag": false }
+          ],
+          "pembahasan": "Kode etik online tidak berbeda total; menginduk ke etika tradisional."
+        },
+        {
+          "pertanyaan": "Editorial commitment (CNET) berarti …",
+          "pilihan": [
+            {
+              "option": "integritas: liputan adil, akurat, etis",
+              "flag": true
+            },
+            { "option": "berita tercepat", "flag": false },
+            { "option": "komitmen bisnis", "flag": false },
+            { "option": "koreksi", "flag": false }
+          ],
+          "pembahasan": "CNET menjamin fairness, accuracy, dan integrity."
+        },
+        {
+          "pertanyaan": "CNET tidak melarang link luar selama …",
+          "pilihan": [
+            { "option": "ada identitas", "flag": false },
+            { "option": "situs terpercaya", "flag": false },
+            { "option": "relevan & diperlukan pembaca", "flag": true },
+            { "option": "populer", "flag": false }
+          ],
+          "pembahasan": "Link luar boleh jika relevan dan membantu pembaca."
+        },
+        {
+          "pertanyaan": "Online News Association (ONA) adalah …",
+          "pilihan": [
+            { "option": "pendukung KEJ online", "flag": false },
+            {
+              "option": "organisasi jurnalis online yang bekerja di platform digital",
+              "flag": true
+            },
+            { "option": "jurnalis investigasi", "flag": false },
+            { "option": "jurnalis anti mainstream", "flag": false }
+          ],
+          "pembahasan": "ONA menaungi jurnalis yang bekerja pada media digital."
+        },
+        {
+          "pertanyaan": "Prinsip editorial independence ONA, kecuali …",
+          "pilihan": [
+            { "option": "fairness", "flag": false },
+            { "option": "accuracy", "flag": false },
+            { "option": "objectivity", "flag": false },
+            { "option": "aktuality", "flag": true }
+          ],
+          "pembahasan": "Actuality bukan bagian prinsip ONA."
+        },
+        {
+          "pertanyaan": "Editorial integrity berarti …",
+          "pilihan": [
+            {
+              "option": "memisahkan news & advertorial (integritas editorial)",
+              "flag": true
+            },
+            { "option": "junjung aktualitas", "flag": false },
+            { "option": "aturan nama anonim", "flag": false },
+            { "option": "integritas perusahaan", "flag": false }
+          ],
+          "pembahasan": "Editorial integrity = bebas dari pengaruh iklan & bisnis."
+        },
+        {
+          "pertanyaan": "Larangan membuat berita yang menimbulkan konflik kepentingan berarti …",
+          "pilihan": [
+            {
+              "option": "berita tidak seimbang yang memihak pada pihak tertentu",
+              "flag": true
+            },
+            { "option": "berita konflik perang", "flag": false },
+            { "option": "berita kejahatan", "flag": false },
+            { "option": "berita bohong", "flag": false }
+          ],
+          "pembahasan": "Konflik kepentingan muncul saat berita dipengaruhi agenda tertentu."
+        },
+        {
+          "pertanyaan": "Etika blogger menurut Rebecca Blood, kecuali …",
+          "pilihan": [
+            { "option": "publikasi fakta", "flag": false },
+            { "option": "sebutkan URL", "flag": false },
+            { "option": "koreksi kesalahan", "flag": false },
+            { "option": "wajib menuliskan nama blogger", "flag": true }
+          ],
+          "pembahasan": "Tidak ada kewajiban mencantumkan nama blogger menurut Blood."
+        }
+      ]
+    },
+    {
+      "id": "modul_6",
+      "title": "Aplikasi bisnis dalam cyber media",
+      "questions": [
+        {
+          "pertanyaan": "Communication & Collaboration dalam bisnis internet berarti …",
+          "pilihan": [
+            { "option": "Pengiriman barang antarnegara", "flag": false },
+            {
+              "option": "Komunikasi global realtime & kolaborasi antar karyawan, pelanggan, dan supplier",
+              "flag": true
+            },
+            { "option": "Produksi barang masal", "flag": false },
+            { "option": "Penyimpanan data manual", "flag": false }
+          ],
+          "pembahasan": "Communication & Collaboration mendukung komunikasi global dan kerja sama antar pihak bisnis secara realtime."
+        },
+        {
+          "pertanyaan": "Perdagangan elektronik dalam aplikasi bisnis internet adalah …",
+          "pilihan": [
+            { "option": "Penjualan langsung di toko fisik", "flag": false },
+            {
+              "option": "Pemasaran, pembelian, penjualan, dan dukungan layanan melalui internet",
+              "flag": true
+            },
+            { "option": "Transaksi tunai", "flag": false },
+            { "option": "Pengiriman barang tanpa konfirmasi", "flag": false }
+          ],
+          "pembahasan": "E-commerce mencakup pemasaran hingga dukungan layanan via internet."
+        },
+        {
+          "pertanyaan": "Aliansi strategis dalam bisnis internet adalah …",
+          "pilihan": [
+            { "option": "Penggabungan perusahaan secara fisik", "flag": false },
+            {
+              "option": "Kerja sama perusahaan dengan pelanggan, pemasok, konsultan, bahkan pesaing melalui internet",
+              "flag": true
+            },
+            { "option": "Pembentukan cabang perusahaan", "flag": false },
+            { "option": "Pengurangan jumlah mitra bisnis", "flag": false }
+          ],
+          "pembahasan": "Internet memudahkan aliansi strategis dengan berbagai pihak."
+        },
+        {
+          "pertanyaan": "Proses interaktif dalam perdagangan internet meliputi …",
+          "pilihan": [
+            { "option": "Penghapusan komunikasi pelanggan", "flag": false },
+            {
+              "option": "Segmentasi pelanggan, dialog, belajar dari pelanggan, pelayanan online",
+              "flag": true
+            },
+            { "option": "Pemasaran satu arah", "flag": false },
+            { "option": "Komunikasi tertutup", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut proses interaktif dua arah seperti dialog, segmentasi, dan service."
+        },
+        {
+          "pertanyaan": "Pull marketing dalam internet adalah …",
+          "pilihan": [
+            {
+              "option": "Informasi dikirim otomatis ke pengguna",
+              "flag": false
+            },
+            {
+              "option": "Pengguna menarik/mencari informasi sendiri melalui browser",
+              "flag": true
+            },
+            { "option": "Pengiriman pesan massal otomatis", "flag": false },
+            { "option": "Pemblokiran akses pelanggan", "flag": false }
+          ],
+          "pembahasan": "Pull marketing: user sendiri yang 'menarik' informasi dari web."
+        },
+        {
+          "pertanyaan": "Push marketing adalah …",
+          "pilihan": [
+            { "option": "Pengguna mencari informasi sendiri", "flag": false },
+            {
+              "option": "Informasi dikirim otomatis ke perangkat pengguna melalui web broadcaster",
+              "flag": true
+            },
+            { "option": "Iklan cetak manual", "flag": false },
+            { "option": "Promosi tanpa izin", "flag": false }
+          ],
+          "pembahasan": "Push marketing: info dikirim otomatis oleh sistem (misal PointCast)."
+        },
+        {
+          "pertanyaan": "Tujuan perusahaan membuat situs komersial berikut kecuali …",
+          "pilihan": [
+            { "option": "Menarik pelanggan baru", "flag": false },
+            { "option": "Meningkatkan layanan pelanggan", "flag": false },
+            { "option": "Mengembangkan saluran distribusi web", "flag": false },
+            { "option": "Menurunkan kualitas layanan", "flag": true }
+          ],
+          "pembahasan": "Tidak ada tujuan membuat layanan lebih buruk."
+        },
+        {
+          "pertanyaan": "Kemampuan strategis internet berikut benar, kecuali …",
+          "pilihan": [
+            { "option": "Global Dissemination", "flag": false },
+            { "option": "Interaction", "flag": false },
+            { "option": "Customization", "flag": false },
+            { "option": "Fragmentation", "flag": true }
+          ],
+          "pembahasan": "Fragmentation tidak termasuk kemampuan strategis internet dalam modul."
+        },
+        {
+          "pertanyaan": "Titik berat penggunaan internet dalam perdagangan elektronik terletak pada …",
+          "pilihan": [
+            { "option": "Pengiriman fisik barang", "flag": false },
+            {
+              "option": "Promosi, penjualan–pembelian, pembayaran, dan layanan pelanggan",
+              "flag": true
+            },
+            { "option": "Riset internal", "flag": false },
+            { "option": "Layanan telepon", "flag": false }
+          ],
+          "pembahasan": "E-commerce fokus pada promosi, transaksi, pembayaran, dan service."
+        },
+        {
+          "pertanyaan": "Berikut ini merupakan karakter model ekonomi e-commerce, kecuali …",
+          "pilihan": [
+            { "option": "Kemudahan akses", "flag": false },
+            { "option": "Banyak peluang pasar", "flag": false },
+            { "option": "Pasar dikuasai satu pihak", "flag": true },
+            { "option": "Banyak sumber keuntungan", "flag": false }
+          ],
+          "pembahasan": "Pasar online tidak bisa dimonopoli satu pihak."
+        },
+        {
+          "pertanyaan": "Cakupan perdagangan elektronik meliputi …",
+          "pilihan": [
+            {
+              "option": "Marketing, penjualan, pelayanan, pembayaran, dan pengembangan",
+              "flag": true
+            },
+            { "option": "Penyimpanan barang", "flag": false },
+            { "option": "Pengiriman fisik internasional", "flag": false },
+            { "option": "Produksi barang", "flag": false }
+          ],
+          "pembahasan": "Modul menyebut e-commerce mencakup seluruh siklus digital."
+        },
+        {
+          "pertanyaan": "Faktor pedagang sukses dalam e-commerce kecuali …",
+          "pilihan": [
+            { "option": "Kinerja & layanan cepat", "flag": false },
+            { "option": "Personalisasi", "flag": false },
+            { "option": "Tampilan atraktif", "flag": false },
+            { "option": "Proses belanja dibuat rumit", "flag": true }
+          ],
+          "pembahasan": "Modul menekankan kemudahan belanja, bukan kerumitan."
+        },
+        {
+          "pertanyaan": "Karakter model ekonomi e-commerce berikut benar, kecuali …",
+          "pilihan": [
+            { "option": "Teknologi tersedia untuk semua", "flag": false },
+            { "option": "Akses universal", "flag": false },
+            { "option": "Pasar bebas tanpa dominasi", "flag": false },
+            { "option": "Teknologi hanya untuk perusahaan besar", "flag": true }
+          ],
+          "pembahasan": "Teknologi internet justru dapat diakses semua pihak."
+        },
+        {
+          "pertanyaan": "Supply Chain Management bertujuan …",
+          "pilihan": [
+            { "option": "Menaikkan biaya", "flag": false },
+            {
+              "option": "Memotong biaya, meningkatkan keuntungan, dan memperbaiki kinerja",
+              "flag": true
+            },
+            { "option": "Memperlambat operasional", "flag": false },
+            { "option": "Menghentikan suplai", "flag": false }
+          ],
+          "pembahasan": "SCM berfokus pada efisiensi biaya dan peningkatan layanan."
+        },
+        {
+          "pertanyaan": "Salah satu tujuan SCM adalah …",
+          "pilihan": [
+            { "option": "Menambah pasokan sebanyak mungkin", "flag": false },
+            {
+              "option": "Menjaga pasokan serendah mungkin namun tetap melayani pelanggan",
+              "flag": true
+            },
+            { "option": "Menghilangkan layanan konsumen", "flag": false },
+            { "option": "Mengurangi kecepatan proses bisnis", "flag": false }
+          ],
+          "pembahasan": "SCM mempertahankan persediaan minimum tanpa mengurangi pelayanan."
+        },
+        {
+          "pertanyaan": "Yang dipertukarkan dalam EDI adalah …",
+          "pilihan": [
+            { "option": "Produk fisik", "flag": false },
+            {
+              "option": "Dokumen transaksi seperti pembelian, tagihan, permintaan",
+              "flag": true
+            },
+            { "option": "Iklan cetak", "flag": false },
+            { "option": "Surat manual", "flag": false }
+          ],
+          "pembahasan": "EDI menukar dokumen transaksi dalam format elektronik terstandar."
+        },
+        {
+          "pertanyaan": "Perubahan perilaku konsumsi media disebabkan karena …",
+          "pilihan": [
+            { "option": "Pengguna hanya membaca koran", "flag": false },
+            {
+              "option": "Pengguna beralih ke media digital & sosial",
+              "flag": true
+            },
+            { "option": "Pengguna tidak mau mencari informasi", "flag": false },
+            { "option": "Media berhenti beroperasi", "flag": false }
+          ],
+          "pembahasan": "Konsumen kini lebih banyak mengakses internet dan media sosial."
+        },
+        {
+          "pertanyaan": "Konsep sosial media adalah …",
+          "pilihan": [
+            { "option": "Media cetak konvensional", "flag": false },
+            {
+              "option": "Situs jejaring sosial berbasis Web 2.0 untuk interaksi & komunitas",
+              "flag": true
+            },
+            { "option": "Sistem telepon", "flag": false },
+            { "option": "Siaran radio", "flag": false }
+          ],
+          "pembahasan": "Social media = platform Web 2.0 seperti Facebook, Twitter, Instagram."
+        },
+        {
+          "pertanyaan": "Berikut adalah aplikasi besar yang ada di cyber media yang dapat dimanfaatkan oleh masyarakat kecuali ....",
+          "pilihan": [
+            { "option": "communication & collaboration", "flag": false },
+            { "option": "aliansi strategis", "flag": true },
+            { "option": "perdagangan elektronik", "flag": false },
+            { "option": "transfer system", "flag": false }
+          ],
+          "pembahasan": "Aliansi strategis merupakan aktivitas antar perusahaan, bukan yang dimanfaatkan masyarakat umum."
+        },
+        {
+          "pertanyaan": "Dalam cyber media, interaksi dan dialog dengan pelanggan dapat dilakukan secara realtime dengan menggunakan …. ",
+          "pilihan": [
+            { "option": "chat", "flag": false },
+            { "option": "e-mail", "flag": true },
+            { "option": "bulletin board", "flag": false },
+            { "option": "podcast", "flag": false }
+          ],
+          "pembahasan": "Modul menekankan email sebagai sarana utama komunikasi pelanggan-perusahaan yang bersifat langsung dan responsif."
+        },
+        {
+          "pertanyaan": "Kita sebagai khalayak mendapatkan informasi dengan cara mendapatkan kiriman informasi dari para produsen disebut dengan model marketing yang …. ",
+          "pilihan": [
+            { "option": "pull", "flag": false },
+            { "option": "push", "flag": true },
+            { "option": "horizontal", "flag": false },
+            { "option": "vertikal", "flag": false }
+          ],
+          "pembahasan": "Push marketing: informasi dikirim langsung ke pengguna tanpa harus dicari."
+        },
+        {
+          "pertanyaan": "Jika kita aktif mencari informasi melalui internet untuk mendapatkan informasi atas produk yang akan kita dapatkan disebut ....",
+          "pilihan": [
+            { "option": "pull", "flag": true },
+            { "option": "push", "flag": false },
+            { "option": "horizontal", "flag": false },
+            { "option": "vertikal", "flag": false }
+          ],
+          "pembahasan": "Pull marketing: pengguna menarik informasi dari web secara mandiri."
+        },
+        {
+          "pertanyaan": "Berikut karakteristik push marketing, kecuali …. ",
+          "pilihan": [
+            { "option": "possible uses", "flag": true },
+            { "option": "possible risk", "flag": false },
+            { "option": "possible benefit", "flag": false },
+            { "option": "possible reason", "flag": false }
+          ],
+          "pembahasan": "Mengikuti kunci resmi: \"possible uses\" dipilih sebagai pengecualian walaupun dalam modul termasuk karakteristik."
+        },
+        {
+          "pertanyaan": "Nilai bisnis strategis dalam penghematan biaya dan peningkatan efisiensi komunikasi global, dan kemampuan mencapai/melayani pasar internasional disebut …. ",
+          "pilihan": [
+            { "option": "global dissemination", "flag": true },
+            { "option": "customization", "flag": false },
+            { "option": "interaction", "flag": false },
+            { "option": "collaboration", "flag": false }
+          ],
+          "pembahasan": "Global dissemination berarti penyebaran informasi global dengan cepat dan biaya rendah."
+        },
+        {
+          "pertanyaan": "Internet, intranet, dan extranet memungkinkan akses mudah dan efisien untuk berbagi data dan sumber daya jaringan. Ini termasuk …. ",
+          "pilihan": [
+            { "option": "global dissemination", "flag": false },
+            { "option": "customization", "flag": true },
+            { "option": "integrasi", "flag": false },
+            { "option": "collaboration", "flag": false }
+          ],
+          "pembahasan": "Mengikuti kunci resmi: fitur akses selektif dan pengaturan layanan ditempatkan pada aspek customization."
+        },
+        {
+          "pertanyaan": "Nilai bisnis teknologi Internet muncul dari efisiensi dan inovasi yang dibuat dalam proses bisnis internal dan eksternal melalui …. ",
+          "pilihan": [
+            { "option": "global dissemination", "flag": false },
+            { "option": "customization", "flag": false },
+            { "option": "integration", "flag": true },
+            { "option": "collaboration", "flag": false }
+          ],
+          "pembahasan": "Integration menyatukan proses internal–eksternal menjadi lebih efisien."
+        },
+        {
+          "pertanyaan": "Peluang apa yang didapat perusahaan ketika dapat menawarkan produk berkualitas tinggi dan layanan responsif & personal?",
+          "pilihan": [
+            { "option": "strategis dan murah", "flag": true },
+            { "option": "inspiratif dan inovatif", "flag": false },
+            { "option": "produktif dan aplikatif", "flag": false },
+            { "option": "implikatif dan responsif", "flag": false }
+          ],
+          "pembahasan": "Modul menekankan peluang strategis dan biaya murah sebagai keunggulan internet."
+        },
+        {
+          "pertanyaan": "Beberapa hal yang biasa dilakukan pelanggan menggunakan internet untuk kepentingan bisnis, kecuali …. ",
+          "pilihan": [
+            { "option": "Mengajukan pertanyaan", "flag": false },
+            { "option": "Permintaan dukungan", "flag": false },
+            { "option": "Keluhan dan evaluasi produk", "flag": false },
+            { "option": "Chatting", "flag": true }
+          ],
+          "pembahasan": "Chatting tidak termasuk tiga aktivitas pelanggan menurut modul."
+        },
+        {
+          "pertanyaan": "Untuk menghadapi pasar global, media terbaik untuk strategi pemasaran adalah ....",
+          "pilihan": [
+            { "option": "radio", "flag": false },
+            { "option": "surat kabar", "flag": false },
+            { "option": "internet", "flag": true },
+            { "option": "televisi", "flag": false }
+          ],
+          "pembahasan": "Internet dipakai untuk pemasaran global karena biaya rendah dan jangkauan luas."
+        },
+        {
+          "pertanyaan": "Melalui e-commerce, komunikasi dapat digolongkan sebagai berikut, kecuali ....",
+          "pilihan": [
+            { "option": "Business to customer", "flag": false },
+            { "option": "Proses internal perusahaan", "flag": false },
+            { "option": "Business to business", "flag": false },
+            { "option": "Proses eksternal perusahaan", "flag": true }
+          ],
+          "pembahasan": "Modul hanya menyebut B2C, B2B, dan internal."
+        },
+        {
+          "pertanyaan": "Salah satu keunggulan e-commerce adalah konsumen mendapatkan informasi sesuai kebutuhan. Ini bersifat …. ",
+          "pilihan": [
+            { "option": "personal", "flag": true },
+            { "option": "internal", "flag": false },
+            { "option": "radikal", "flag": false },
+            { "option": "eksternal", "flag": false }
+          ],
+          "pembahasan": "Personalisasi adalah fitur utama e-commerce."
+        },
+        {
+          "pertanyaan": "Aplikasi dasar B2B adalah berikut, kecuali …. ",
+          "pilihan": [
+            { "option": "supply chain management", "flag": false },
+            { "option": "pertukaran data elektronik", "flag": false },
+            { "option": "wholesaling on the web", "flag": false },
+            { "option": "interactivity", "flag": true }
+          ],
+          "pembahasan": "Interactivity bukan aplikasi dasar B2B."
+        },
+        {
+          "pertanyaan": "SCM memiliki tiga tujuan bisnis, kecuali …. ",
+          "pilihan": [
+            { "option": "Produk tepat di tempat tepat", "flag": false },
+            { "option": "Pasokan rendah tapi layanan baik", "flag": false },
+            { "option": "Proses bisnis cepat", "flag": false },
+            { "option": "Mendapatkan harga pantas", "flag": true }
+          ],
+          "pembahasan": "Tujuan harga pantas tidak termasuk tujuan SCM."
+        },
+        {
+          "pertanyaan": "Menggunakan EDI untuk memindahkan dokumen terpilih disebut manajemen …. ",
+          "pilihan": [
+            { "option": "inventaris", "flag": false },
+            { "option": "distribusi", "flag": true },
+            { "option": "pemasok", "flag": false },
+            { "option": "finansial", "flag": false }
+          ],
+          "pembahasan": "Distribusi mencakup pemindahan dokumen melalui EDI."
+        },
+        {
+          "pertanyaan": "Situs pencatat ranking & traffic internet global adalah …. ",
+          "pilihan": [
+            { "option": "Alexa", "flag": true },
+            { "option": "Technocrati", "flag": false },
+            { "option": "Facebook", "flag": false },
+            { "option": "Webometric", "flag": false }
+          ],
+          "pembahasan": "Alexa digunakan untuk ranking traffic situs dunia."
+        },
+        {
+          "pertanyaan": "Facebook dikembangkan oleh …. ",
+          "pilihan": [
+            { "option": "Onno Purbo", "flag": false },
+            { "option": "Mark Antony", "flag": false },
+            { "option": "Mark Zuckerberg", "flag": true },
+            { "option": "Mark Douglas", "flag": false }
+          ],
+          "pembahasan": "Facebook didirikan oleh Mark Zuckerberg."
+        },
+        {
+          "pertanyaan": "Fasilitas berbisnis di Facebook yang mirip iklan baris adalah …. ",
+          "pilihan": [
+            { "option": "marketplace", "flag": true },
+            { "option": "marketsite", "flag": false },
+            { "option": "marketvenue", "flag": false },
+            { "option": "marketcorner", "flag": false }
+          ],
+          "pembahasan": "Marketplace menyediakan fitur jual beli seperti iklan baris."
+        },
+        {
+          "pertanyaan": "Kita bisa membuat halaman khusus untuk bisnis di Facebook melalui …. ",
+          "pilihan": [
+            { "option": "Facebook site", "flag": false },
+            { "option": "Facebook profile", "flag": false },
+            { "option": "Facebook pages", "flag": true },
+            { "option": "Facebook feed", "flag": false }
+          ],
+          "pembahasan": "Facebook Pages digunakan untuk bisnis, organisasi, dan brand."
+        }
+      ]
+    }
+  ]
+}
