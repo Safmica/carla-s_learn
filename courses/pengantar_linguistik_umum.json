@@ -593,7 +593,569 @@
     {
       "id": "modul_3",
       "title": "Fonologi dan Grafologi ",
-      "questions": []
+      "questions": [
+        {
+          "pertanyaan": "Fonologi adalah ….",
+          "pilihan": [
+            {
+              "option": "ilmu yang mempelajari organ ucap manusia",
+              "flag": false
+            },
+            {
+              "option": "ilmu yang mempelajari sistem tulisan bahasa",
+              "flag": false
+            },
+            {
+              "option": "ilmu yang mempelajari sistem bunyi suatu bahasa",
+              "flag": true
+            },
+            {
+              "option": "ilmu yang mempelajari konsonan dan vokal saja",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Fonologi adalah ilmu yang mempelajari sistem bunyi bahasa yang digunakan untuk merealisasikan makna."
+        },
+        {
+          "pertanyaan": "Cabang utama fonologi terdiri atas ….",
+          "pilihan": [
+            { "option": "fonetik dan grafologi", "flag": false },
+            { "option": "fonetik dan fonemik", "flag": true },
+            { "option": "fonemik dan morfologi", "flag": false },
+            { "option": "fonetik dan sintaksis", "flag": false }
+          ],
+          "pembahasan": "Fonologi memiliki dua cabang utama, yaitu fonetik dan fonemik."
+        },
+        {
+          "pertanyaan": "Fonetik adalah ….",
+          "pilihan": [
+            { "option": "ilmu yang mempelajari sistem fonem", "flag": false },
+            { "option": "ilmu yang mempelajari makna bunyi", "flag": false },
+            {
+              "option": "ilmu yang mempelajari bunyi bahasa dari sisi fisiknya",
+              "flag": true
+            },
+            {
+              "option": "ilmu yang mempelajari hubungan bunyi dan tulisan",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Fonetik mempelajari bagaimana bunyi dihasilkan serta sifat fisiknya, bukan fungsi maknanya."
+        },
+        {
+          "pertanyaan": "Pendekatan dalam mempelajari fonetik adalah ….",
+          "pilihan": [
+            {
+              "option": "fonetik historis dan fonetik struktural",
+              "flag": false
+            },
+            {
+              "option": "fonetik artikulasi dan fonetik akustik",
+              "flag": true
+            },
+            { "option": "fonetik fonemik dan fonetik grafemik", "flag": false },
+            {
+              "option": "fonetik deskriptif dan fonetik preskriptif",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Fonetik dipelajari melalui pendekatan artikulasi dan pendekatan akustik."
+        },
+        {
+          "pertanyaan": "Perbedaan utama fonetik artikulasi dan fonetik akustik adalah ….",
+          "pilihan": [
+            {
+              "option": "artikulasi mempelajari tulisan, akustik mempelajari bunyi",
+              "flag": false
+            },
+            {
+              "option": "artikulasi mempelajari alat ucap, akustik mempelajari gelombang bunyi",
+              "flag": true
+            },
+            {
+              "option": "artikulasi mempelajari makna, akustik mempelajari struktur",
+              "flag": false
+            },
+            {
+              "option": "artikulasi mempelajari fonem, akustik mempelajari grafem",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Fonetik artikulasi berfokus pada alat ucap, sedangkan fonetik akustik pada sifat fisik gelombang bunyi."
+        },
+        {
+          "pertanyaan": "Menurut fonetik artikulasi, bunyi bahasa manusia dibagi menjadi ….",
+          "pilihan": [
+            { "option": "bunyi oral dan bunyi nasal", "flag": false },
+            { "option": "bunyi fonem dan bunyi alofon", "flag": false },
+            { "option": "bunyi konsonan dan bunyi vokal", "flag": true },
+            { "option": "bunyi tinggi dan bunyi rendah", "flag": false }
+          ],
+          "pembahasan": "Fonetik artikulasi membagi bunyi bahasa menjadi konsonan dan vokal."
+        },
+        {
+          "pertanyaan": "Aspek untuk mendeskripsikan konsonan Bahasa Inggris adalah ….",
+          "pilihan": [
+            {
+              "option": "ketinggian lidah, posisi lidah, bentuk bibir",
+              "flag": false
+            },
+            {
+              "option": "aktivitas laring, titik artikulasi, cara artikulasi",
+              "flag": true
+            },
+            { "option": "tekanan, intonasi, pitch", "flag": false },
+            { "option": "vokal, diftong, konsonan", "flag": false }
+          ],
+          "pembahasan": "Konsonan dideskripsikan berdasarkan voicing, titik artikulasi, dan cara artikulasi."
+        },
+        {
+          "pertanyaan": "Aspek untuk mendeskripsikan vokal Bahasa Inggris adalah ….",
+          "pilihan": [
+            { "option": "aktivitas laring dan aspirasi", "flag": false },
+            { "option": "cara artikulasi dan titik artikulasi", "flag": false },
+            {
+              "option": "ketinggian lidah, bagian lidah, dan bentuk bibir",
+              "flag": true
+            },
+            { "option": "tekanan dan intonasi", "flag": false }
+          ],
+          "pembahasan": "Vokal dideskripsikan melalui tinggi–rendah lidah, posisi lidah, dan bentuk bibir."
+        },
+        {
+          "pertanyaan": "Deskripsi bunyi [z] yang tepat adalah ….",
+          "pilihan": [
+            { "option": "voiceless, alveolar, fricative", "flag": false },
+            { "option": "voiced, alveolar, fricative", "flag": true },
+            { "option": "voiced, dental, stop", "flag": false },
+            { "option": "voiceless, alveolar, stop", "flag": false }
+          ],
+          "pembahasan": "Bunyi [z] merupakan voiced alveolar fricative."
+        },
+        {
+          "pertanyaan": "Deskripsi bunyi [u:] yang tepat adalah ….",
+          "pilihan": [
+            { "option": "high, front, unrounded", "flag": false },
+            { "option": "mid, central, rounded", "flag": false },
+            { "option": "high, back, rounded", "flag": true },
+            { "option": "low, back, rounded", "flag": false }
+          ],
+          "pembahasan": "Bunyi [u:] adalah vokal tinggi, belakang, dan bulat."
+        },
+        {
+          "pertanyaan": "Bahasa tonal adalah bahasa yang ….",
+          "pilihan": [
+            { "option": "menggunakan tekanan kata", "flag": false },
+            {
+              "option": "menggunakan pitch untuk membedakan makna leksikal",
+              "flag": true
+            },
+            {
+              "option": "menggunakan intonasi di akhir kalimat",
+              "flag": false
+            },
+            { "option": "tidak mengenal tekanan", "flag": false }
+          ],
+          "pembahasan": "Bahasa tonal menggunakan pitch pada silabel untuk membedakan makna leksikal."
+        },
+        {
+          "pertanyaan": "Bahasa Inggris termasuk bahasa tonal ….",
+          "pilihan": [
+            { "option": "ya, karena menggunakan pitch", "flag": false },
+            { "option": "ya, karena menggunakan stress", "flag": false },
+            { "option": "tidak, karena menggunakan intonasi", "flag": true },
+            { "option": "tidak, karena tidak punya vokal", "flag": false }
+          ],
+          "pembahasan": "Bahasa Inggris bukan bahasa tonal, tetapi bahasa yang menggunakan intonasi."
+        },
+        {
+          "pertanyaan": "Berikut ini yang termasuk bahasa tonal adalah ….",
+          "pilihan": [
+            { "option": "Inggris dan Jerman", "flag": false },
+            { "option": "Arab dan Ibrani", "flag": false },
+            { "option": "Cina, Thailand, Burma", "flag": true },
+            { "option": "Spanyol dan Prancis", "flag": false }
+          ],
+          "pembahasan": "Bahasa Cina, Thailand, dan Burma menggunakan pitch untuk membedakan makna."
+        },
+        {
+          "pertanyaan": "Penulisan tekanan yang benar untuk kata benda “subject” adalah ….",
+          "pilihan": [
+            { "option": "ˈsubject", "flag": false },
+            { "option": "subˈject", "flag": false },
+            { "option": "suˈbject", "flag": true },
+            { "option": "subjectˈ", "flag": false }
+          ],
+          "pembahasan": "Sebagai kata benda, subject mendapat tekanan pada suku kata kedua."
+        },
+        {
+          "pertanyaan": "Intonasi kalimat “They went to London to study English?” adalah ….",
+          "pilihan": [
+            { "option": "turun", "flag": false },
+            { "option": "datar", "flag": false },
+            { "option": "naik", "flag": true },
+            { "option": "turun–naik", "flag": false }
+          ],
+          "pembahasan": "Kalimat tanya yes/no menggunakan intonasi naik."
+        },
+        {
+          "pertanyaan": "Grafologi adalah ….",
+          "pilihan": [
+            { "option": "sistem bunyi bahasa", "flag": false },
+            { "option": "sistem tulisan suatu bahasa", "flag": true },
+            { "option": "sistem makna bahasa", "flag": false },
+            { "option": "sistem fonem bahasa", "flag": false }
+          ],
+          "pembahasan": "Grafologi mempelajari sistem tulisan suatu bahasa."
+        },
+        {
+          "pertanyaan": "Bentuk tulisan paling awal dalam sejarah manusia adalah ….",
+          "pilihan": [
+            { "option": "alfabet", "flag": false },
+            { "option": "silabel", "flag": false },
+            { "option": "piktograf", "flag": true },
+            { "option": "fonemik", "flag": false }
+          ],
+          "pembahasan": "Tulisan paling awal berbentuk piktograf yang merepresentasikan objek."
+        },
+        {
+          "pertanyaan": "Sistem penulisan kata dan silabel dianggap tidak efektif karena ….",
+          "pilihan": [
+            { "option": "sulit dipelajari anak-anak", "flag": false },
+            { "option": "membutuhkan terlalu banyak simbol", "flag": true },
+            { "option": "tidak bisa dibaca", "flag": false },
+            { "option": "tidak mewakili bunyi", "flag": false }
+          ],
+          "pembahasan": "Sistem kata dan silabel tidak efisien karena jumlah simbolnya sangat banyak."
+        },
+        {
+          "pertanyaan": "Sistem penulisan alfabet dianggap efektif karena ….",
+          "pilihan": [
+            { "option": "satu simbol mewakili satu kata", "flag": false },
+            { "option": "satu simbol mewakili satu silabel", "flag": false },
+            { "option": "satu simbol mewakili satu fonem", "flag": true },
+            { "option": "satu simbol mewakili satu kalimat", "flag": false }
+          ],
+          "pembahasan": "Alfabet efektif karena merepresentasikan fonem dengan jumlah simbol terbatas."
+        },
+        {
+          "pertanyaan": "Pembaharuan ejaan berdasarkan pelafalan dianggap tidak efektif karena ….",
+          "pilihan": [
+            { "option": "sulit diajarkan", "flag": false },
+            {
+              "option": "menyebabkan sistem tulisan menjadi kompleks",
+              "flag": true
+            },
+            { "option": "tidak sesuai sejarah", "flag": false },
+            { "option": "tidak disukai penutur", "flag": false }
+          ],
+          "pembahasan": "Penyesuaian ejaan dengan pelafalan membuat sistem tulisan menjadi kompleks dan tidak stabil."
+        },
+        {
+          "pertanyaan": "Apakah fonologi itu?",
+          "pilihan": [
+            {
+              "option": "Ilmu yang mempelajari sistem bunyi suatu bahasa.",
+              "flag": true
+            },
+            {
+              "option": "Ilmu yang mempelajari sistem suara suatu bahasa",
+              "flag": false
+            },
+            {
+              "option": "Ilmu yang mempelajari sistem organ ucap manusia",
+              "flag": false
+            },
+            {
+              "option": "Ilmu yang mempelajari sistem konsonan dan vokal",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Fonologi adalah ilmu yang mempelajari sistem bunyi suatu bahasa, yaitu bunyi yang berfungsi membedakan makna."
+        },
+        {
+          "pertanyaan": "Apakah fonetik itu?",
+          "pilihan": [
+            {
+              "option": "Ilmu yang mempelajari konsonan dan vokal dari suatu bahasa.",
+              "flag": false
+            },
+            {
+              "option": "Ilmu yang mempelajari organ ucap manusia",
+              "flag": false
+            },
+            {
+              "option": "Ilmu yang mempelajari sistem bunyi suatu bahasa dari sisi fisik bunyi.",
+              "flag": false
+            },
+            {
+              "option": "Ilmu yang mempelajari sistem bunyi suatu bahasa dengan cara mendeskripsikan setiap bunyi.",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Fonetik mempelajari bunyi bahasa dengan cara mendeskripsikan setiap bunyi, termasuk cara bunyi dihasilkan."
+        },
+        {
+          "pertanyaan": "Ada berapa macam aspek dalam mendeskripsikan konsonan Bahasa Inggris?",
+          "pilihan": [
+            {
+              "option": "Dua macam. Titik artikulasi dan cara artikulasi.",
+              "flag": false
+            },
+            {
+              "option": "Tiga macam. Titik artikulasi, cara artikulasi, dan aktivitas laring.",
+              "flag": true
+            },
+            {
+              "option": "Empat macam. Titik artikulasi, cara artikulasi, aktivitas laring, dan aspirasi.",
+              "flag": false
+            },
+            {
+              "option": "Tiga macam. Titik artikulasi, cara artikulasi, dan aspirasi.",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Konsonan Bahasa Inggris dideskripsikan berdasarkan aktivitas laring, titik artikulasi, dan cara artikulasi."
+        },
+        {
+          "pertanyaan": "Termasuk jenis deskripsi berdasarkan apakah jika suatu konsonan termasuk alveolar?",
+          "pilihan": [
+            { "option": "Cara artikulasi", "flag": false },
+            { "option": "Titik artikulasi", "flag": true },
+            { "option": "Aktivitas laring", "flag": false },
+            { "option": "Aspirasi", "flag": false }
+          ],
+          "pembahasan": "Alveolar menunjukkan titik artikulasi, yaitu lokasi pertemuan alat ucap."
+        },
+        {
+          "pertanyaan": "Termasuk jenis deskripsi berdasarkan apakah jika suatu konsonan termasuk fricative?",
+          "pilihan": [
+            { "option": "Cara artikulasi", "flag": true },
+            { "option": "Titik artikulasi", "flag": false },
+            { "option": "Aktivitas laring", "flag": false },
+            { "option": "Aspirasi", "flag": false }
+          ],
+          "pembahasan": "Fricative menunjukkan cara artikulasi dengan aliran udara dipersempit."
+        },
+        {
+          "pertanyaan": "Termasuk jenis deskripsi berdasarkan apakah jika [p, t, k] di depan kata mendapat tambahan bunyi [h]?",
+          "pilihan": [
+            { "option": "Cara artikulasi", "flag": false },
+            { "option": "Titik artikulasi", "flag": false },
+            { "option": "Aktivitas laring", "flag": false },
+            { "option": "Aspirasi", "flag": true }
+          ],
+          "pembahasan": "Tambahan bunyi [h] disebut aspirasi."
+        },
+        {
+          "pertanyaan": "Termasuk jenis deskripsi berdasarkan apakah jika suatu konsonan termasuk voiced atau voiceless?",
+          "pilihan": [
+            { "option": "Cara artikulasi", "flag": false },
+            { "option": "Titik artikulasi", "flag": false },
+            { "option": "Aktivitas laring", "flag": true },
+            { "option": "Aspirasi", "flag": false }
+          ],
+          "pembahasan": "Voiced dan voiceless ditentukan oleh aktivitas laring."
+        },
+        {
+          "pertanyaan": "Ada berapa macam aspek dalam mendeskripsikan vokal Bahasa Inggris?",
+          "pilihan": [
+            {
+              "option": "Dua macam: ketinggian lidah dan bagian lidah",
+              "flag": false
+            },
+            {
+              "option": "Tiga macam: ketinggian lidah, bagian lidah, dan diftong",
+              "flag": false
+            },
+            {
+              "option": "Tiga macam: ketinggian lidah, bagian lidah, dan bentuk bibir",
+              "flag": true
+            },
+            {
+              "option": "Empat macam: ketinggian lidah, bagian lidah, diftong, dan bentuk bibir",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Vokal dideskripsikan berdasarkan ketinggian lidah, bagian lidah, dan bentuk bibir."
+        },
+        {
+          "pertanyaan": "Termasuk jenis deskripsi berdasarkan apakah jika suatu vokal termasuk “rounded”?",
+          "pilihan": [
+            { "option": "Ketinggian lidah", "flag": false },
+            { "option": "Bagian lidah", "flag": false },
+            { "option": "Bentuk bibir", "flag": true },
+            { "option": "Bunyi diftong", "flag": false }
+          ],
+          "pembahasan": "Rounded menunjukkan bentuk bibir."
+        },
+        {
+          "pertanyaan": "Termasuk jenis deskripsi berdasarkan apakah jika suatu vokal termasuk “central”?",
+          "pilihan": [
+            { "option": "Ketinggian lidah", "flag": false },
+            { "option": "Bagian lidah", "flag": true },
+            { "option": "Bentuk bibir", "flag": false },
+            { "option": "Bunyi diftong", "flag": false }
+          ],
+          "pembahasan": "Central menunjukkan bagian lidah."
+        },
+        {
+          "pertanyaan": "Termasuk jenis deskripsi berdasarkan apakah jika suatu vokal termasuk “low”?",
+          "pilihan": [
+            { "option": "Ketinggian lidah", "flag": true },
+            { "option": "Bagian lidah", "flag": false },
+            { "option": "Bentuk bibir", "flag": false },
+            { "option": "Bunyi diftong", "flag": false }
+          ],
+          "pembahasan": "Low menunjukkan ketinggian lidah."
+        },
+        {
+          "pertanyaan": "Bidang fonologi yang mempelajari getaran kuat atau lemah pita suara pada silabel adalah …",
+          "pilihan": [
+            { "option": "Tone", "flag": false },
+            { "option": "Pitch", "flag": true },
+            { "option": "Stress", "flag": false },
+            { "option": "Intonasi", "flag": false }
+          ],
+          "pembahasan": "Pitch berkaitan dengan tinggi–rendah nada akibat getaran pita suara."
+        },
+        {
+          "pertanyaan": "Bidang fonologi yang mempelajari tekanan tinggi, sedang, atau normal pada silabel adalah …",
+          "pilihan": [
+            { "option": "Tone", "flag": false },
+            { "option": "Pitch", "flag": false },
+            { "option": "Stress", "flag": true },
+            { "option": "Intonasi", "flag": false }
+          ],
+          "pembahasan": "Stress adalah tekanan pada silabel."
+        },
+        {
+          "pertanyaan": "Bidang fonologi yang mempelajari tekanan pada tingkat kalimat adalah …",
+          "pilihan": [
+            { "option": "Tone", "flag": false },
+            { "option": "Pitch", "flag": false },
+            { "option": "Stress", "flag": false },
+            { "option": "Intonasi", "flag": true }
+          ],
+          "pembahasan": "Intonasi berkaitan dengan pola nada dalam kalimat."
+        },
+        {
+          "pertanyaan": "Bidang fonologi yang mempelajari perubahan kelas kata akibat perbedaan tekanan silabel adalah …",
+          "pilihan": [
+            { "option": "Tone", "flag": false },
+            { "option": "Pitch", "flag": false },
+            { "option": "Stress", "flag": true },
+            { "option": "Intonasi", "flag": false }
+          ],
+          "pembahasan": "Perbedaan stress dapat mengubah kelas kata."
+        },
+        {
+          "pertanyaan": "Apakah grafologi itu?",
+          "pilihan": [
+            { "option": "Sistem tulisan suatu bahasa", "flag": true },
+            { "option": "Sistem bunyi suatu bahasa", "flag": false },
+            {
+              "option": "Sistem tulisan dan bunyi suatu bahasa",
+              "flag": false
+            },
+            { "option": "Ketiga-tiganya tidak benar", "flag": false }
+          ],
+          "pembahasan": "Grafologi mempelajari sistem tulisan suatu bahasa."
+        },
+        {
+          "pertanyaan": "Bentuk tulisan berupa gambar yang menunjukkan benda yang disimbolkannya disebut …",
+          "pilihan": [
+            { "option": "paktograf", "flag": false },
+            { "option": "cuneiform", "flag": false },
+            { "option": "hiroglip", "flag": false },
+            { "option": "piktograf", "flag": true }
+          ],
+          "pembahasan": "Piktograf merepresentasikan objek secara langsung."
+        },
+        {
+          "pertanyaan": "Sistem tulisan yang merepresentasikan gambar benda termasuk sistem tulisan …",
+          "pilihan": [
+            { "option": "silabel", "flag": false },
+            { "option": "alfabet", "flag": false },
+            { "option": "kata", "flag": true },
+            { "option": "gambar", "flag": false }
+          ],
+          "pembahasan": "Piktograf termasuk sistem tulisan kata."
+        },
+        {
+          "pertanyaan": "Sistem tulisan yang menggunakan simbol untuk setiap silabel disebut …",
+          "pilihan": [
+            { "option": "silabel", "flag": true },
+            { "option": "alfabet", "flag": false },
+            { "option": "kata", "flag": false },
+            { "option": "gambar", "flag": false }
+          ],
+          "pembahasan": "Sistem silabel menggunakan satu simbol untuk satu silabel."
+        },
+        {
+          "pertanyaan": "Sistem tulisan yang menggunakan simbol untuk setiap fonem disebut …",
+          "pilihan": [
+            { "option": "silabel", "flag": false },
+            { "option": "alfabet", "flag": true },
+            { "option": "kata", "flag": false },
+            { "option": "gambar", "flag": false }
+          ],
+          "pembahasan": "Sistem alfabet menggunakan satu simbol untuk satu fonem."
+        },
+        {
+          "pertanyaan": "Tulisan bangsa Mesir kuno menggunakan sistem tulisan …",
+          "pilihan": [
+            { "option": "silabel", "flag": false },
+            { "option": "alfabet", "flag": false },
+            { "option": "kata", "flag": true },
+            { "option": "gambar", "flag": false }
+          ],
+          "pembahasan": "Tulisan Mesir kuno termasuk sistem tulisan kata."
+        },
+        {
+          "pertanyaan": "Tulisan bangsa Persia termasuk menggunakan sistem tulisan …",
+          "pilihan": [
+            { "option": "silabel", "flag": true },
+            { "option": "alfabet", "flag": false },
+            { "option": "kata", "flag": false },
+            { "option": "gambar", "flag": false }
+          ],
+          "pembahasan": "Tulisan Persia menggunakan sistem silabel."
+        },
+        {
+          "pertanyaan": "Sistem penulisan bangsa Yunani modern adalah …",
+          "pilihan": [
+            { "option": "silabel", "flag": false },
+            { "option": "alfabet", "flag": true },
+            { "option": "kata", "flag": false },
+            { "option": "gambar", "flag": false }
+          ],
+          "pembahasan": "Yunani modern menggunakan sistem alfabet."
+        },
+        {
+          "pertanyaan": "Pembaharuan sistem alfabet berdasarkan sistem fonemik suatu bahasa bersifat …",
+          "pilihan": [
+            { "option": "efektif", "flag": false },
+            { "option": "tidak efektif dan kompleks", "flag": true },
+            { "option": "memungkinkan", "flag": false },
+            { "option": "kompleks", "flag": false }
+          ],
+          "pembahasan": "Penyesuaian ejaan dengan pelafalan membuat sistem tulisan kompleks dan tidak stabil."
+        },
+        {
+          "pertanyaan": "Grafiti menunjukkan …",
+          "pilihan": [
+            { "option": "keindahan kota", "flag": false },
+            { "option": "tempat ekspresi kaum muda", "flag": false },
+            {
+              "option": "representasi titik evolusi sistem penulisan",
+              "flag": true
+            },
+            { "option": "peninggalan sejarah", "flag": false }
+          ],
+          "pembahasan": "Grafiti dapat menunjukkan perkembangan dan evolusi sistem penulisan."
+        }
+      ]
     }
   ]
 }
