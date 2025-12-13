@@ -1,0 +1,342 @@
+{
+  "slug": "pengantar_linguistik_umum",
+  "title": "Pengantar Linguistik Umum",
+  "description": "Modul pengantar linguistik umum.",
+  "modules": [
+    {
+      "id": "modul_1",
+      "title": "Bahasa, Fungsi Bahasa, dan Konteks Sosial",
+      "questions": [
+        {
+          "pertanyaan": "Dua definisi bahasa menurut kajian linguistik adalah …",
+          "pilihan": [
+            {
+              "option": "sistem tanda alami dan buatan manusia",
+              "flag": false
+            },
+            { "option": "alat komunikasi dan simbol budaya", "flag": false },
+            {
+              "option": "alat komunikasi terstruktur dan sistem semiotika sosial",
+              "flag": true
+            },
+            { "option": "kumpulan kata bermakna kultural", "flag": false }
+          ],
+          "pembahasan": "Dalam modul, bahasa didefinisikan sebagai alat komunikasi yang terorganisasi dalam satuan linguistik serta sebagai bentuk semiotika sosial yang bekerja dalam konteks situasi dan kultural."
+        },
+        {
+          "pertanyaan": "Bahasa harus selalu dianggap sebagai teks karena …",
+          "pilihan": [
+            {
+              "option": "bahasa hanya terdiri dari kata dan kalimat",
+              "flag": false
+            },
+            {
+              "option": "bahasa bermakna jika dianalisis secara gramatikal",
+              "flag": false
+            },
+            {
+              "option": "bahasa hanya berfungsi sebagai sistem",
+              "flag": false
+            },
+            {
+              "option": "bahasa mengungkapkan makna secara kontekstual",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Bahasa selalu hadir dalam bentuk teks atau wacana yang mengungkapkan makna dalam konteks penggunaan, bukan sebagai sistem abstrak semata."
+        },
+        {
+          "pertanyaan": "Tiga fungsi utama bahasa disebut metafungsi, yaitu …",
+          "pilihan": [
+            { "option": "logikal, eksperiensial, dan simbolik", "flag": false },
+            {
+              "option": "ideasional, interpersonal, dan tekstual",
+              "flag": true
+            },
+            { "option": "sosial, budaya, dan situasional", "flag": false },
+            { "option": "struktural, fungsional, dan pragmatik", "flag": false }
+          ],
+          "pembahasan": "Modul menyebutkan bahwa bahasa mengemban fungsi ideasional, interpersonal, dan tekstual yang secara bersama-sama membangun makna."
+        },
+        {
+          "pertanyaan": "Ketiga metafungsi bahasa bekerja secara simultan artinya …",
+          "pilihan": [
+            {
+              "option": "satu fungsi muncul lebih dulu dari yang lain",
+              "flag": false
+            },
+            { "option": "fungsi bergantian sesuai konteks", "flag": false },
+            {
+              "option": "satu klausa hanya mewakili satu fungsi",
+              "flag": false
+            },
+            {
+              "option": "satu klausa merealisasikan ketiganya sekaligus",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Setiap klausa atau teks selalu mengandung ketiga metafungsi sekaligus, meskipun wujud linguistiknya hanya satu."
+        },
+        {
+          "pertanyaan": "Perbedaan utama makna antara “You may go home now” dan “You must go home now” terletak pada …",
+          "pilihan": [
+            { "option": "struktur gramatikal", "flag": false },
+            { "option": "waktu kejadian", "flag": false },
+            { "option": "makna interpersonal", "flag": true },
+            { "option": "makna ideasional", "flag": false }
+          ],
+          "pembahasan": "Kata may menunjukkan kelonggaran atau pilihan, sedangkan must menunjukkan paksaan. Perbedaannya terletak pada hubungan sosial penutur dan mitra tutur."
+        },
+        {
+          "pertanyaan": "Dua macam konteks sosial yang selalu terkait dengan penggunaan bahasa adalah …",
+          "pilihan": [
+            { "option": "konteks lokal dan global", "flag": false },
+            { "option": "konteks linguistik dan nonlinguistik", "flag": false },
+            { "option": "konteks kultural dan konteks situasi", "flag": true },
+            { "option": "konteks teks dan wacana", "flag": false }
+          ],
+          "pembahasan": "Modul membagi konteks sosial menjadi konteks kultural (nilai dan norma) dan konteks situasi (lingkungan langsung penggunaan bahasa)."
+        },
+        {
+          "pertanyaan": "Bahasa disebut sebagai institusi sosial karena …",
+          "pilihan": [
+            { "option": "dikendalikan oleh pemerintah", "flag": false },
+            { "option": "bersifat formal dan baku", "flag": false },
+            {
+              "option": "digunakan secara alami dan diwariskan dalam masyarakat",
+              "flag": true
+            },
+            { "option": "selalu tertulis dalam aturan", "flag": false }
+          ],
+          "pembahasan": "Bahasa merupakan sistem tanda sosial yang alami, digunakan terus-menerus dan diwariskan antargenerasi untuk mengungkapkan gagasan."
+        },
+        {
+          "pertanyaan": "Hubungan antara bahasa dan konteks sosial bersifat mutualisme karena …",
+          "pilihan": [
+            {
+              "option": "bahasa dan konteks tidak saling memengaruhi",
+              "flag": false
+            },
+            {
+              "option": "bahasa membentuk konteks, konteks memberi makna bahasa",
+              "flag": true
+            },
+            { "option": "konteks hanya mengikuti bahasa", "flag": false },
+            { "option": "bahasa berdiri sendiri tanpa konteks", "flag": false }
+          ],
+          "pembahasan": "Bahasa merealisasikan konteks sosial, sementara konteks sosial menjadi sumber makna bahasa. Keduanya saling membutuhkan."
+        },
+        {
+          "pertanyaan": "Perbedaan utama konteks kultural dan konteks situasi adalah …",
+          "pilihan": [
+            {
+              "option": "kultural bersifat linguistik, situasi bersifat sosial",
+              "flag": false
+            },
+            {
+              "option": "kultural bersifat langsung, situasi bersifat abstrak",
+              "flag": false
+            },
+            {
+              "option": "kultural mencakup nilai dan norma, situasi mencakup medan, pelibat, dan moda",
+              "flag": true
+            },
+            { "option": "keduanya sama dan dapat dipertukarkan", "flag": false }
+          ],
+          "pembahasan": "Konteks kultural berisi sistem nilai dan norma, sedangkan konteks situasi mencakup field, tenor, dan mode dalam peristiwa bahasa."
+        },
+        {
+          "pertanyaan": "Konteks situasi secara dinamis berarti …",
+          "pilihan": [
+            {
+              "option": "konteks selalu tetap sepanjang wacana",
+              "flag": false
+            },
+            {
+              "option": "konteks hanya berlaku pada teks tulis",
+              "flag": false
+            },
+            {
+              "option": "konfigurasi makna berubah selama wacana berlangsung",
+              "flag": true
+            },
+            { "option": "konteks tidak memengaruhi makna", "flag": false }
+          ],
+          "pembahasan": "Konteks situasi dinamis terjadi ketika field, tenor, dan mode dapat berubah selama interaksi berlangsung, seperti pada percakapan lisan."
+        },
+        {
+          "pertanyaan": "Terdapat banyak sekali definisi bahasa. Berikut ini adalah definisi bahasa yang lazim kita temukan, kecuali ….",
+          "pilihan": [
+            {
+              "option": "alat komunikasi yang terorganisasi dalam bentuk satuan-satuan, seperti kata, kelompok kata, klausa, dan kalimat yang diungkapkan baik secara lisan maupun tulis",
+              "flag": false
+            },
+            {
+              "option": "bentuk semiotika sosial yang sedang melakukan pekerjaan di dalam suatu konteks situasi dan konteks kultural, yang digunakan baik secara lisan maupun tulis",
+              "flag": false
+            },
+            {
+              "option": "sistem komunikasi manusia yang dinyatakan melalui susunan suara atau ungkapan tulis yang terstruktur untuk membentuk satuan yang lebih besar, seperti morfem, kata, dan kalimat",
+              "flag": false
+            },
+            {
+              "option": "kumpulan kata-kata yang bermakna secara kultural yang digunakan untuk menyatakan pendapat",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Pilihan A, B, dan C sesuai dengan definisi bahasa dalam kajian linguistik. Pilihan D tidak tepat karena mereduksi bahasa hanya sebagai kumpulan kata, bukan sebagai sistem komunikasi yang terstruktur."
+        },
+        {
+          "pertanyaan": "Tiga fungsi utama bahasa adalah …..",
+          "pilihan": [
+            {
+              "option": "fungsi ideasional, fungsi eksperiensial, dan fungsi tekstual",
+              "flag": false
+            },
+            {
+              "option": "fungsi ideasional, fungsi transaksional, dan fungsi tekstual",
+              "flag": false
+            },
+            {
+              "option": "fungsi ideasional, fungsi logikal, dan fungsi tekstual",
+              "flag": false
+            },
+            {
+              "option": "fungsi ideasional, fungsi interpersonal, dan fungsi tekstual",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Modul menyatakan bahwa bahasa mengemban tiga metafungsi utama, yaitu ideasional, interpersonal, dan tekstual, yang bekerja secara bersamaan dalam setiap tuturan."
+        },
+        {
+          "pertanyaan": "Makna metafungsional terdiri atas 3 komponen, yaitu ….",
+          "pilihan": [
+            {
+              "option": "makna ideasional, makna eksperiensial, dan makna tekstual",
+              "flag": false
+            },
+            {
+              "option": "makna ideasional, makna transaksional, dan makna tekstual",
+              "flag": false
+            },
+            {
+              "option": "makna ideasional, makna logikal, dan makna tekstual",
+              "flag": false
+            },
+            {
+              "option": "makna ideasional, makna interpersonal, dan makna tekstual",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Makna metafungsional mencakup makna ideasional, makna interpersonal, dan makna tekstual, yang merupakan hasil kerja tiga metafungsi bahasa."
+        },
+        {
+          "pertanyaan": "Makna ideasional terdiri atas dua subkomponen, yaitu ….",
+          "pilihan": [
+            {
+              "option": "makna interaksional dan makna transaksional",
+              "flag": false
+            },
+            { "option": "makna eksperiensial dan makna logikal", "flag": true },
+            {
+              "option": "makna logikal dan makna transaksional",
+              "flag": false
+            },
+            {
+              "option": "makna eksperiensial dan makna interaksional",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Makna ideasional terbagi menjadi makna eksperiensial (pengalaman) dan makna logikal (hubungan logis antar pengalaman)."
+        },
+        {
+          "pertanyaan": "Pada dasarnya fungsi tekstual merupakan gabungan dari ….",
+          "pilihan": [
+            {
+              "option": "fungsi ideasional dan fungsi eksperiensial",
+              "flag": false
+            },
+            {
+              "option": "fungsi eksperiensial dan fungsi logikal",
+              "flag": false
+            },
+            {
+              "option": "fungsi ideasional dan fungsi interpersonal",
+              "flag": true
+            },
+            {
+              "option": "fungsi interpersonal dan fungsi transaksional",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Fungsi tekstual berperan mengorganisasi makna dengan cara merealisasikan fungsi ideasional dan fungsi interpersonal ke dalam bentuk teks yang padu dan relevan."
+        },
+        {
+          "pertanyaan": "Hubungan antara bahasa dan konteks sosial adalah hubungan yang bersifat ….",
+          "pilihan": [
+            { "option": "timbal balik", "flag": true },
+            { "option": "kontras", "flag": false },
+            { "option": "sepadan", "flag": false },
+            { "option": "simetris", "flag": false }
+          ],
+          "pembahasan": "Bahasa dan konteks sosial saling memengaruhi. Bahasa merealisasikan konteks sosial, dan konteks sosial memberi makna pada bahasa, sehingga hubungannya bersifat timbal balik (mutualisme)."
+        },
+        {
+          "pertanyaan": "Konteks sosial dibagi menjadi ….",
+          "pilihan": [
+            { "option": "konteks situasi dan konteks budaya", "flag": true },
+            { "option": "konteks lokal dan konteks global", "flag": false },
+            { "option": "konteks wacana dan konteks teks", "flag": false },
+            {
+              "option": "konteks di dalam teks dan konteks di luar teks",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Dalam modul, konteks sosial dibedakan menjadi konteks situasi dan konteks kultural/budaya."
+        },
+        {
+          "pertanyaan": "Ragam atau gaya ekspresi kebahasaan disebut ….",
+          "pilihan": [
+            { "option": "norma", "flag": false },
+            { "option": "register", "flag": true },
+            { "option": "nilai", "flag": false },
+            { "option": "kepercayaan", "flag": false }
+          ],
+          "pembahasan": "Ragam atau gaya bahasa yang digunakan sesuai konteks situasi disebut register dalam kajian Linguistik Sistemik Fungsional."
+        },
+        {
+          "pertanyaan": "Register melingkupi aspek-aspek ….",
+          "pilihan": [
+            { "option": "field dan tenor", "flag": false },
+            { "option": "field, tenor, dan mode", "flag": true },
+            { "option": "medan dan pelibat", "flag": false },
+            { "option": "pelibat dan moda", "flag": false }
+          ],
+          "pembahasan": "Register dibentuk oleh tiga aspek konteks situasi, yaitu field (medan), tenor (pelibat), dan mode (moda) yang bekerja secara simultan."
+        },
+        {
+          "pertanyaan": "Yang dimaksud konteks situasi secara dinamis adalah ….",
+          "pilihan": [
+            {
+              "option": "konteks situasi yang konfigurasi maknanya selalu berubah selama wacana yang diciptakan sedang berlangsung",
+              "flag": true
+            },
+            {
+              "option": "konteks situasi yang konfigurasi maknanya lebih mapan pada wacana yang tidak sedang berlangsung",
+              "flag": false
+            },
+            {
+              "option": "konteks situasi yang mengandung konfigurasi makna pada sebuah teks",
+              "flag": false
+            },
+            {
+              "option": "konteks situasi yang tidak mengandung konfigurasi makna pada sebuah teks",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Konteks situasi dinamis merujuk pada kondisi ketika field, tenor, dan mode dapat berubah selama wacana berlangsung, seperti dalam percakapan lisan."
+        }
+      ]
+    }
+  ]
+}
