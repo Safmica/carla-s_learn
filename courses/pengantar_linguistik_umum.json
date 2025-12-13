@@ -1156,6 +1156,480 @@
           "pembahasan": "Grafiti dapat menunjukkan perkembangan dan evolusi sistem penulisan."
         }
       ]
+    },
+    {
+      "id": "modul_4",
+      "title": "Kohesi",
+      "questions": [
+        {
+          "pertanyaan": "Apakah yang dimaksud dengan kohesi?",
+          "pilihan": [
+            {
+              "option": "Sistem linguistik yang mempertautkan bentuk leksikogramatika saja",
+              "flag": false
+            },
+            {
+              "option": "Sistem linguistik yang mempertautkan makna saja",
+              "flag": false
+            },
+            {
+              "option": "Sistem pertautan bentuk dan makna sehingga menjadi teks yang utuh",
+              "flag": true
+            },
+            {
+              "option": "Sistem struktur teks tanpa memperhatikan makna",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Kohesi adalah sistem linguistik yang mempertautkan bentuk dan makna leksikogramatika sehingga terbentuk teks yang utuh."
+        },
+        {
+          "pertanyaan": "Mengapa kohesi dan koherensi tidak dibedakan dalam modul ini?",
+          "pilihan": [
+            {
+              "option": "Karena koherensi lebih penting daripada kohesi",
+              "flag": false
+            },
+            {
+              "option": "Karena koherensi tidak berhubungan dengan teks",
+              "flag": false
+            },
+            { "option": "Karena kohesi hanya membahas bentuk", "flag": false },
+            {
+              "option": "Karena koherensi sudah tercakup dalam konsep kohesi",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Dalam pandangan Halliday dan Hasan, bentuk adalah simbol makna, sehingga kohesi mencakup pertautan bentuk dan makna sekaligus."
+        },
+        {
+          "pertanyaan": "Pencetus konsep kohesi yang menjadi dasar modul ini adalah …",
+          "pilihan": [
+            { "option": "Widdowson", "flag": false },
+            { "option": "Santosa", "flag": false },
+            { "option": "Halliday dan Hasan", "flag": true },
+            { "option": "Ventola", "flag": false }
+          ],
+          "pembahasan": "Konsep kohesi dalam modul ini berangkat dari pemikiran Halliday dan Hasan (1976) dan dikembangkan lebih lanjut oleh Martin."
+        },
+        {
+          "pertanyaan": "Apakah yang dimaksud dengan kohesi gramatikal?",
+          "pilihan": [
+            { "option": "Hubungan antarleksis dalam teks", "flag": false },
+            {
+              "option": "Hubungan logis antar bentuk dan makna akibat relasi gramatikal",
+              "flag": true
+            },
+            { "option": "Hubungan antarparagraf dalam teks", "flag": false },
+            { "option": "Hubungan makna kontekstual semata", "flag": false }
+          ],
+          "pembahasan": "Kohesi gramatikal merupakan pertautan logis antara bentuk dan makna yang muncul dari hubungan gramatikal dalam dan antarklausa."
+        },
+        {
+          "pertanyaan": "Berapa macam kohesi gramatikal dalam modul ini?",
+          "pilihan": [
+            { "option": "Dua", "flag": false },
+            { "option": "Tiga", "flag": false },
+            { "option": "Empat", "flag": true },
+            { "option": "Lima", "flag": false }
+          ],
+          "pembahasan": "Kohesi gramatikal terdiri atas empat jenis, yaitu referensi, substitusi, elipsis, dan konjungsi."
+        },
+        {
+          "pertanyaan": "Secara logiko-semantik, konjungsi dibagi menjadi …",
+          "pilihan": [
+            { "option": "Dua: eksternal dan internal", "flag": false },
+            {
+              "option": "Tiga: elaborasi, ekstensi, dan enhansi",
+              "flag": true
+            },
+            {
+              "option": "Empat: addition, comparison, time, consequence",
+              "flag": false
+            },
+            {
+              "option": "Lima: waktu, sebab, tujuan, konsesi, kondisi",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Dalam kerangka logiko-semantik, konjungsi dibagi menjadi elaborasi, ekstensi, dan enhansi."
+        },
+        {
+          "pertanyaan": "Konjungsi “and / atau / tetapi” termasuk jenis …",
+          "pilihan": [
+            { "option": "Elaborasi", "flag": false },
+            { "option": "Ekstensi", "flag": true },
+            { "option": "Enhansi", "flag": false },
+            { "option": "Internal comparison", "flag": false }
+          ],
+          "pembahasan": "Konjungsi and, or, dan but berfungsi memperluas kejadian sehingga termasuk jenis ekstensi."
+        },
+        {
+          "pertanyaan": "Peran utama konjungsi eksternal adalah …",
+          "pilihan": [
+            { "option": "Menghubungkan argumen", "flag": false },
+            { "option": "Menghubungkan pendapat penulis", "flag": false },
+            { "option": "Menghubungkan kejadian atau peristiwa", "flag": true },
+            { "option": "Menghubungkan paragraf", "flag": false }
+          ],
+          "pembahasan": "Konjungsi eksternal berfungsi menghubungkan kejadian, kualitas, atau deskripsi dalam teks."
+        },
+        {
+          "pertanyaan": "Peran utama konjungsi internal adalah …",
+          "pilihan": [
+            { "option": "Menghubungkan dua peristiwa", "flag": false },
+            { "option": "Menghubungkan argumen atau gagasan", "flag": true },
+            { "option": "Menghubungkan klausa simpleks", "flag": false },
+            { "option": "Menghubungkan proses material", "flag": false }
+          ],
+          "pembahasan": "Konjungsi internal digunakan untuk menghubungkan argumen, gagasan, atau sikap penulis."
+        },
+        {
+          "pertanyaan": "Hubungan konjungsi eksternal dan internal dengan genre adalah …",
+          "pilihan": [
+            { "option": "Keduanya hanya muncul pada narasi", "flag": false },
+            {
+              "option": "Konjungsi internal dominan pada genre argumentatif",
+              "flag": true
+            },
+            {
+              "option": "Konjungsi eksternal hanya ada pada dialog",
+              "flag": false
+            },
+            { "option": "Keduanya tidak berkaitan dengan genre", "flag": false }
+          ],
+          "pembahasan": "Konjungsi internal dominan pada genre argumentatif, sedangkan konjungsi eksternal dominan pada genre faktual seperti laporan dan prosedur."
+        },
+        {
+          "pertanyaan": "Apakah yang dimaksud dengan kohesi leksikal?",
+          "pilihan": [
+            { "option": "Hubungan gramatikal dalam klausa", "flag": false },
+            { "option": "Hubungan fonologis antarkata", "flag": false },
+            {
+              "option": "Hubungan leksikal antarleksis dalam teks",
+              "flag": true
+            },
+            { "option": "Hubungan antarparagraf", "flag": false }
+          ],
+          "pembahasan": "Kohesi leksikal merupakan hubungan makna antarleksis yang membangun kepaduan teks."
+        },
+        {
+          "pertanyaan": "Kohesi leksikal dibagi menjadi …",
+          "pilihan": [
+            { "option": "Satu macam", "flag": false },
+            { "option": "Dua macam", "flag": true },
+            { "option": "Tiga macam", "flag": false },
+            { "option": "Empat macam", "flag": false }
+          ],
+          "pembahasan": "Kohesi leksikal dibagi menjadi kohesi taksonomis dan nontaksonomis."
+        },
+        {
+          "pertanyaan": "Berikut ini termasuk hubungan taksonomis, kecuali …",
+          "pilihan": [
+            { "option": "Hiponimi", "flag": false },
+            { "option": "Sinonimi", "flag": false },
+            { "option": "Komposisi", "flag": false },
+            { "option": "Urutan aktivitas", "flag": true }
+          ],
+          "pembahasan": "Urutan aktivitas termasuk kohesi leksikal nontaksonomis."
+        },
+        {
+          "pertanyaan": "Hubungan “house – window” termasuk jenis …",
+          "pilihan": [
+            { "option": "Hiponimi", "flag": false },
+            { "option": "Ko-hiponimi", "flag": false },
+            { "option": "Meronimi", "flag": true },
+            { "option": "Sinonimi", "flag": false }
+          ],
+          "pembahasan": "House dan window memiliki hubungan keseluruhan–bagian yang disebut meronimi."
+        },
+        {
+          "pertanyaan": "Peran utama kohesi leksikal nontaksonomis dalam teks adalah …",
+          "pilihan": [
+            { "option": "Menentukan kelas kata", "flag": false },
+            { "option": "Menentukan struktur gramatikal", "flag": false },
+            {
+              "option": "Membantu merekonstruksi struktur teks dan fungsi retoris",
+              "flag": true
+            },
+            { "option": "Menentukan makna leksikal tunggal", "flag": false }
+          ],
+          "pembahasan": "Kohesi leksikal nontaksonomis membantu menganalisis struktur teks dan fungsi retorisnya."
+        },
+        {
+          "pertanyaan": "Apakah kohesi itu?",
+          "pilihan": [
+            {
+              "option": "Sistem linguistik yang mempertautan bentuk leksikogramatika sehingga menjadi teks atau wacana yang kohesif, utuh, dan holistik",
+              "flag": false
+            },
+            {
+              "option": "Sistem linguistik yang mempertautan makna leksikogramatika sehingga menjadi teks atau wacana yang kohesif, utuh, dan holistik",
+              "flag": false
+            },
+            {
+              "option": "Sistem pertautan bentuk dan makna sehingga menjadi teks atau wacana yang kohesif, utuh, dan holistik",
+              "flag": false
+            },
+            {
+              "option": "Sistem linguistik yang mempertautan bentuk dan makna leksikogramatika sehingga menjadi teks atau wacana yang kohesif, utuh, dan holistik",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Dalam modul, kohesi didefinisikan sebagai sistem linguistik yang mempertautkan bentuk dan makna leksikogramatika sehingga membentuk teks atau wacana yang utuh dan holistik."
+        },
+        {
+          "pertanyaan": "Mengapa istilah koherensi di dalam konsep ini tidak diikutsertakan?",
+          "pilihan": [
+            {
+              "option": "karena istilah koherensi secara implisit sudah termasuk di dalam istilah kohesi dalam konsep ini",
+              "flag": true
+            },
+            {
+              "option": "karena koherensi tidak termasuk di dalam kategori kohesi",
+              "flag": false
+            },
+            {
+              "option": "karena keduanya merupakan hal yang berbeda",
+              "flag": false
+            },
+            {
+              "option": "karena koherensi merupakan pertautan makna",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Menurut Halliday dan Hasan, bentuk adalah simbol makna, sehingga pertautan makna (koherensi) sudah tercakup di dalam konsep kohesi."
+        },
+        {
+          "pertanyaan": "Ada berapa macam kohesi gramatikal di dalam konsep kohesi di dalam modul ini?",
+          "pilihan": [
+            {
+              "option": "Tiga macam. Substitusi, elipsis, dan konjungsi",
+              "flag": false
+            },
+            {
+              "option": "Tiga macam. Item referensi, substitusi, dan elipsis",
+              "flag": false
+            },
+            {
+              "option": "Empat macam. Item referensi, substitusi, elipsis, dan konjungsi",
+              "flag": true
+            },
+            {
+              "option": "Lima macam. Item referensi, substitusi, elipsis, konjungsi, dan logiko-semantik",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Kohesi gramatikal terdiri dari empat macam, yaitu item referensi, substitusi, elipsis, dan konjungsi."
+        },
+        {
+          "pertanyaan": "Termasuk jenis kohesi apakah contoh berikut ini? He has bought a new car. The car costs 170 millions rupiah.",
+          "pilihan": [
+            { "option": "Item referensi", "flag": true },
+            { "option": "Substitusi", "flag": false },
+            { "option": "Elipsis", "flag": false },
+            { "option": "Konjungsi", "flag": false }
+          ],
+          "pembahasan": "Frasa 'the car' merujuk kembali pada 'a new car', sehingga termasuk item referensi (rujukan anaforis)."
+        },
+        {
+          "pertanyaan": "Termasuk jenis kohesi apakah contoh berikut ini? They argue that she is not only critical, but she also has financial problems.",
+          "pilihan": [
+            { "option": "Item referensi", "flag": false },
+            { "option": "Substitusi", "flag": false },
+            { "option": "Elipsis", "flag": false },
+            { "option": "Konjungsi", "flag": true }
+          ],
+          "pembahasan": "Konstruksi 'not only … but also' menunjukkan hubungan logis antarklausa, sehingga termasuk konjungsi."
+        },
+        {
+          "pertanyaan": "Berdasarkan hubungan logiko-semantiknya, konjungsi dapat dibagi menjadi …",
+          "pilihan": [
+            { "option": "Dua macam. Eksternal dan internal", "flag": false },
+            {
+              "option": "Tiga macam. Elaborasi, ekstensi, dan enhansi",
+              "flag": true
+            },
+            {
+              "option": "Empat macam. Addition, comparison, time, dan consequence",
+              "flag": false
+            },
+            {
+              "option": "Lima macam. Waktu, alasan, tujuan, konsesi, dan kondisi",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Secara logiko-semantik, konjungsi dibagi menjadi elaborasi, ekstensi, dan enhansi."
+        },
+        {
+          "pertanyaan": "Berdasarkan peran dan fungsinya, konjungsi dapat dibagi menjadi …",
+          "pilihan": [
+            { "option": "Dua macam. Eksternal dan internal", "flag": true },
+            {
+              "option": "Tiga macam. Elaborasi, ekstensi, dan enhansi",
+              "flag": false
+            },
+            {
+              "option": "Empat macam. Addition, comparison, time, dan consequence",
+              "flag": false
+            },
+            {
+              "option": "Lima macam. Waktu, alasan, tujuan, konsesi, dan kondisi",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Berdasarkan peran dan fungsinya, konjungsi dibedakan menjadi konjungsi eksternal dan konjungsi internal."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah contoh konjungsi apa? They are very intelligent; they can do very quickly.",
+          "pilihan": [
+            { "option": "Elaborasi", "flag": true },
+            { "option": "Ekstensi", "flag": false },
+            { "option": "Enhansi waktu", "flag": false },
+            { "option": "Enhansi alasan", "flag": false }
+          ],
+          "pembahasan": "Klausa kedua menjelaskan klausa pertama, sehingga termasuk konjungsi elaborasi."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah contoh konjungsi apa? They could not do the test since they had too many absences.",
+          "pilihan": [
+            { "option": "Elaborasi", "flag": false },
+            { "option": "Ekstensi", "flag": false },
+            { "option": "Enhansi waktu", "flag": false },
+            { "option": "Enhansi alasan", "flag": true }
+          ],
+          "pembahasan": "Kata 'since' menyatakan hubungan sebab, sehingga termasuk enhansi alasan."
+        },
+        {
+          "pertanyaan": "Fungsi atau peran konjungsi apa yang diterapkan pada kalimat berikut? They think that they can appreciate the painting. In fact, they just describe the painting.",
+          "pilihan": [
+            { "option": "Eksternal – Addition", "flag": false },
+            { "option": "Eksternal – Comparison", "flag": false },
+            { "option": "Internal – Addition", "flag": false },
+            { "option": "Internal – Comparison", "flag": true }
+          ],
+          "pembahasan": "In fact menghubungkan argumen dan bersifat kontras, sehingga termasuk konjungsi internal comparison."
+        },
+        {
+          "pertanyaan": "Bagaimanakah konsep kohesi leksikal?",
+          "pilihan": [
+            {
+              "option": "Konsep kohesi berdasarkan hubungan gramatikal",
+              "flag": false
+            },
+            {
+              "option": "Konsep kohesi berdasarkan hubungan leksikal",
+              "flag": true
+            },
+            {
+              "option": "Konsep kohesi berdasarkan hubungan leksikal dan gramatikal",
+              "flag": false
+            },
+            { "option": "Ketiga-tiganya tidak benar", "flag": false }
+          ],
+          "pembahasan": "Kohesi leksikal didasarkan pada hubungan makna antarleksis dalam teks."
+        },
+        {
+          "pertanyaan": "Ada berapa macam kohesi leksikal?",
+          "pilihan": [
+            { "option": "2 macam", "flag": true },
+            { "option": "3 macam", "flag": false },
+            { "option": "4 macam", "flag": false },
+            { "option": "5 macam", "flag": false }
+          ],
+          "pembahasan": "Kohesi leksikal dibagi menjadi dua macam, yaitu taksonomis dan nontaksonomis."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? management – director, employee",
+          "pilihan": [
+            { "option": "hiponimi", "flag": false },
+            { "option": "ko-hiponimi", "flag": false },
+            { "option": "meronimi", "flag": true },
+            { "option": "ko-meronimi", "flag": false }
+          ],
+          "pembahasan": "Hubungan tersebut menunjukkan keseluruhan–bagian, sehingga termasuk meronimi."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? house – traditional, modern",
+          "pilihan": [
+            { "option": "hiponimi", "flag": true },
+            { "option": "ko-hiponimi", "flag": false },
+            { "option": "meronimi", "flag": false },
+            { "option": "ko-meronimi", "flag": false }
+          ],
+          "pembahasan": "Traditional house dan modern house merupakan subkelas dari house, sehingga termasuk hiponimi."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? engine – steel",
+          "pilihan": [
+            { "option": "sinonimi", "flag": false },
+            { "option": "antonimi", "flag": false },
+            { "option": "kolektifitas", "flag": false },
+            { "option": "konsistensi", "flag": true }
+          ],
+          "pembahasan": "Hubungan antara benda dan material penyusunnya termasuk konsistensi."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? vessel – pipe",
+          "pilihan": [
+            { "option": "sinonimi", "flag": true },
+            { "option": "antonimi", "flag": false },
+            { "option": "kolektifitas", "flag": false },
+            { "option": "konsistensi", "flag": false }
+          ],
+          "pembahasan": "Vessel dan pipe memiliki kedekatan makna, sehingga termasuk sinonimi."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? crowds – two persons",
+          "pilihan": [
+            { "option": "sinonimi", "flag": false },
+            { "option": "antonimi", "flag": false },
+            { "option": "kolektifitas", "flag": true },
+            { "option": "konsistensi", "flag": false }
+          ],
+          "pembahasan": "Hubungan kelompok dan anggotanya termasuk kolektifitas."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? eat – apple",
+          "pilihan": [
+            { "option": "nuklir-eksperiensial: ekstensi", "flag": true },
+            { "option": "nuklir-eksperiensial: enhansi", "flag": false },
+            { "option": "urutan aktivitas waktu", "flag": false },
+            { "option": "urutan aktivitas konsekuensial", "flag": false }
+          ],
+          "pembahasan": "Hubungan proses dan objek yang menambah informasi termasuk nuklir-eksperiensial ekstensi."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? cruise – sea",
+          "pilihan": [
+            { "option": "nuklir-eksperiensial: ekstensi", "flag": false },
+            { "option": "nuklir-eksperiensial: enhansi", "flag": true },
+            { "option": "urutan aktivitas waktu", "flag": false },
+            { "option": "urutan aktivitas konsekuensial", "flag": false }
+          ],
+          "pembahasan": "Sea berfungsi sebagai sirkumstan tempat, sehingga termasuk enhansi."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? run – trick opponent – kick ball – goal",
+          "pilihan": [
+            { "option": "nuklir-eksperiensial: ekstensi", "flag": false },
+            { "option": "nuklir-eksperiensial: enhansi", "flag": false },
+            { "option": "urutan aktivitas waktu", "flag": true },
+            { "option": "urutan aktivitas konsekuensial", "flag": false }
+          ],
+          "pembahasan": "Rangkaian tersebut menunjukkan urutan kejadian berdasarkan waktu."
+        },
+        {
+          "pertanyaan": "Termasuk kohesi leksikal jenis apakah leksis berikut ini? save money – do business – success – rich",
+          "pilihan": [
+            { "option": "nuklir-eksperiensial: ekstensi", "flag": false },
+            { "option": "nuklir-eksperiensial: enhansi", "flag": false },
+            { "option": "urutan aktivitas waktu", "flag": false },
+            { "option": "urutan aktivitas konsekuensial", "flag": true }
+          ],
+          "pembahasan": "Rangkaian ini menunjukkan hubungan sebab–akibat, sehingga termasuk urutan aktivitas konsekuensial."
+        }
+      ]
     }
   ]
 }
