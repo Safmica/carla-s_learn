@@ -2578,6 +2578,284 @@
           "pembahasan": "Facebook Pages digunakan untuk bisnis, organisasi, dan brand."
         }
       ]
+    },
+    {
+      "id": "modul_7",
+      "title": "Pemanfaatan Internet untuk Aktivitas Public Relations",
+      "questions": [
+        {
+          "pertanyaan": "Cyber PR disebut sebagai sebuah inisiatif karena …. ",
+          "pilihan": [
+            { "option": "memanfaatkan media konvensional", "flag": false },
+            {
+              "option": "menggunakan internet sebagai sarana publisitas",
+              "flag": true
+            },
+            { "option": "menggantikan fungsi marketing", "flag": false },
+            { "option": "bersifat satu arah", "flag": false }
+          ],
+          "pembahasan": "Cyber PR merupakan langkah aktif humas yang memanfaatkan internet sebagai sarana publisitas dan komunikasi."
+        },
+        {
+          "pertanyaan": "Istilah Web 2.0 merujuk pada …. ",
+          "pilihan": [
+            { "option": "web statis berbasis HTML", "flag": false },
+            {
+              "option": "layanan web generasi kedua yang interaktif",
+              "flag": true
+            },
+            { "option": "media daring satu arah", "flag": false },
+            { "option": "website korporat tertutup", "flag": false }
+          ],
+          "pembahasan": "Web 2.0 menekankan interaktivitas, partisipasi pengguna, dan kolaborasi."
+        },
+        {
+          "pertanyaan": "Blog dalam konteks fungsi internal digunakan untuk …. ",
+          "pilihan": [
+            { "option": "promosi produk", "flag": false },
+            {
+              "option": "komunikasi dengan karyawan dan pemegang saham",
+              "flag": true
+            },
+            { "option": "memantau pesaing", "flag": false },
+            { "option": "distribusi iklan", "flag": false }
+          ],
+          "pembahasan": "Blog internal berfungsi sebagai sarana komunikasi internal organisasi."
+        },
+        {
+          "pertanyaan": "Fungsi eksternal blog bagi perusahaan adalah …. ",
+          "pilihan": [
+            { "option": "penyimpanan arsip", "flag": false },
+            { "option": "tanggapan terhadap opini publik", "flag": true },
+            { "option": "pengawasan karyawan", "flag": false },
+            { "option": "manajemen logistik", "flag": false }
+          ],
+          "pembahasan": "Blog eksternal digunakan untuk merespons opini dan membangun dialog dengan publik."
+        },
+        {
+          "pertanyaan": "Website berikut dapat dimanfaatkan PR untuk aktivitas kehumasan, kecuali …. ",
+          "pilihan": [
+            { "option": "Technorati", "flag": false },
+            { "option": "PR Newswire", "flag": false },
+            { "option": "Epinions", "flag": false },
+            { "option": "Microsoft Excel", "flag": true }
+          ],
+          "pembahasan": "Microsoft Excel adalah perangkat lunak pengolah data, bukan media cyber PR."
+        },
+        {
+          "pertanyaan": "Salah satu potensi utama cyber media bagi PR adalah …. ",
+          "pilihan": [
+            { "option": "komunikasi satu arah", "flag": false },
+            { "option": "respons cepat", "flag": true },
+            { "option": "keterbatasan wilayah", "flag": false },
+            { "option": "biaya tinggi", "flag": false }
+          ],
+          "pembahasan": "Cyber media memungkinkan respons yang cepat dan komunikasi dua arah."
+        },
+        {
+          "pertanyaan": "Weblog dapat didefinisikan sebagai …. ",
+          "pilihan": [
+            { "option": "portal berita resmi", "flag": false },
+            {
+              "option": "situs pribadi berisi opini dan informasi",
+              "flag": true
+            },
+            { "option": "media cetak digital", "flag": false },
+            { "option": "arsip perusahaan", "flag": false }
+          ],
+          "pembahasan": "Blog bersifat personal, mudah dipublikasikan, dan relatif bebas sensor."
+        },
+        {
+          "pertanyaan": "Faktor yang mendorong berkembangnya penggunaan blog menurut Scoble & Israel adalah …. ",
+          "pilihan": [
+            { "option": "regulasi pemerintah", "flag": false },
+            { "option": "ketersediaan teknologi dan budaya", "flag": true },
+            { "option": "sistem politik", "flag": false },
+            { "option": "tekanan pasar", "flag": false }
+          ],
+          "pembahasan": "Perkembangan blog dipengaruhi oleh kesiapan teknologi dan budaya masyarakat."
+        },
+        {
+          "pertanyaan": "Keunikan blog menurut Dave Winer terletak pada …. ",
+          "pilihan": [
+            { "option": "proses editorial ketat", "flag": false },
+            { "option": "kebebasan publikasi tanpa intervensi", "flag": true },
+            { "option": "penggunaan bahasa formal", "flag": false },
+            { "option": "kontrol perusahaan", "flag": false }
+          ],
+          "pembahasan": "Blog memberikan kebebasan penuh kepada penulis untuk mengekspresikan ide."
+        },
+        {
+          "pertanyaan": "Penggunaan blog dalam komunikasi korporat berdampak pada …. ",
+          "pilihan": [
+            { "option": "hilangnya komunikasi internal", "flag": false },
+            { "option": "terbukanya dialog dua arah", "flag": true },
+            { "option": "pembatasan opini publik", "flag": false },
+            { "option": "sentralisasi pesan", "flag": false }
+          ],
+          "pembahasan": "Blog mendorong komunikasi simetris dua arah antara organisasi dan publik."
+        },
+        {
+          "pertanyaan": "Berikut ini merupakan alasan karyawan membuat blog, kecuali …. ",
+          "pilihan": [
+            { "option": "membangun komunitas", "flag": false },
+            { "option": "mempublikasikan ide", "flag": false },
+            { "option": "memperoleh umpan balik", "flag": false },
+            { "option": "menutup akses publik", "flag": true }
+          ],
+          "pembahasan": "Blogging justru membuka akses dan dialog, bukan menutupnya."
+        },
+        {
+          "pertanyaan": "Perusahaan mendorong karyawan membuat blog karena …. ",
+          "pilihan": [
+            { "option": "biaya produksi besar", "flag": false },
+            { "option": "blog menarik dan efisien", "flag": true },
+            { "option": "menghambat komunikasi", "flag": false },
+            { "option": "memerlukan kontrol ketat", "flag": false }
+          ],
+          "pembahasan": "Blog dinilai efektif, murah, dan mampu membangun kedekatan dengan publik."
+        },
+        {
+          "pertanyaan": "Perusahaan enggan mendorong karyawan membuat blog karena khawatir …. ",
+          "pilihan": [
+            { "option": "kehilangan kontrol pesan", "flag": true },
+            { "option": "blog terlalu populer", "flag": false },
+            { "option": "akses internet terbatas", "flag": false },
+            { "option": "teknologi mahal", "flag": false }
+          ],
+          "pembahasan": "Risiko reputasi dan kebocoran informasi menjadi kekhawatiran utama perusahaan."
+        },
+        {
+          "pertanyaan": "Satuan tempat atau space yang digunakan oleh para pemasang iklan dengan menggunakan media elektronik adalah ....",
+          "pilihan": [
+            { "option": "luas", "flag": false },
+            { "option": "kolom", "flag": false },
+            { "option": "durasi", "flag": true },
+            { "option": "tempat", "flag": false }
+          ],
+          "pembahasan": "Pada media elektronik seperti radio, televisi, dan internet, iklan diukur berdasarkan durasi waktu tayang, bukan luas atau kolom."
+        },
+        {
+          "pertanyaan": "Siapakah pencetus istilah Web 2.0 ....",
+          "pilihan": [
+            { "option": "O’Rielly", "flag": true },
+            { "option": "O’Bama", "flag": false },
+            { "option": "O’Brien", "flag": false },
+            { "option": "O’Harra", "flag": false }
+          ],
+          "pembahasan": "Istilah Web 2.0 diperkenalkan oleh Tim O’Reilly untuk menggambarkan web yang interaktif dan partisipatif."
+        },
+        {
+          "pertanyaan": "Pesan rekaman yang disebarkan melalui iPod atau digital music player lainnya adalah ....",
+          "pilihan": [
+            { "option": "Webcast", "flag": false },
+            { "option": "Podcast", "flag": true },
+            { "option": "Caster", "flag": false },
+            { "option": "Procast", "flag": false }
+          ],
+          "pembahasan": "Podcast adalah rekaman audio yang dapat diunduh dan diputar melalui iPod atau pemutar musik digital lainnya."
+        },
+        {
+          "pertanyaan": "Web yang mengumpulkan informasi dari PR dan menyebarkannya ke kantor-kantor berita adalah ....",
+          "pilihan": [
+            { "option": "newswire", "flag": true },
+            { "option": "yahoo", "flag": false },
+            { "option": "technocrati", "flag": false },
+            { "option": "epinions - bizrate", "flag": false }
+          ],
+          "pembahasan": "Newswire atau PR Newswire berfungsi sebagai distributor rilis pers ke kantor berita dan media massa."
+        },
+        {
+          "pertanyaan": "Web yang khusus digunakan sebagai mesin pencari weblog adalah ....",
+          "pilihan": [
+            { "option": "newswire", "flag": false },
+            { "option": "yahoo", "flag": false },
+            { "option": "technocrati", "flag": true },
+            { "option": "epinions - bizrate", "flag": false }
+          ],
+          "pembahasan": "Technorati dikenal sebagai mesin pencari yang secara khusus mengindeks weblog atau blog."
+        },
+        {
+          "pertanyaan": "Web yang membuat ulasan komentar khalayak dan memantau komentar positif maupun negatif khalayak adalah ....",
+          "pilihan": [
+            { "option": "newswire", "flag": false },
+            { "option": "yahoo", "flag": false },
+            { "option": "technocrati", "flag": false },
+            { "option": "epinions - bizrate", "flag": true }
+          ],
+          "pembahasan": "Epinions dan Bizrate berisi ulasan konsumen yang dapat bersifat positif maupun negatif terhadap produk atau layanan."
+        },
+        {
+          "pertanyaan": "Internet memungkinkan kita memperoleh feedback dari pelanggan atau pengunjung situs. Hal ini menunjukkan sifat internet yang ....",
+          "pilihan": [
+            { "option": "interaktif", "flag": true },
+            { "option": "komunikatif", "flag": false },
+            { "option": "provokatif", "flag": false },
+            { "option": "persuasif", "flag": false }
+          ],
+          "pembahasan": "Internet bersifat interaktif karena memungkinkan komunikasi dua arah dan feedback langsung dari pengguna."
+        },
+        {
+          "pertanyaan": "Sarana yang dapat dimanfaatkan PR dalam media internet berikut, kecuali ....",
+          "pilihan": [
+            { "option": "E-mail", "flag": false },
+            { "option": "Komunitas virtual", "flag": false },
+            { "option": "Website", "flag": false },
+            { "option": "Streaming", "flag": true }
+          ],
+          "pembahasan": "Dalam modul, sarana utama PR di internet adalah e-mail, website, dan komunitas virtual. Streaming tidak disebut sebagai sarana utama."
+        },
+        {
+          "pertanyaan": "Tokoh yang menyatakan dunia komunikasi bergerak ke arah digital dan yang memahaminya akan berkomunikasi lebih efektif adalah ....",
+          "pilihan": [
+            { "option": "Max Weber", "flag": false },
+            { "option": "Kotler", "flag": false },
+            { "option": "Larry Weber", "flag": true },
+            { "option": "Larry Holmes", "flag": false }
+          ],
+          "pembahasan": "Larry Weber menekankan pentingnya memahami komunikasi digital agar komunikasi menjadi lebih efektif."
+        },
+        {
+          "pertanyaan": "Faktor yang menyebabkan ada perusahaan aktif terlibat dalam blog sementara yang lain tidak adalah faktor ....",
+          "pilihan": [
+            { "option": "budaya", "flag": true },
+            { "option": "sosial", "flag": false },
+            { "option": "nilai", "flag": false },
+            { "option": "sumber daya manusia", "flag": false }
+          ],
+          "pembahasan": "Budaya organisasi memengaruhi keterbukaan perusahaan terhadap penggunaan blog."
+        },
+        {
+          "pertanyaan": "Dengan blog karyawan dapat memosisikan dirinya sebagai pemimpin gagasan. Hal ini menjadikan karyawan sebagai ....",
+          "pilihan": [
+            { "option": "bawahan", "flag": false },
+            { "option": "bijak", "flag": false },
+            { "option": "atasan", "flag": true },
+            { "option": "ahli", "flag": false }
+          ],
+          "pembahasan": "Dalam konteks modul, pemimpin gagasan menempatkan karyawan pada posisi atasan atau pemimpin pemikiran."
+        },
+        {
+          "pertanyaan": "Blog informal yang digunakan untuk mengeluarkan ide dan melihat apakah ide tersebut menarik minat digunakan untuk menguji ....",
+          "pilihan": [
+            { "option": "ide", "flag": true },
+            { "option": "keterampilan", "flag": false },
+            { "option": "kecerdasan", "flag": false },
+            { "option": "kesabaran", "flag": false }
+          ],
+          "pembahasan": "Blog informal digunakan sebagai sarana untuk menguji ide sebelum dikembangkan lebih lanjut."
+        },
+        {
+          "pertanyaan": "Penggunaan blog untuk membangun hubungan personal dengan karyawan lain dan masyarakat strategis bertujuan untuk mendekatkan ....",
+          "pilihan": [
+            { "option": "hubungan", "flag": true },
+            { "option": "personal", "flag": false },
+            { "option": "pasar", "flag": false },
+            { "option": "perdagangan", "flag": false }
+          ],
+          "pembahasan": "Tujuan penggunaan blog adalah mendekatkan hubungan, baik internal maupun eksternal."
+        }
+      ]
     }
   ]
 }
