@@ -337,6 +337,263 @@
           "pembahasan": "Konteks situasi dinamis merujuk pada kondisi ketika field, tenor, dan mode dapat berubah selama wacana berlangsung, seperti dalam percakapan lisan."
         }
       ]
+    },
+    {
+      "id": "modul_2",
+      "title": "Leksikogramatika, Kelompok Kata, dan Klausa",
+      "questions": [
+        {
+          "pertanyaan": "Leksikogramatika dalam Linguistik Sistemik Fungsional diartikan sebagai …",
+          "pilihan": [
+            {
+              "option": "aturan tata bahasa yang berdiri sendiri",
+              "flag": false
+            },
+            { "option": "kata-kata lepas tanpa konteks", "flag": false },
+            {
+              "option": "kata-kata dalam susunannya beserta akibat maknanya",
+              "flag": true
+            },
+            { "option": "sistem bunyi bahasa", "flag": false }
+          ],
+          "pembahasan": "Menurut modul, leksikogramatika adalah kata-kata dalam susunannya beserta segala akibat maknanya, yang merealisasikan makna semantik dan direalisasikan oleh fonologi atau grafologi."
+        },
+        {
+          "pertanyaan": "Makna metafungsional mencakup makna berikut, kecuali …",
+          "pilihan": [
+            { "option": "makna ideasional", "flag": false },
+            { "option": "makna interpersonal", "flag": false },
+            { "option": "makna tekstual", "flag": false },
+            { "option": "makna leksikal", "flag": true }
+          ],
+          "pembahasan": "Makna metafungsional terdiri dari makna ideasional, interpersonal, dan tekstual. Makna leksikal tidak termasuk kategori metafungsional."
+        },
+        {
+          "pertanyaan": "Proses yang merepresentasikan tindakan atau perbuatan disebut …",
+          "pilihan": [
+            { "option": "proses mental", "flag": false },
+            { "option": "proses material", "flag": true },
+            { "option": "proses relasional", "flag": false },
+            { "option": "proses eksistensial", "flag": false }
+          ],
+          "pembahasan": "Proses material merupakan process of doing atau happening yang merepresentasikan tindakan atau perbuatan."
+        },
+        {
+          "pertanyaan": "Klausa “Ayah mendengar kabar itu” termasuk jenis proses …",
+          "pilihan": [
+            { "option": "material", "flag": false },
+            { "option": "mental", "flag": true },
+            { "option": "verbal", "flag": false },
+            { "option": "perilaku", "flag": false }
+          ],
+          "pembahasan": "Verba mendengar menunjukkan process of sensing sehingga termasuk proses mental dengan partisipan Pengindera dan Fenomena."
+        },
+        {
+          "pertanyaan": "Perbedaan utama antara klausa “Kemarin temanku datang ke rumah” dan “Temanku datang ke rumah kemarin” terletak pada …",
+          "pilihan": [
+            { "option": "makna ideasional", "flag": false },
+            { "option": "jenis proses", "flag": false },
+            { "option": "struktur Tema–Rema", "flag": true },
+            { "option": "jenis partisipan", "flag": false }
+          ],
+          "pembahasan": "Kedua klausa memiliki makna ideasional yang sama, tetapi perbedaannya terletak pada Tema. Klausa pertama menggunakan Tema bermarkah, sedangkan klausa kedua Tema tak bermarkah."
+        },
+        {
+          "pertanyaan": "Kelompok kata perlu dibedakan dari frasa karena …",
+          "pilihan": [
+            {
+              "option": "kelompok kata lebih pendek dari frasa",
+              "flag": false
+            },
+            { "option": "frasa adalah perluasan kata", "flag": false },
+            {
+              "option": "kelompok kata merupakan kata kompleks, frasa bentuk singkat klausa",
+              "flag": true
+            },
+            { "option": "frasa hanya ada dalam bahasa Inggris", "flag": false }
+          ],
+          "pembahasan": "Dalam LSF, kelompok kata merupakan perluasan kata, sedangkan frasa dipahami sebagai bentuk singkat dari klausa."
+        },
+        {
+          "pertanyaan": "Dalam Kelompok Nomina, unsur yang menentukan jenis benda disebut …",
+          "pilihan": [
+            { "option": "Pendeskripsi", "flag": false },
+            { "option": "Penegas", "flag": false },
+            { "option": "Penjenis", "flag": true },
+            { "option": "Deiktik", "flag": false }
+          ],
+          "pembahasan": "Penjenis (classifier) menentukan jenis Benda dan harus melekat langsung pada Benda."
+        },
+        {
+          "pertanyaan": "Unsur Kelompok Nomina yang berfungsi menggambarkan sifat atau keadaan benda adalah …",
+          "pilihan": [
+            { "option": "Penjenis", "flag": false },
+            { "option": "Pendeskripsi", "flag": true },
+            { "option": "Numeratif", "flag": false },
+            { "option": "Deiktik", "flag": false }
+          ],
+          "pembahasan": "Pendeskripsi direalisasikan oleh adjektiva dan menyatakan ciri, keadaan, atau sifat Benda."
+        },
+        {
+          "pertanyaan": "Kelompok kata yang berfungsi sebagai Finite dan Predikator dalam klausa adalah …",
+          "pilihan": [
+            { "option": "Kelompok Nomina", "flag": false },
+            { "option": "Kelompok Adverbia", "flag": false },
+            { "option": "Kelompok Verba", "flag": true },
+            { "option": "Kelompok Ajektiva", "flag": false }
+          ],
+          "pembahasan": "Kelompok Verba merupakan pusat klausa dan berfungsi sebagai Finite dan Predikator."
+        },
+        {
+          "pertanyaan": "Klausa yang hanya mengandung satu proses disebut …",
+          "pilihan": [
+            { "option": "klausa hipotaktik", "flag": false },
+            { "option": "klausa kompleks", "flag": false },
+            { "option": "klausa parataktik", "flag": false },
+            { "option": "klausa simpleks", "flag": true }
+          ],
+          "pembahasan": "Klausa simpleks hanya mengandung satu proses, sedangkan klausa kompleks mengandung lebih dari satu proses."
+        },
+        {
+          "pertanyaan": "Pemilihan jenis klausa berdampak pada aspek interpersonal karena …",
+          "pilihan": [
+            { "option": "menentukan bunyi bahasa", "flag": false },
+            { "option": "memengaruhi struktur fonologi", "flag": false },
+            {
+              "option": "menentukan cara penutur berinteraksi dengan mitra tutur",
+              "flag": true
+            },
+            { "option": "mengubah makna leksikal kata", "flag": false }
+          ],
+          "pembahasan": "Jenis klausa menentukan sikap, posisi, dan relasi sosial penutur terhadap mitra tutur sehingga berdampak pada makna interpersonal."
+        },
+        {
+          "pertanyaan": "Berikut ini adalah pernyataan yang benar kecuali ….",
+          "pilihan": [
+            {
+              "option": "Leksikogramatika adalah susunan kata-kata dengan segala akibat makna yang timbul",
+              "flag": false
+            },
+            {
+              "option": "Leksikogramatika terdiri atas leksis dan gramatika, yang merupakan sistem yang tidak terpisahkan dari morfologi dan sintaksis",
+              "flag": false
+            },
+            {
+              "option": "Leksikogramatika merealisasikan makna metafungsional",
+              "flag": false
+            },
+            {
+              "option": "Leksikogramatika sama dengan grammar",
+              "flag": true
+            }
+          ],
+          "pembahasan": "Dalam Linguistik Sistemik Fungsional, leksikogramatika tidak sama dengan grammar. Leksikogramatika mencakup leksis dan gramatika secara terpadu, bukan sekadar tata bahasa."
+        },
+        {
+          "pertanyaan": "Makna ideasional terutama direalisasikan oleh ….",
+          "pilihan": [
+            { "option": "Tema–Rema", "flag": false },
+            {
+              "option": "Hubungan interdependensi/logikosemantik dan transitivitas (proses)",
+              "flag": true
+            },
+            { "option": "Modalitas dan struktur mood", "flag": false },
+            { "option": "Sirkumstansi", "flag": false }
+          ],
+          "pembahasan": "Makna ideasional direalisasikan melalui hubungan logikosemantik dan sistem transitivitas (proses, partisipan, dan sirkumstansi) untuk merepresentasikan pengalaman."
+        },
+        {
+          "pertanyaan": "Makna interpersonal terutama direalisasikan oleh ….",
+          "pilihan": [
+            { "option": "Tema–Rema", "flag": false },
+            {
+              "option": "Hubungan interdependensi/logikosemantik dan transitivitas (proses)",
+              "flag": false
+            },
+            { "option": "Modalitas dan struktur mood", "flag": true },
+            { "option": "Sirkumstansi", "flag": false }
+          ],
+          "pembahasan": "Makna interpersonal berkaitan dengan hubungan sosial penutur dan mitra tutur, dan terutama direalisasikan melalui modalitas serta struktur mood."
+        },
+        {
+          "pertanyaan": "Makna tekstual terutama direalisasikan oleh ….",
+          "pilihan": [
+            { "option": "Tema–Rema", "flag": true },
+            {
+              "option": "Hubungan interdependensi/logikosemantik dan transitivitas (proses)",
+              "flag": false
+            },
+            { "option": "Modalitas dan struktur mood", "flag": false },
+            { "option": "Sirkumstansi", "flag": false }
+          ],
+          "pembahasan": "Makna tekstual berkaitan dengan pengorganisasian pesan, dan terutama direalisasikan melalui struktur Tema–Rema dalam klausa."
+        },
+        {
+          "pertanyaan": "Tema pada klausa “All students should complete their proposals by the end of this semester” adalah ….",
+          "pilihan": [
+            { "option": "All students.", "flag": true },
+            { "option": "should complete.", "flag": false },
+            { "option": "their proposals.", "flag": false },
+            { "option": "by the end of this semester.", "flag": false }
+          ],
+          "pembahasan": "Tema merupakan titik awal pesan dalam klausa. Pada klausa tersebut, “All students” berfungsi sebagai Tema Topikal Takbermarkah."
+        },
+        {
+          "pertanyaan": "Kelompok kata pada prinsipnya adalah ….",
+          "pilihan": [
+            { "option": "gugusan kata", "flag": false },
+            { "option": "kata-kata yang berjajar", "flag": false },
+            { "option": "kata kompleks", "flag": true },
+            { "option": "klausa kompleks", "flag": false }
+          ],
+          "pembahasan": "Dalam teori Halliday, kelompok kata dipahami sebagai kata kompleks, yaitu perluasan dari kata, bukan gugusan kata biasa atau klausa."
+        },
+        {
+          "pertanyaan": "Pada Kelompok Nomina “a good biology book”, “biology” berfungsi sebagai ….",
+          "pilihan": [
+            { "option": "penjelas", "flag": false },
+            { "option": "pendeskripsi", "flag": false },
+            { "option": "penjenis", "flag": true },
+            { "option": "penegas", "flag": false }
+          ],
+          "pembahasan": "Kata “biology” menentukan jenis benda (book jenis apa), sehingga berfungsi sebagai Penjenis (Classifier)."
+        },
+        {
+          "pertanyaan": "“in the city centre” pada “My parents live in the city centre” adalah ….",
+          "pilihan": [
+            { "option": "Frasa Preposisi", "flag": true },
+            { "option": "Kelompok Preposisi", "flag": false },
+            { "option": "Kelompok Nomina", "flag": false },
+            { "option": "Kelompok Adverbia", "flag": false }
+          ],
+          "pembahasan": "“In the city centre” terdiri atas preposisi dan kelompok nomina tanpa struktur modifikasi, sehingga dikategorikan sebagai Frasa Preposisi."
+        },
+        {
+          "pertanyaan": "“I do not know where she lives” adalah klausa ….",
+          "pilihan": [
+            { "option": "kompleks", "flag": false },
+            { "option": "simpleks", "flag": true },
+            { "option": "kompleks parataktik", "flag": false },
+            { "option": "kompleks hipotaktik", "flag": false }
+          ],
+          "pembahasan": "Klausa tersebut mengandung satu proses utama, sedangkan “where she lives” berfungsi sebagai bagian terintegrasi, sehingga termasuk klausa simpleks sesuai kunci modul."
+        },
+        {
+          "pertanyaan": "“Tomy is a smart student, but his friends envy him” adalah klausa ….",
+          "pilihan": [
+            { "option": "kompleks", "flag": false },
+            { "option": "simpleks", "flag": false },
+            { "option": "kompleks parataktik", "flag": true },
+            { "option": "kompleks hipotaktik", "flag": false }
+          ],
+          "pembahasan": "Klausa ini terdiri atas dua klausa setara yang dihubungkan oleh konjungsi “but”, sehingga termasuk klausa kompleks parataktik."
+        }
+      ]
+    },
+    {
+      "id": "modul_3",
+      "title": "Fonologi dan Grafologi ",
+      "questions": []
     }
   ]
 }
