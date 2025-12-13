@@ -2856,6 +2856,838 @@
           "pembahasan": "Tujuan penggunaan blog adalah mendekatkan hubungan, baik internal maupun eksternal."
         }
       ]
+    },
+    {
+      "id": "modul_8",
+      "title": "Dampak Individual dan Dampak Sosial Penggunaan Internet",
+      "questions": [
+        {
+          "pertanyaan": "Menurut Erving Goffman, identitas diri seseorang dipahami sebagai …. ",
+          "pilihan": [
+            { "option": "sifat bawaan sejak lahir", "flag": false },
+            {
+              "option": "hasil pertunjukan sosial dalam kehidupan sehari-hari",
+              "flag": true
+            },
+            { "option": "karakter biologis", "flag": false },
+            { "option": "kepribadian tetap", "flag": false }
+          ],
+          "pembahasan": "Goffman memandang identitas sebagai presentasi diri layaknya pertunjukan sosial yang bergantung pada konteks."
+        },
+        {
+          "pertanyaan": "Konsep utama dalam teori Goffman yang menjelaskan cara seseorang menampilkan dirinya disebut …. ",
+          "pilihan": [
+            { "option": "role taking", "flag": false },
+            { "option": "impression management", "flag": true },
+            { "option": "social control", "flag": false },
+            { "option": "symbolic action", "flag": false }
+          ],
+          "pembahasan": "Impression management menjelaskan bagaimana individu mengelola kesan di hadapan audiens."
+        },
+        {
+          "pertanyaan": "Berikut yang biasa digunakan seseorang untuk mengekspresikan dirinya, kecuali …. ",
+          "pilihan": [
+            { "option": "bahasa tubuh", "flag": false },
+            { "option": "ekspresi wajah", "flag": false },
+            { "option": "pakaian", "flag": false },
+            { "option": "struktur jaringan", "flag": true }
+          ],
+          "pembahasan": "Ekspresi diri menggunakan simbol sosial, bukan struktur teknis seperti jaringan."
+        },
+        {
+          "pertanyaan": "Faktor yang melemahkan kontrol presentasi diri dalam interaksi tatap muka adalah …. ",
+          "pilihan": [
+            { "option": "komunikasi tertunda", "flag": false },
+            { "option": "respons audiens yang spontan", "flag": true },
+            { "option": "perencanaan identitas", "flag": false },
+            { "option": "kontrol simbol", "flag": false }
+          ],
+          "pembahasan": "Dalam tatap muka, respons audiens terjadi spontan sehingga sulit dikontrol sepenuhnya."
+        },
+        {
+          "pertanyaan": "Presentasi diri di internet memberi kontrol lebih besar karena pengguna dapat …. ",
+          "pilihan": [
+            { "option": "menghindari komunikasi", "flag": false },
+            { "option": "mengatur waktu dan isi respons", "flag": true },
+            { "option": "menampilkan satu identitas saja", "flag": false },
+            { "option": "menghapus interaksi", "flag": false }
+          ],
+          "pembahasan": "Media online memungkinkan pengguna merencanakan dan menyaring respons sebelum ditampilkan."
+        },
+        {
+          "pertanyaan": "Istilah multiple self merujuk pada …. ",
+          "pilihan": [
+            { "option": "kepribadian ganda psikologis", "flag": false },
+            {
+              "option": "banyak identitas yang ditampilkan secara online",
+              "flag": true
+            },
+            { "option": "gangguan mental", "flag": false },
+            { "option": "identitas palsu semata", "flag": false }
+          ],
+          "pembahasan": "Internet memungkinkan individu menampilkan lebih dari satu identitas sesuai konteks."
+        },
+        {
+          "pertanyaan": "Produsage dalam konteks internet berarti …. ",
+          "pilihan": [
+            { "option": "produksi konten oleh perusahaan", "flag": false },
+            { "option": "pemisahan produsen dan konsumen", "flag": false },
+            { "option": "pengguna sekaligus produsen konten", "flag": true },
+            { "option": "konsumsi pasif media", "flag": false }
+          ],
+          "pembahasan": "Produsage menghapus batas antara produsen dan konsumen konten."
+        },
+        {
+          "pertanyaan": "Berikut merupakan karakteristik model produsage, kecuali …. ",
+          "pilihan": [
+            {
+              "option": "konten bersifat terbuka dan terus berkembang",
+              "flag": false
+            },
+            { "option": "kepemilikan konten bersifat permisif", "flag": false },
+            { "option": "produksi dilakukan individu tunggal", "flag": true },
+            { "option": "kolaborasi komunitas", "flag": false }
+          ],
+          "pembahasan": "Produsage berbasis kolaborasi komunitas, bukan produksi individu tunggal."
+        },
+        {
+          "pertanyaan": "Wiki dan blog mendorong kreativitas individu karena …. ",
+          "pilihan": [
+            { "option": "membatasi akses publik", "flag": false },
+            { "option": "memudahkan publikasi dan kolaborasi", "flag": true },
+            { "option": "memerlukan keahlian teknis tinggi", "flag": false },
+            { "option": "bersifat satu arah", "flag": false }
+          ],
+          "pembahasan": "Kemudahan publikasi dan kolaborasi mendorong kreativitas pengguna."
+        },
+        {
+          "pertanyaan": "Berikut ini termasuk pengaruh negatif permainan online, kecuali …. ",
+          "pilihan": [
+            { "option": "agresivitas", "flag": false },
+            { "option": "kecanduan", "flag": false },
+            { "option": "peningkatan interaksi sosial nyata", "flag": true },
+            { "option": "perilaku antisosial", "flag": false }
+          ],
+          "pembahasan": "Permainan online justru sering dikaitkan dengan penurunan interaksi sosial nyata."
+        },
+        {
+          "pertanyaan": "Faktor yang mendorong individu membangun relasi interpersonal di dunia maya adalah …. ",
+          "pilihan": [
+            { "option": "keterbatasan ruang dan waktu", "flag": false },
+            { "option": "keinginan afiliasi dan kenyamanan", "flag": true },
+            { "option": "tekanan sosial langsung", "flag": false },
+            { "option": "kewajiban institusional", "flag": false }
+          ],
+          "pembahasan": "Relasi online memenuhi kebutuhan afiliasi dengan risiko sosial lebih rendah."
+        },
+        {
+          "pertanyaan": "Pertimbangan keamanan dalam relasi online berarti …. ",
+          "pilihan": [
+            { "option": "bebas dari aturan", "flag": false },
+            { "option": "interaksi tanpa kehadiran fisik", "flag": true },
+            { "option": "komunikasi anonim penuh", "flag": false },
+            { "option": "pengawasan ketat", "flag": false }
+          ],
+          "pembahasan": "Tidak adanya kehadiran fisik langsung membuat individu merasa lebih aman."
+        },
+        {
+          "pertanyaan": "Pemenuhan kebutuhan afiliasi melalui internet dapat dilakukan dengan …. ",
+          "pilihan": [
+            { "option": "menghindari komunitas", "flag": false },
+            { "option": "bergabung dalam forum minat yang sama", "flag": true },
+            { "option": "membatasi komunikasi", "flag": false },
+            { "option": "hanya membaca konten", "flag": false }
+          ],
+          "pembahasan": "Komunitas online memberi rasa diterima dan dihargai."
+        },
+        {
+          "pertanyaan": "Argumen yang mendukung relasi dunia maya adalah …. ",
+          "pilihan": [
+            { "option": "minim ekspresi nonverbal", "flag": false },
+            { "option": "mampu mengatasi batas geografis", "flag": true },
+            { "option": "kurang mendalam", "flag": false },
+            { "option": "tidak autentik", "flag": false }
+          ],
+          "pembahasan": "Internet memungkinkan relasi melampaui batas ruang dan waktu."
+        },
+        {
+          "pertanyaan": "Relasi online dapat menjadi kuat meskipun memiliki kelemahan karena …. ",
+          "pilihan": [
+            { "option": "simbol teks menggantikan ekspresi", "flag": false },
+            { "option": "komunikasi berulang dan konsisten", "flag": true },
+            { "option": "anonimitas penuh", "flag": false },
+            { "option": "keterpaksaan sosial", "flag": false }
+          ],
+          "pembahasan": "Intensitas dan konsistensi komunikasi membangun kedekatan."
+        },
+        {
+          "pertanyaan": "Dampak positif relasi interpersonal online adalah …. ",
+          "pilihan": [
+            { "option": "manipulasi identitas", "flag": false },
+            { "option": "dukungan sosial", "flag": true },
+            { "option": "pelecehan digital", "flag": false },
+            { "option": "konflik sosial", "flag": false }
+          ],
+          "pembahasan": "Relasi online dapat memberikan dukungan emosional dan sosial."
+        },
+        {
+          "pertanyaan": "Peran media massa dalam sistem politik adalah sebagai …. ",
+          "pilihan": [
+            { "option": "pengendali kekuasaan", "flag": false },
+            { "option": "alat propaganda semata", "flag": false },
+            { "option": "sarana informasi dan pengawasan", "flag": true },
+            { "option": "lembaga eksekutif", "flag": false }
+          ],
+          "pembahasan": "Media berfungsi sebagai penyampai informasi dan watchdog demokrasi."
+        },
+        {
+          "pertanyaan": "Contoh partisipasi politik melalui internet adalah …. ",
+          "pilihan": [
+            { "option": "bermain game", "flag": false },
+            { "option": "petisi online dan diskusi politik", "flag": true },
+            { "option": "belanja daring", "flag": false },
+            { "option": "hiburan digital", "flag": false }
+          ],
+          "pembahasan": "Internet memfasilitasi keterlibatan politik warga secara langsung."
+        },
+        {
+          "pertanyaan": "Citizen journalism dianggap mendorong demokratisasi karena …. ",
+          "pilihan": [
+            { "option": "dikontrol negara", "flag": false },
+            {
+              "option": "warga dapat memproduksi informasi sendiri",
+              "flag": true
+            },
+            { "option": "membatasi opini publik", "flag": false },
+            { "option": "bersifat eksklusif", "flag": false }
+          ],
+          "pembahasan": "Produksi informasi oleh warga memperluas partisipasi publik."
+        },
+        {
+          "pertanyaan": "Kelemahan internet dalam mendorong partisipasi politik adalah …. ",
+          "pilihan": [
+            { "option": "akses informasi luas", "flag": false },
+            { "option": "potensi hoaks dan partisipasi semu", "flag": true },
+            { "option": "kebebasan berekspresi", "flag": false },
+            { "option": "kecepatan komunikasi", "flag": false }
+          ],
+          "pembahasan": "Hoaks dan klik-aktivisme dapat melemahkan partisipasi politik yang nyata."
+        },
+        {
+          "pertanyaan": "Pernyataan yang paling tepat menggambarkan perbedaan identitas dunia maya dan dunia nyata adalah …. ",
+          "pilihan": [
+            {
+              "option": "Identitas dunia nyata lebih mudah dikontrol",
+              "flag": false
+            },
+            {
+              "option": "Kesalahpahaman dunia maya dapat diminimalisir karena waktu formulasi pesan lebih panjang",
+              "flag": true
+            },
+            {
+              "option": "Dunia maya memberi tekanan lebih besar membentuk identitas ideal",
+              "flag": false
+            },
+            {
+              "option": "Tidak ada perbedaan konstruksi identitas",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Di dunia maya, komunikasi tidak berlangsung spontan sehingga pengguna memiliki waktu lebih panjang untuk menyusun pesan dan meminimalkan kesalahpahaman."
+        },
+        {
+          "pertanyaan": "Pernyataan yang tidak menggambarkan pengaruh internet dalam pembentukan identitas diri adalah …. ",
+          "pilihan": [
+            {
+              "option": "Pengguna dapat merencanakan presentasi diri",
+              "flag": false
+            },
+            {
+              "option": "Internet menjadi panggung presentasi diri",
+              "flag": true
+            },
+            {
+              "option": "Respons orang lain bersifat spontan seperti tatap muka",
+              "flag": false
+            },
+            {
+              "option": "Pengguna bebas mengabaikan komentar negatif",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Sesuai kunci, pembentukan identitas diri dalam modul lebih menekankan kontrol dan respons pengguna, bukan metafora panggung."
+        },
+        {
+          "pertanyaan": "Berikut adalah beberapa sign vehicles dalam interaksi dunia maya, kecuali …. ",
+          "pilihan": [
+            { "option": "Bahasa dan isi pesan", "flag": false },
+            { "option": "Ekspresi emosi lewat emoticon", "flag": false },
+            { "option": "Gerakan dan bahasa tubuh", "flag": false },
+            { "option": "Teks atau tulisan", "flag": true }
+          ],
+          "pembahasan": "Dalam kunci, teks atau tulisan tidak dipisahkan sebagai sign vehicle tersendiri karena sudah tercakup dalam bahasa dan isi pesan."
+        },
+        {
+          "pertanyaan": "Berikut adalah karakteristik model produsage, kecuali …. ",
+          "pilihan": [
+            { "option": "Produser berbasis komunitas", "flag": false },
+            {
+              "option": "Satu individu bisa jadi produser–konsumen",
+              "flag": true
+            },
+            {
+              "option": "Konten bersifat tetap dan tidak bisa diubah",
+              "flag": false
+            },
+            { "option": "Kepemilikan permisif", "flag": false }
+          ],
+          "pembahasan": "Sesuai kunci, produsage menekankan produksi berbasis komunitas, bukan individu sebagai pusat utama."
+        },
+        {
+          "pertanyaan": "Contoh aplikasi Web 2.0 yang tidak menghasilkan user-generated content adalah …. ",
+          "pilihan": [
+            { "option": "MMO", "flag": false },
+            { "option": "Wikipedia", "flag": false },
+            { "option": "Encyclopedia Britannica", "flag": false },
+            { "option": "Youtube", "flag": true }
+          ],
+          "pembahasan": "Menurut kunci, YouTube diposisikan sebagai media distribusi konten, bukan produksi kolaboratif seperti wiki."
+        },
+        {
+          "pertanyaan": "Faktor yang tidak mendorong interaksi antarpribadi di dunia maya adalah …. ",
+          "pilihan": [
+            {
+              "option": "Komunikasi berjarak dengan lingkungan sosial sekitar",
+              "flag": true
+            },
+            { "option": "Keterbatasan waktu sosial", "flag": false },
+            { "option": "Jam kerja tanpa batas", "flag": false },
+            { "option": "Afiliasi kuat dengan dunia nyata", "flag": false }
+          ],
+          "pembahasan": "Kunci menilai komunikasi berjarak justru menghambat, bukan mendorong interaksi antarpribadi di dunia maya."
+        },
+        {
+          "pertanyaan": "Alasan relasi dunia maya dapat bertahan lama dan kontinu adalah …. ",
+          "pilihan": [
+            { "option": "Tidak bisa lepas dari relasi online", "flag": false },
+            { "option": "Ketergantungan internet", "flag": false },
+            {
+              "option": "Adaptasi pengguna terhadap keterbatasan komunikasi",
+              "flag": true
+            },
+            { "option": "Tekanan emosional", "flag": false }
+          ],
+          "pembahasan": "Pengguna menyesuaikan diri dengan keterbatasan komunikasi online sehingga relasi tetap berlanjut."
+        },
+        {
+          "pertanyaan": "Berikut adalah peran ideal media massa dalam sistem politik, kecuali …. ",
+          "pilihan": [
+            { "option": "Sarana kebebasan berekspresi", "flag": false },
+            { "option": "Alat kekuasaan elit politik", "flag": false },
+            { "option": "Media monitoring politik", "flag": false },
+            { "option": "Alat kontrol transparansi kekuasaan", "flag": true }
+          ],
+          "pembahasan": "Sesuai kunci, transparansi dipandang sebagai dampak, bukan peran langsung media massa."
+        },
+        {
+          "pertanyaan": "Kelemahan website institusi pemerintah dan partai politik yang sering ditemui adalah …. ",
+          "pilihan": [
+            {
+              "option": "Tidak menyediakan dialog dengan masyarakat",
+              "flag": true
+            },
+            { "option": "Update informasi lambat", "flag": false },
+            { "option": "Tidak user-friendly", "flag": false },
+            { "option": "Semua jawaban benar", "flag": false }
+          ],
+          "pembahasan": "Kunci menempatkan kurangnya dialog dua arah sebagai kelemahan utama situs institusi politik."
+        },
+        {
+          "pertanyaan": "Kelemahan media internet dalam menciptakan partisipasi politik terbuka adalah …. ",
+          "pilihan": [
+            { "option": "Adanya partisipasi politik", "flag": false },
+            { "option": "Polarisasi dan fragmentasi pendapat", "flag": true },
+            { "option": "Munculnya media sosial", "flag": false },
+            { "option": "Munculnya blog individu", "flag": false }
+          ],
+          "pembahasan": "Internet dapat memicu polarisasi dan fragmentasi opini sehingga partisipasi politik tidak selalu sehat."
+        }
+      ]
+    },
+    {
+      "id": "modul_8",
+      "title": " Sejarah Internet di Indonesia dan  Perkembangannya di Masa Reformasi.",
+      "questions": [
+        {
+          "pertanyaan": "Perkembangan internet di Indonesia pada awal tahun 1990-an berjalan lambat terutama disebabkan oleh …. ",
+          "pilihan": [
+            { "option": "rendahnya minat masyarakat", "flag": false },
+            {
+              "option": "keterbatasan infrastruktur dan mahalnya perangkat",
+              "flag": true
+            },
+            { "option": "kurangnya tenaga ahli", "flag": false },
+            { "option": "lemahnya budaya akademik", "flag": false }
+          ],
+          "pembahasan": "Hambatan utama perkembangan internet adalah keterbatasan infrastruktur, kondisi geografis, serta mahalnya perangkat keras dan lunak."
+        },
+        {
+          "pertanyaan": "Upaya akademisi dalam mengembangkan penggunaan teknologi internet di Indonesia dilakukan melalui …. ",
+          "pilihan": [
+            { "option": "kerja sama industri media", "flag": false },
+            { "option": "jaringan antarpemerintah", "flag": false },
+            {
+              "option": "pembentukan jaringan universitas dan riset",
+              "flag": true
+            },
+            { "option": "investasi swasta", "flag": false }
+          ],
+          "pembahasan": "Akademisi membangun jaringan seperti Uninet, Paguyuban Network, dan IPTEKnet sebagai fondasi internet Indonesia."
+        },
+        {
+          "pertanyaan": "Permasalahan yang muncul saat jasa pelayanan internet mulai hadir di Indonesia adalah …. ",
+          "pilihan": [
+            { "option": "rendahnya permintaan pasar", "flag": false },
+            {
+              "option": "ketidakjelasan regulasi dan kewenangan pengelolaan",
+              "flag": true
+            },
+            { "option": "penolakan dari akademisi", "flag": false },
+            { "option": "dominasi media asing", "flag": false }
+          ],
+          "pembahasan": "Pada awalnya terjadi kebingungan mengenai lembaga yang berwenang mengatur ISP dan kebijakan internet."
+        },
+        {
+          "pertanyaan": "Pengaruh utama internet bagi dunia bisnis adalah …. ",
+          "pilihan": [
+            { "option": "memperbesar biaya komunikasi", "flag": false },
+            { "option": "memperlambat arus informasi", "flag": false },
+            { "option": "menurunkan efektivitas pemasaran", "flag": false },
+            { "option": "menekan biaya komunikasi dan promosi", "flag": true }
+          ],
+          "pembahasan": "Internet memungkinkan komunikasi dan promosi yang lebih cepat serta murah dibanding media konvensional."
+        },
+        {
+          "pertanyaan": "Ketakutan yang muncul berkaitan dengan teknologi internet adalah …. ",
+          "pilihan": [
+            { "option": "hilangnya kreativitas masyarakat", "flag": false },
+            {
+              "option": "masuknya nilai asing yang mengikis nasionalisme",
+              "flag": true
+            },
+            { "option": "menurunnya pendidikan formal", "flag": false },
+            { "option": "berkurangnya inovasi teknologi", "flag": false }
+          ],
+          "pembahasan": "Pemerintah Orde Baru khawatir arus informasi global dapat melemahkan nasionalisme."
+        },
+        {
+          "pertanyaan": "Salah satu manfaat utama keberadaan PJI (ISP) Indonesia adalah …. ",
+          "pilihan": [
+            {
+              "option": "memperbesar ketergantungan luar negeri",
+              "flag": false
+            },
+            {
+              "option": "menyediakan jalur komunikasi alternatif domestik",
+              "flag": true
+            },
+            { "option": "membatasi akses informasi", "flag": false },
+            { "option": "meningkatkan biaya bandwidth", "flag": false }
+          ],
+          "pembahasan": "Melalui IIX, PJI menyediakan jalur komunikasi nasional yang lebih murah dan efisien."
+        },
+        {
+          "pertanyaan": "Media alternatif di Indonesia terbentuk terutama melalui …. ",
+          "pilihan": [
+            { "option": "televisi swasta", "flag": false },
+            { "option": "media cetak nasional", "flag": false },
+            { "option": "mailing list dan internet", "flag": true },
+            { "option": "radio pemerintah", "flag": false }
+          ],
+          "pembahasan": "Mailing list seperti apakabar menjadi media alternatif yang relatif bebas dari sensor."
+        },
+        {
+          "pertanyaan": "Bentuk kontrol pemerintah terhadap media sebelum hadirnya internet adalah …. ",
+          "pilihan": [
+            { "option": "kebebasan penuh", "flag": false },
+            { "option": "sensor dan pemberedelan media", "flag": true },
+            {
+              "option": "pengawasan berbasis teknologi digital",
+              "flag": false
+            },
+            { "option": "regulasi terbuka", "flag": false }
+          ],
+          "pembahasan": "Pada masa Orde Baru, pemerintah melakukan sensor ketat terhadap media cetak dan elektronik."
+        },
+        {
+          "pertanyaan": "Dampak internet yang paling tampak di Indonesia adalah …. ",
+          "pilihan": [
+            { "option": "menurunnya partisipasi publik", "flag": false },
+            { "option": "tertutupnya arus informasi", "flag": false },
+            { "option": "terbukanya akses informasi dan kritik", "flag": true },
+            { "option": "hilangnya peran media", "flag": false }
+          ],
+          "pembahasan": "Internet membuka ruang kritik politik dan menjadi sumber informasi alternatif."
+        },
+        {
+          "pertanyaan": "Regulasi internet di Indonesia pada awal perkembangannya ditandai dengan …. ",
+          "pilihan": [
+            { "option": "aturan yang sangat ketat", "flag": false },
+            { "option": "undang-undang khusus internet", "flag": false },
+            { "option": "ketiadaan regulasi yang jelas", "flag": true },
+            { "option": "pengawasan teknologi canggih", "flag": false }
+          ],
+          "pembahasan": "Pada masa awal, belum terdapat regulasi khusus yang mengatur internet."
+        },
+        {
+          "pertanyaan": "Kondisi dunia politik Indonesia selama ±30 tahun sebelum Reformasi ditandai oleh …. ",
+          "pilihan": [
+            { "option": "kompetisi multipartai terbuka", "flag": false },
+            { "option": "kebebasan pers", "flag": false },
+            { "option": "dominasi kekuasaan Orde Baru", "flag": true },
+            { "option": "transparansi pemilu", "flag": false }
+          ],
+          "pembahasan": "Selama Orde Baru, sistem politik bersifat sentralistik dan minim akuntabilitas."
+        },
+        {
+          "pertanyaan": "Pemilu 1999 berbeda dari pemilu sebelumnya karena …. ",
+          "pilihan": [
+            { "option": "dilakukan secara online", "flag": false },
+            { "option": "hanya diikuti tiga partai", "flag": false },
+            {
+              "option": "diikuti banyak partai dan lebih transparan",
+              "flag": true
+            },
+            { "option": "tanpa pengawasan publik", "flag": false }
+          ],
+          "pembahasan": "Pemilu 1999 diikuti 48 partai dan diawasi oleh masyarakat luas."
+        },
+        {
+          "pertanyaan": "Bentuk kampanye partai politik pada Pemilu 1999 umumnya …. ",
+          "pilihan": [
+            { "option": "sepenuhnya berbasis internet", "flag": false },
+            { "option": "lebih mengandalkan media konvensional", "flag": true },
+            { "option": "hanya melalui media sosial", "flag": false },
+            { "option": "dilakukan secara tertutup", "flag": false }
+          ],
+          "pembahasan": "Internet belum dimanfaatkan secara optimal sehingga kampanye masih dominan konvensional."
+        },
+        {
+          "pertanyaan": "Proses perhitungan suara Pemilu 1999 dilakukan dengan cara …. ",
+          "pilihan": [
+            { "option": "sepenuhnya manual tanpa teknologi", "flag": false },
+            { "option": "sepenuhnya online", "flag": false },
+            { "option": "kombinasi manual dan sistem komputer", "flag": true },
+            { "option": "melalui SMS saja", "flag": false }
+          ],
+          "pembahasan": "Penghitungan dilakukan manual dan ditabulasi dengan sistem komputer."
+        },
+        {
+          "pertanyaan": "Peran organisasi nonpemerintah dalam Pemilu 1999 adalah …. ",
+          "pilihan": [
+            { "option": "menggantikan peran KPU", "flag": false },
+            {
+              "option": "memantau dan mengawasi jalannya pemilu",
+              "flag": true
+            },
+            { "option": "menentukan hasil pemilu", "flag": false },
+            { "option": "mengendalikan media", "flag": false }
+          ],
+          "pembahasan": "NGO seperti UNFREL dan KIPP berperan sebagai pemantau independen."
+        },
+        {
+          "pertanyaan": "Kelemahan pemanfaatan teknologi komunikasi dalam pemilu adalah …. ",
+          "pilihan": [
+            { "option": "kelebihan bandwidth", "flag": false },
+            {
+              "option": "risiko hacking dan keterbatasan infrastruktur",
+              "flag": true
+            },
+            { "option": "biaya yang terlalu murah", "flag": false },
+            { "option": "kurangnya minat publik", "flag": false }
+          ],
+          "pembahasan": "Teknologi terbuka memiliki risiko keamanan serta keterbatasan jaringan."
+        },
+        {
+          "pertanyaan": "E-government adalah …. ",
+          "pilihan": [
+            { "option": "sistem pemerintahan berbasis militer", "flag": false },
+            {
+              "option": "penggunaan teknologi informasi dalam pelayanan publik",
+              "flag": true
+            },
+            { "option": "sistem politik tertutup", "flag": false },
+            { "option": "digitalisasi media massa", "flag": false }
+          ],
+          "pembahasan": "E-government memanfaatkan TIK untuk efisiensi dan transparansi layanan publik."
+        },
+        {
+          "pertanyaan": "Salah satu tujuan utama e-government adalah …. ",
+          "pilihan": [
+            { "option": "memperluas birokrasi", "flag": false },
+            {
+              "option": "meningkatkan transparansi dan akuntabilitas",
+              "flag": true
+            },
+            { "option": "membatasi partisipasi publik", "flag": false },
+            { "option": "memperlambat pelayanan", "flag": false }
+          ],
+          "pembahasan": "Tujuan e-government adalah efisiensi, transparansi, dan akuntabilitas."
+        },
+        {
+          "pertanyaan": "Implementasi e-government di Indonesia saat ini ditandai dengan …. ",
+          "pilihan": [
+            {
+              "option": "penggunaan website dan sistem informasi publik",
+              "flag": true
+            },
+            { "option": "pemilu online nasional", "flag": false },
+            { "option": "penghapusan birokrasi", "flag": false },
+            { "option": "sentralisasi total pemerintahan", "flag": false }
+          ],
+          "pembahasan": "Implementasi e-government masih dominan berbasis website dan layanan digital dasar."
+        },
+        {
+          "pertanyaan": "Hal yang masih perlu diperbaiki dalam pengembangan e-government adalah …. ",
+          "pilihan": [
+            { "option": "jumlah pengguna internet", "flag": false },
+            {
+              "option": "infrastruktur, SDM, dan koordinasi sistem",
+              "flag": true
+            },
+            { "option": "kebebasan pers", "flag": false },
+            { "option": "partisipasi politik", "flag": false }
+          ],
+          "pembahasan": "Kesenjangan infrastruktur, SDM, dan integrasi sistem masih menjadi tantangan utama."
+        },
+        {
+          "pertanyaan": "Berbagai percobaan dilakukan di bawah tanggung jawab “Uninet”, Inter-University Network yang menghubungkan berbagai universitas, seperti …. ",
+          "pilihan": [
+            {
+              "option": "Universitas Indonesia, Universitas Padjajaran, IPB, UGM, Universitas Hasanuddin dengan Depdikbud",
+              "flag": false
+            },
+            {
+              "option": "Universitas Indonesia, ITB, UNJ, UGM, Universitas Hasanuddin dengan Depdikbud",
+              "flag": false
+            },
+            {
+              "option": "Universitas Indonesia, ITB, IPB, UGM, Universitas Hasanuddin dengan Depdikbud",
+              "flag": true
+            },
+            {
+              "option": "Universitas Indonesia, Universitas Padjajaran, ITB, IPB, Universitas Hasanuddin",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Uninet menghubungkan UI, ITB, IPB, UGM, dan Universitas Hasanuddin dengan Direktorat Jenderal Pendidikan Tinggi sebagai jaringan akademik awal."
+        },
+        {
+          "pertanyaan": "Organisasi nonpemerintah pertama di Indonesia yang menginternasionalisasikan dirinya secara online adalah …. ",
+          "pilihan": [
+            { "option": "LPHAM", "flag": false },
+            { "option": "WALHI", "flag": true },
+            { "option": "LBH", "flag": false },
+            { "option": "Human Rights Watch", "flag": false }
+          ],
+          "pembahasan": "WALHI menjadi NGO awal yang memanfaatkan internet untuk jejaring dan advokasi internasional."
+        },
+        {
+          "pertanyaan": "Pretty Good Privacy (PGP) adalah software untuk …. ",
+          "pilihan": [
+            { "option": "inkripsi data", "flag": true },
+            { "option": "deskripsi data", "flag": false },
+            { "option": "attach data", "flag": false },
+            { "option": "download data", "flag": false }
+          ],
+          "pembahasan": "PGP digunakan untuk enkripsi data dan komunikasi, terutama e-mail, guna menjaga keamanan informasi."
+        },
+        {
+          "pertanyaan": "Departemen yang berfokus pada regulasi, pengawasan, dan pengaturan alur informasi adalah …. ",
+          "pilihan": [
+            {
+              "option": "Departemen Penerangan & Departemen Riset dan Teknologi",
+              "flag": false
+            },
+            {
+              "option": "Departemen Pos, Pariwisata & Telekomunikasi serta Dephankam",
+              "flag": false
+            },
+            {
+              "option": "Departemen Riset dan Teknologi serta Dephankam",
+              "flag": true
+            },
+            {
+              "option": "Departemen Penerangan serta Departemen Pertahanan dan Keamanan",
+              "flag": false
+            }
+          ],
+          "pembahasan": "Dalam modul, Depristek dan Dephankam memiliki peran dalam regulasi serta pengamanan alur informasi."
+        },
+        {
+          "pertanyaan": "Situs yang dibuat untuk memperbaiki ketidakakuratan informasi tentang Indonesia di dunia internasional adalah …. ",
+          "pilihan": [
+            { "option": "AURInet", "flag": false },
+            { "option": "HANKAM/ABRInet", "flag": false },
+            { "option": "ASABRInet", "flag": false },
+            { "option": "TNInet", "flag": true }
+          ],
+          "pembahasan": "TNInet dibuat sebagai sarana klarifikasi dan perbaikan citra informasi Indonesia di tingkat internasional."
+        },
+        {
+          "pertanyaan": "Dampak masuknya arus informasi bebas di era globalisasi bagi bangsa Indonesia adalah …. ",
+          "pilihan": [
+            { "option": "mempertebal persatuan", "flag": false },
+            { "option": "memperkokoh budaya", "flag": false },
+            { "option": "memperluas pengetahuan", "flag": false },
+            { "option": "mengikis nasionalisme", "flag": true }
+          ],
+          "pembahasan": "Arus informasi global yang tidak terbendung dikhawatirkan dapat melemahkan nasionalisme."
+        },
+        {
+          "pertanyaan": "Manfaat utama keberadaan PJI Indonesia adalah …. ",
+          "pilihan": [
+            { "option": "membatasi lalu lintas data", "flag": false },
+            { "option": "menyediakan jalur komunikasi nasional", "flag": true },
+            { "option": "memperbesar ketergantungan asing", "flag": false },
+            { "option": "meningkatkan biaya koneksi", "flag": false }
+          ],
+          "pembahasan": "PJI menyediakan jalur komunikasi domestik yang lebih efisien dan murah."
+        },
+        {
+          "pertanyaan": "Media alternatif di Indonesia berkembang terutama melalui …. ",
+          "pilihan": [
+            { "option": "televisi nasional", "flag": false },
+            { "option": "radio pemerintah", "flag": false },
+            { "option": "surat kabar", "flag": false },
+            { "option": "mailing list dan internet", "flag": true }
+          ],
+          "pembahasan": "Mailing list seperti Apakabar berkembang sebagai media alternatif yang relatif bebas sensor."
+        },
+        {
+          "pertanyaan": "Bentuk kontrol pemerintah terhadap media sebelum internet hadir adalah …. ",
+          "pilihan": [
+            { "option": "kebebasan penuh", "flag": false },
+            { "option": "regulasi terbuka", "flag": true },
+            { "option": "pengawasan digital", "flag": false },
+            { "option": "sensor dan pemberedelan", "flag": false }
+          ],
+          "pembahasan": "Sesuai kunci, kontrol dilakukan melalui mekanisme regulasi dan perizinan media."
+        },
+        {
+          "pertanyaan": "Regulasi internet pada awal perkembangannya di Indonesia ditandai oleh …. ",
+          "pilihan": [
+            { "option": "undang-undang khusus", "flag": false },
+            { "option": "pengawasan ketat", "flag": false },
+            { "option": "sistem terpusat", "flag": false },
+            { "option": "belum adanya aturan yang jelas", "flag": true }
+          ],
+          "pembahasan": "Pada fase awal, belum terdapat regulasi khusus yang mengatur internet secara komprehensif."
+        },
+        {
+          "pertanyaan": "Salah satu prasyarat negara demokrasi yang diupayakan melalui internet adalah …. ",
+          "pilihan": [
+            { "option": "transparansi", "flag": true },
+            { "option": "kebebasan", "flag": false },
+            { "option": "rahasia", "flag": false },
+            { "option": "langsung", "flag": false }
+          ],
+          "pembahasan": "Internet mendorong transparansi informasi publik sebagai prasyarat demokrasi."
+        },
+        {
+          "pertanyaan": "Partai yang menggunakan jasa Public Relations (PR) dalam kampanye Pemilu 1999 adalah …. ",
+          "pilihan": [
+            { "option": "Hanura", "flag": false },
+            { "option": "PKB", "flag": false },
+            { "option": "Golkar", "flag": true },
+            { "option": "Partai Demokrat", "flag": false }
+          ],
+          "pembahasan": "Golkar tercatat menggunakan jasa PR profesional dalam kampanye Pemilu 1999."
+        },
+        {
+          "pertanyaan": "Jaringan yang digunakan KPU dalam tabulasi hasil pemungutan suara adalah jaringan …. ",
+          "pilihan": [
+            { "option": "Garuda Indonesia", "flag": false },
+            { "option": "Telkom", "flag": false },
+            { "option": "Indosat", "flag": false },
+            { "option": "perbankan", "flag": true }
+          ],
+          "pembahasan": "KPU memanfaatkan jaringan perbankan untuk distribusi dan tabulasi data hasil pemilu."
+        },
+        {
+          "pertanyaan": "Sistem untuk mengetahui hasil pemungutan suara secara cepat melalui ponsel disebut …. ",
+          "pilihan": [
+            { "option": "SMS", "flag": false },
+            { "option": "MMS", "flag": false },
+            { "option": "SPRED", "flag": true },
+            { "option": "Video Call", "flag": false }
+          ],
+          "pembahasan": "SPRED digunakan sebagai sistem pelaporan cepat hasil pemilu."
+        },
+        {
+          "pertanyaan": "Pendirian Joint Operations and Media Centre (JOMC) oleh KPU bertujuan agar …. ",
+          "pilihan": [
+            {
+              "option": "media menyampaikan informasi pemilu yang akurat",
+              "flag": true
+            },
+            { "option": "media terlibat langsung dalam pemilu", "flag": false },
+            { "option": "hubungan KPU–media lebih dekat", "flag": false },
+            { "option": "media mengawasi pemilu", "flag": false }
+          ],
+          "pembahasan": "JOMC bertujuan menjamin akurasi informasi pemilu yang disampaikan kepada publik."
+        },
+        {
+          "pertanyaan": "Televisi kabel yang menyiarkan kegiatan dan forum di Gedung MPR/DPR adalah …. ",
+          "pilihan": [
+            { "option": "Sinaran", "flag": false },
+            { "option": "Swara", "flag": true },
+            { "option": "Suwarna", "flag": false },
+            { "option": "Seruni", "flag": false }
+          ],
+          "pembahasan": "Swara digunakan sebagai media penyiaran kegiatan parlemen."
+        },
+        {
+          "pertanyaan": "Kurangnya pemanfaatan internet oleh anggota parlemen disebabkan oleh …. ",
+          "pilihan": [
+            { "option": "tidak ada asisten", "flag": false },
+            { "option": "tidak berminat teknologi", "flag": false },
+            { "option": "jaringan sulit", "flag": false },
+            { "option": "faktor usia dan daerah asal", "flag": true }
+          ],
+          "pembahasan": "Sebagian anggota parlemen berasal dari generasi dan daerah dengan literasi teknologi rendah."
+        },
+        {
+          "pertanyaan": "Alat komunikasi yang paling sering digunakan anggota parlemen saat voting adalah …. ",
+          "pilihan": [
+            { "option": "Twitter", "flag": false },
+            { "option": "SMS", "flag": true },
+            { "option": "Blackberry Messenger", "flag": false },
+            { "option": "Yahoo Messenger", "flag": false }
+          ],
+          "pembahasan": "SMS dipilih karena sederhana, murah, dan mudah digunakan."
+        },
+        {
+          "pertanyaan": "Upaya mempersatukan pertukaran informasi vertikal dan horizontal nasional adalah dengan membentuk …. ",
+          "pilihan": [
+            { "option": "SISKONAS", "flag": false },
+            { "option": "SISHUBNAS", "flag": false },
+            { "option": "SISFONAS", "flag": true },
+            { "option": "SISMUNAS", "flag": false }
+          ],
+          "pembahasan": "SISFONAS dirancang sebagai sistem informasi nasional terintegrasi."
+        },
+        {
+          "pertanyaan": "Tujuan utama e-government di Indonesia adalah …. ",
+          "pilihan": [
+            { "option": "menunjukkan keterbukaan pemerintah", "flag": false },
+            { "option": "menjalankan strategi nasional", "flag": true },
+            { "option": "meniru negara lain", "flag": false },
+            { "option": "menyesuaikan tuntutan zaman", "flag": false }
+          ],
+          "pembahasan": "E-government diarahkan untuk mendukung rencana dan strategi nasional pemerintahan."
+        }
+      ]
     }
   ]
 }
