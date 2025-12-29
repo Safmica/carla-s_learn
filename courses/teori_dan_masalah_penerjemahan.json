@@ -1,303 +1,1383 @@
 {
-  "slug": "teori_dan_masalah_penerjemahan_modul_1",
-  "title": "Modul 1: Pengertian Fungsi Bahasa",
-  "description": "Membahas fungsi bahasa dari aspek struktural, pragmatis, kognitif, dan komunikatif serta aplikasinya dalam pemahaman teks.",
-  "modules": [
-    {
-      "id": "modul_1",
-      "title": "Pengertian Fungsi Bahasa",
-      "questions": [
+    "slug": "teori_dan_masalah_penerjemahan_modul_1",
+    "title": "Pengertian Fungsi Bahasa",
+    "description": "Membahas fungsi bahasa dari aspek struktural, pragmatis, kognitif, dan komunikatif serta aplikasinya dalam pemahaman teks.",
+    "modules": [
         {
-          "pertanyaan": "(Latihan 1a) Dilihat dari sudut komunikasi, perbedaan antara fungsi struktural dan fungsi pragmatis berdasarkan konsep dasar fungsi bahasa adalah...",
-          "pilihan": [
-            { "option": "Fungsi struktural adalah penggunaan bahasa dalam masyarakat, fungsi pragmatis adalah kaidah bahasa.", "flag": false },
-            { "option": "Fungsi struktural terkait dengan sistem dan jaringan antarunsur bahasa, sedangkan fungsi pragmatis terkait penggunaan bahasa dalam komunikasi.", "flag": true },
-            { "option": "Fungsi struktural berfokus pada emosi penutur, sedangkan fungsi pragmatis pada estetika bahasa.", "flag": false },
-            { "option": "Fungsi struktural bersifat fleksibel, sedangkan fungsi pragmatis bersifat kaku dan statis.", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 1.5, subbab 'Pengertian Fungsi Bahasa', paragraf 5, fungsi struktural adalah jaringan antara unsur bahasa pada tataran kecil dan besar, sedangkan fungsi pragmatis terkait penggunaan bahasa dalam komunikasi."
+            "id": "modul_1",
+            "title": "Pengertian Fungsi Bahasa",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1a) Dilihat dari sudut komunikasi, perbedaan antara fungsi struktural dan fungsi pragmatis berdasarkan konsep dasar fungsi bahasa adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Fungsi struktural adalah penggunaan bahasa dalam masyarakat, fungsi pragmatis adalah kaidah bahasa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Fungsi struktural terkait dengan sistem dan jaringan antarunsur bahasa, sedangkan fungsi pragmatis terkait penggunaan bahasa dalam komunikasi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Fungsi struktural berfokus pada emosi penutur, sedangkan fungsi pragmatis pada estetika bahasa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Fungsi struktural bersifat fleksibel, sedangkan fungsi pragmatis bersifat kaku dan statis.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 1.5, subbab 'Pengertian Fungsi Bahasa', paragraf 5, fungsi struktural adalah jaringan antara unsur bahasa pada tataran kecil dan besar, sedangkan fungsi pragmatis terkait penggunaan bahasa dalam komunikasi."
+                },
+                {
+                    "pertanyaan": "(Latihan 1a) Menurut Karl Buehler dalam Organon Model, kaitan antara lambang bahasa dengan penutur, pendengar, dan hal yang diwakilinya berturut-turut disebut...",
+                    "pilihan": [
+                        {
+                            "option": "Representatif, Ekspresif, Apelatif",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ekspresif, Apelatif, Representatif",
+                            "flag": true
+                        },
+                        {
+                            "option": "Fatis, Puitis, Metalingual",
+                            "flag": false
+                        },
+                        {
+                            "option": "Referensial, Konatif, Emotif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "PDF hal. 1.5 - 1.6 menjelaskan: Ekspresif (kaitan dengan penutur), Apelatif (kaitan dengan pendengar), dan Representatif (kaitan dengan hal yang diwakilinya/simbol)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1a) Roman Jakobson memperluas fungsi bahasa. Manakah di bawah ini yang menjelaskan fungsi metalingual?",
+                    "pilihan": [
+                        {
+                            "option": "Bahasa yang digunakan untuk membangkitkan emosi petutur.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bahasa yang digunakan untuk membicarakan atau menjelaskan bahasa itu sendiri.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Bahasa yang digunakan untuk mempertahankan kontak komunikasi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bahasa yang digunakan untuk menyampaikan data faktual dalam konteks.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 1.7, paragraf 1, fungsi metalingual adalah bahasa yang digunakan sebagai metabahasa untuk menjelaskan hal-hal terkait bahasa tersebut (seperti definisi)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1b) Apa makna dari pernyataan bahwa fungsi struktural bahasa terkait dengan fungsi pragmatis?",
+                    "pilihan": [
+                        {
+                            "option": "Struktur bahasa tidak dipengaruhi oleh latar komunikasi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Fungsi pragmatis yang menentukan fungsi struktural bahasa dalam suatu komunikasi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Struktur bahasa selalu mendahului tujuan komunikasi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya bahasa lisan yang memiliki keterkaitan antara struktur dan pragmatis.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 1.19, 'Petunjuk Jawaban Latihan 1b', butir 1, sistem bahasa ditentukan oleh fungsi bahasa dalam masyarakat; fungsi pragmatis menentukan fungsi struktural."
+                },
+                {
+                    "pertanyaan": "(Latihan 1b) Dalam 'Organon model of language', tanda bahasa dapat terlaksana karena adanya tiga unsur utama, yaitu...",
+                    "pilihan": [
+                        {
+                            "option": "Fonem, Morfem, dan Sintaksis",
+                            "flag": false
+                        },
+                        {
+                            "option": "Konteks, Saluran, dan Kode",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penutur, Petutur, dan perihal tertentu (S)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Simile, Metafora, dan Personifikasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 1.19, 'Petunjuk Jawaban Latihan 1b', butir 2, tiga unsur utama adalah penutur dan petutur yang berkomunikasi tentang perihal tertentu melalui tanda bahasa."
+                },
+                {
+                    "pertanyaan": "(Latihan 1b) Apa perbedaan antara fungsi fatis dan fungsi konatif menurut dampaknya pada petutur?",
+                    "pilihan": [
+                        {
+                            "option": "Fatis untuk memberi perintah, konatif untuk menyapa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Fatis untuk mempertahankan komunikasi, konatif untuk menimbulkan reaksi atau tindakan pada petutur.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Fatis untuk menjelaskan definisi, konatif untuk mengungkapkan perasaan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keduanya memiliki fungsi yang sama dalam estetika karya sastra.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "PDF hal. 1.19-1.20 menjelaskan fungsi fatis berguna untuk memulai/mempertahankan interaksi, sedangkan konatif memunculkan reaksi seperti diperintah/dilarang."
+                },
+                {
+                    "pertanyaan": "(Latihan 1b) Mengapa dalam teks iklan, fungsi puitis sering dikaitkan dengan fungsi emotif?",
+                    "pilihan": [
+                        {
+                            "option": "Karena iklan hanya bertujuan menjelaskan spesifikasi produk secara kaku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena keindahan bahasa (puitis) dapat membangkitkan emosi tertentu untuk melakukan sesuatu.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena iklan menggunakan metabahasa untuk mendefinisikan harga.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena fungsi puitis hanya berlaku untuk iklan di media cetak.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 1.11, butir 4, fungsi puitis dapat membangkitkan emosi tertentu, contohnya iklan cairan pembersih 'bersih berkilau' memanfaatkan fungsi emotif."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1) Bahasa memiliki fungsi penting dalam komunikasi, karena ....",
+                    "pilihan": [
+                        {
+                            "option": "melalui bahasa manusia dapat mengungkapkan perasaannya",
+                            "flag": false
+                        },
+                        {
+                            "option": "melalui bahasa manusia dapat menceritakan tentang lingkungan yang ada di sekitarnya",
+                            "flag": false
+                        },
+                        {
+                            "option": "melalui bahasa manusia dapat menyatakan keinginannya",
+                            "flag": false
+                        },
+                        {
+                            "option": "melalui bahasa manusia dapat mengungkapkan pikiran dan perasaan, menceritakan peristiwa tertentu dan mempengaruhi petutur untuk melakukan sesuatu",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.29, Tes Formatif 1 No. 1."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1) Dua jenis fungsi bahasa sebagai alat komunikasi, adalah fungsi ....",
+                    "pilihan": [
+                        {
+                            "option": "representatif dan fungsi emotif",
+                            "flag": false
+                        },
+                        {
+                            "option": "struktural dan fungsi pragmatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "representatif dan fungsi komunikatif",
+                            "flag": false
+                        },
+                        {
+                            "option": "apelatif dan fungsi komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.29, Tes Formatif 1 No. 2."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1) Organon model of language yang dicetuskan Karl Bühler merupakan model tanda bahasa yang mendasari pragmatik, karena ....",
+                    "pilihan": [
+                        {
+                            "option": "model organon menggambarkan penutur dan petutur yang berbicara tentang sesuatu melalui tanda bahasa",
+                            "flag": true
+                        },
+                        {
+                            "option": "model organon mementingkan unsur-unsur non bahasa (luar bahasa)",
+                            "flag": false
+                        },
+                        {
+                            "option": "konsep dasar model organon bertumpu pada pesan yang akan disampaikan",
+                            "flag": false
+                        },
+                        {
+                            "option": "tanda bahasa menurut Karl Bühler memiliki fungsi representatif, fungsi ekspresif dan fungsi apelatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A sesuai PDF hal. 1.29, Tes Formatif 1 No. 3."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1) Jika fungsi-fungsi bahasa menurut Karl Bühler dibandingkan dengan Roman Jakobson, maka dapat disimpulkan, bahwa fungsi-fungsi berikut merupakan perluasan konsep fungsi bahasa Karl Bühler, yaitu ....",
+                    "pilihan": [
+                        {
+                            "option": "fungsi referensial, fungsi emotif, fungsi konatif",
+                            "flag": false
+                        },
+                        {
+                            "option": "fungsi emotif, fungsi fatis, fungsi metalingual",
+                            "flag": false
+                        },
+                        {
+                            "option": "fungsi emotif, fungsi fatis, fungsi puitis",
+                            "flag": false
+                        },
+                        {
+                            "option": "fungsi fatis, fungsi puitis, fungsi metalingual",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.29, Tes Formatif 1 No. 4."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1) Setiap pesan tidak selalu hanya memiliki satu fungsi bahasa, tetapi kemungkinan lebih dari satu fungsi, namun demikian selalu ada satu fungsi yang lebih dominan dibandingkan fungsi-fungsi yang lain. Hal ini terkait dengan ....",
+                    "pilihan": [
+                        {
+                            "option": "fungsi konatif",
+                            "flag": false
+                        },
+                        {
+                            "option": "jenis wacana",
+                            "flag": true
+                        },
+                        {
+                            "option": "fungsi apelatif",
+                            "flag": false
+                        },
+                        {
+                            "option": "tujuan komunikasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.29, Tes Formatif 1 No. 5."
+                },
+                {
+                    "pertanyaan": "(Latihan 2a) Dalam ilmu linguistik kognitif, apa fungsi utama dari 'jaringan semantis' dalam pikiran manusia?",
+                    "pilihan": [
+                        {
+                            "option": "Sebagai alat untuk menyusun tata bahasa yang kaku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai tempat penyimpanan informasi, pengetahuan, dan pengalaman dalam bentuk konsep-konsep yang saling terhubung.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya sebagai alat penerjemah kata demi kata dari BSu ke BSa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai media komunikasi non-verbal melalui gerakan tubuh.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 1.26, Petunjuk Jawaban Latihan 2a butir 1, informasi yang diserap indra disimpan dalam otak dalam bentuk konsep-konsep yang membentuk jaringan semantis untuk digunakan dalam komunikasi."
+                },
+                {
+                    "pertanyaan": "(Latihan 2a) Mengapa teori 'skema' dianggap penting dalam proses pemahaman atau interpretasi sebuah teks?",
+                    "pilihan": [
+                        {
+                            "option": "Karena skema bersifat statis dan memastikan makna tidak berubah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena skema membantu mengaitkan bahasa dengan realitas (unsur ensiklopedis) dan bersifat fleksibel mengikuti situasi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena skema hanya berisi aturan-aturan fonologis bahasa sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena skema menggantikan peran kamus dalam penerjemahan profesional.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 1.18, Petunjuk Jawaban Latihan 2a butir 2, pemahaman mengacu pada skema yang mengaitkan bahasa dengan realitas. Skema ini fleksibel dan dapat berubah sesuai situasi komunikasi."
+                },
+                {
+                    "pertanyaan": "(Latihan 2b) Perhatikan kalimat: 'Sport Illustrated can be bought for 1 dollar or 35 million dollars'. Interpretasi yang benar menggunakan bantuan skema adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Harga majalah tersebut selalu berubah setiap minggu secara drastis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "1 dollar mengacu pada harga majalah, sedangkan 35 juta dollar mengacu pada pembelian perusahaan penerbitnya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penutur salah menyebutkan angka karena tidak memiliki data ensiklopedis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Majalah tersebut hanya bisa dibeli di Amerika dengan mata uang dollar.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 1.27, Latihan 2b butir 1, pemahaman ini ditunjang oleh kaitan antara harga dan benda yang dibeli dalam skema yang sesuai dengan konteks."
+                },
+                {
+                    "pertanyaan": "(Latihan 2b) Bagaimana peran jaringan semantis dalam memahami kata 'bank' pada kalimat 'The fisherman went to the bank'?",
+                    "pilihan": [
+                        {
+                            "option": "Jaringan semantis memastikan bahwa 'bank' hanya berarti lembaga keuangan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Jaringan semantis memunculkan konsep terkait (ikan, sungai, jala) untuk menentukan apakah 'bank' berarti tepi sungai atau lembaga keuangan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Jaringan semantis hanya berfungsi jika kalimat tersebut ditulis dalam bahasa Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Jaringan semantis tidak diperlukan jika pembaca sudah hafal arti kata 'bank'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 1.27, Latihan 2b butir 2, kata 'bank' bersifat polisemi. Konteks komunikasi dan jaringan semantis (seperti konsep fisherman/ikan) menentukan makna yang tepat."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2) Fungsi kognitif bahasa berarti ....",
+                    "pilihan": [
+                        {
+                            "option": "bahasa sebagai alat berpikir dan bernalar manusia",
+                            "flag": false
+                        },
+                        {
+                            "option": "bahasa digunakan untuk mengungkapkan pikiran dan perasaan manusia",
+                            "flag": false
+                        },
+                        {
+                            "option": "bahasa sebagai alat berpikir dan bernalar manusia serta untuk mengungkapkan pikiran dan perasaan manusia",
+                            "flag": true
+                        },
+                        {
+                            "option": "bahasa berbentuk jaringan semantis dalam benak manusia",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.29, Kunci Jawaban Tes Formatif 2 No. 1."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2) Kemampuan semantis manusia memungkinkan manusia ....",
+                    "pilihan": [
+                        {
+                            "option": "memahami makna kata dan makna kalimat",
+                            "flag": false
+                        },
+                        {
+                            "option": "menyimpan pengetahuan dan pengalaman yang dimiliki dalam bentuk jaringan semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "memahami kata, kalimat dan teks yang kompleks",
+                            "flag": true
+                        },
+                        {
+                            "option": "menginterpretasikan berbagai skema",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.29, Kunci Jawaban Tes Formatif 2 No. 2."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2) Skema merupakan acuan untuk memahami berbagai situasi komunikasi karena ....",
+                    "pilihan": [
+                        {
+                            "option": "skema merupakan penggambaran struktur pengetahuan seseorang berdasarkan pengalaman yang dimiliki dalam berinteraksi dengan lingkungannya",
+                            "flag": false
+                        },
+                        {
+                            "option": "skema mewakili berbagai situasi komunikasi yang dihadapi seseorang",
+                            "flag": false
+                        },
+                        {
+                            "option": "skema mengandung unsur-unsur bahasa dan luar bahasa yang diperlukan dalam komunikasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "skema bersifat fleksibel dan mencakup berbagai situasi komunikasi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 3."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2) Tidak semua unsur makna dalam wacana diungkapkan secara harfiah, namun kita dapat memahami wacana tersebut, karena ....",
+                    "pilihan": [
+                        {
+                            "option": "kata, kalimat dan paragraf membawa amanat lengkap dalam wacana",
+                            "flag": false
+                        },
+                        {
+                            "option": "pengetahuan ensiklopedis yang dimiliki seseorang membantu pemahaman makna dalam wacana",
+                            "flag": true
+                        },
+                        {
+                            "option": "makna antarparagraf dalam wacana memiliki keutuhan makna (cohesion)",
+                            "flag": false
+                        },
+                        {
+                            "option": "jaringan semantis membentuk pemahaman wacana",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 4."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2) Susunan istilah-istilah berikut sesuai dengan urutan dalam proses pemahaman ....",
+                    "pilihan": [
+                        {
+                            "option": "skemata, konsep-konsep semantis, jaringan semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "skemata, jaringan semantis, konsep-konsep semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "konsep-konsep semantis, skemata, jaringan semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "konsep-konsep semantis, jaringan semantis, skemata",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 5."
+                },
+                {
+                    "pertanyaan": "(Latihan 3a) Berdasarkan definisi Harimurti Kridalaksana dan Rogers/Steinfatt, apa hal yang paling utama dalam sebuah proses komunikasi?",
+                    "pilihan": [
+                        {
+                            "option": "Kekuatan suara penutur saat berbicara.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyampaian informasi dan pencapaian saling pemahaman (mutual understanding) antara penutur dan petutur.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penggunaan bahasa tertulis yang formal dan kaku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya penggunaan tanda-tanda non-verbal seperti gerakan tubuh.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 1.34, Petunjuk Jawaban Latihan 3a butir 1, komunikasi adalah penggunaan bahasa untuk menyampaikan informasi dengan tujuan saling memahami pesan."
+                },
+                {
+                    "pertanyaan": "(Latihan 3b) Apa peran fungsi struktural bahasa dalam mendukung pengungkapan pikiran manusia melalui komunikasi verbal?",
+                    "pilihan": [
+                        {
+                            "option": "Membatasi pikiran manusia agar hanya membicarakan hal-hal ensiklopedis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyediakan kaidah-kaidah (kata, ungkapan, kalimat) yang memungkinkan pikiran diwujudkan dalam bahasa yang berlaku.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghilangkan kebutuhan akan fungsi kognitif dalam otak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya berfungsi dalam komunikasi antarbudaya yang berbeda.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 1.35, Petunjuk Jawaban Latihan 3b butir 1, pengungkapan pikiran dimungkinkan jika menggunakan tanda bahasa yang dibentuk menurut kaidah bahasa yang berlaku (fungsi struktural)."
+                },
+                {
+                    "pertanyaan": "(Latihan 3b) Dilihat dari fungsi bahasa, unsur apa yang paling sering menyebabkan kesalahpahaman dalam komunikasi antarbudaya menurut model Burkart?",
+                    "pilihan": [
+                        {
+                            "option": "Ketidaksamaan media (lisan vs tulis).",
+                            "flag": false
+                        },
+                        {
+                            "option": "Perbedaan konsep makna tanda bahasa yang dipengaruhi oleh unsur ensiklopedis dan latar belakang budaya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penggunaan tata bahasa yang terlalu benar.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ketiadaan saluran komunikasi yang memadai.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 1.35, Petunjuk Jawaban Latihan 3b butir 2, perbedaan budaya menyebabkan pengetahuan dan pengalaman tidak sama, sehingga skema dalam komunikasi berbeda."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3) Tujuan komunikasi adalah ….",
+                    "pilihan": [
+                        {
+                            "option": "menyampaikan informasi melalui bahasa",
+                            "flag": false
+                        },
+                        {
+                            "option": "pertukaran informasi antara pembicara/penulis/penutur dengan pendengar/pembaca/petutur",
+                            "flag": false
+                        },
+                        {
+                            "option": "penyampaian pesan dan pemahaman antara pembicara/penulis/ penutur dengan pendengar/pembaca/petutur",
+                            "flag": true
+                        },
+                        {
+                            "option": "pemahaman informasi yang disampaikan",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 1."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3) Komunikasi dapat berlangsung secara verbal maupun non verbal. Komunikasi non verbal dapat diteliti melalui pendekatan ….",
+                    "pilihan": [
+                        {
+                            "option": "semantik",
+                            "flag": false
+                        },
+                        {
+                            "option": "pragmatik",
+                            "flag": false
+                        },
+                        {
+                            "option": "semantik dan pragmatik",
+                            "flag": false
+                        },
+                        {
+                            "option": "semiotika",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 2."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3) kesenjangan makna antara orang-orang yang berkomunikasi dapat terjadi karena …. ",
+                    "pilihan": [
+                        {
+                            "option": "orang-orang yang berkomunikasi memiliki latar belakang budaya yang berbeda",
+                            "flag": false
+                        },
+                        {
+                            "option": "konsep-konsep semantis yang dinyatakan melalui tanda bahasa dan digunakan dalam komunikasi berbeda makna",
+                            "flag": true
+                        },
+                        {
+                            "option": "perbedaan interpretasi makna karena perbedaan pengalaman, pengetahuan dan lingkup kehidupan orang-orang yang terlibat dalam komunikasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "perbedaan bahasa ibu orang-orang yang terlibat dalam komunikasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 3."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3) Fungsi komunikatif bahasa terkait erat dengan fungsi kognitif bahasa, karena ….",
+                    "pilihan": [
+                        {
+                            "option": "komunikasi verbal berlangsung melalui tanda bahasa yang merupakan perwujudan konsep-konsep semantis yang digunakan untuk memproduksi, memahami dan menginterpretasi makna dalam komunikasi dan disimpan dalam otak manusia",
+                            "flag": true
+                        },
+                        {
+                            "option": "dalam komunikasi penalaran sangat penting, penalaran melibatkan fungsi kognitif bahasa",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikasi bertujuan untuk menyampaikan informasi, dalam komunikasi verbal informasi disampaikan melalui tanda bahasa yang dibentuk dalam otak manusia",
+                            "flag": false
+                        },
+                        {
+                            "option": "kesenjangan makna dalam komunikasi disebabkan karena perbedaan cara pandang dan cara berpikir orang-orang yang terlibat dalam komunikasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 4."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3) Dalam penerjemahan pengalihan makna yang optimal harus memperhatikan ....",
+                    "pilihan": [
+                        {
+                            "option": "asosiatif dan makna afektif/emotif",
+                            "flag": false
+                        },
+                        {
+                            "option": "asosiatif",
+                            "flag": false
+                        },
+                        {
+                            "option": "afektif/emotif",
+                            "flag": false
+                        },
+                        {
+                            "option": "asosiatif, makna emotif dan nilai rasa (konotasi)",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.31, Kunci Jawaban Tes Formatif 3 No. 5."
+                }
+            ]
         },
         {
-          "pertanyaan": "(Latihan 1a) Menurut Karl Buehler dalam Organon Model, kaitan antara lambang bahasa dengan penutur, pendengar, dan hal yang diwakilinya berturut-turut disebut...",
-          "pilihan": [
-            { "option": "Representatif, Ekspresif, Apelatif", "flag": false },
-            { "option": "Ekspresif, Apelatif, Representatif", "flag": true },
-            { "option": "Fatis, Puitis, Metalingual", "flag": false },
-            { "option": "Referensial, Konatif, Emotif", "flag": false }
-          ],
-          "pembahasan": "PDF hal. 1.5 - 1.6 menjelaskan: Ekspresif (kaitan dengan penutur), Apelatif (kaitan dengan pendengar), dan Representatif (kaitan dengan hal yang diwakilinya/simbol)."
-        },
-        {
-          "pertanyaan": "(Latihan 1a) Roman Jakobson memperluas fungsi bahasa. Manakah di bawah ini yang menjelaskan fungsi metalingual?",
-          "pilihan": [
-            { "option": "Bahasa yang digunakan untuk membangkitkan emosi petutur.", "flag": false },
-            { "option": "Bahasa yang digunakan untuk membicarakan atau menjelaskan bahasa itu sendiri.", "flag": true },
-            { "option": "Bahasa yang digunakan untuk mempertahankan kontak komunikasi.", "flag": false },
-            { "option": "Bahasa yang digunakan untuk menyampaikan data faktual dalam konteks.", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 1.7, paragraf 1, fungsi metalingual adalah bahasa yang digunakan sebagai metabahasa untuk menjelaskan hal-hal terkait bahasa tersebut (seperti definisi)."
-        },
-        {
-          "pertanyaan": "(Latihan 1b) Apa makna dari pernyataan bahwa fungsi struktural bahasa terkait dengan fungsi pragmatis?",
-          "pilihan": [
-            { "option": "Struktur bahasa tidak dipengaruhi oleh latar komunikasi.", "flag": false },
-            { "option": "Fungsi pragmatis yang menentukan fungsi struktural bahasa dalam suatu komunikasi.", "flag": true },
-            { "option": "Struktur bahasa selalu mendahului tujuan komunikasi.", "flag": false },
-            { "option": "Hanya bahasa lisan yang memiliki keterkaitan antara struktur dan pragmatis.", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 1.19, 'Petunjuk Jawaban Latihan 1b', butir 1, sistem bahasa ditentukan oleh fungsi bahasa dalam masyarakat; fungsi pragmatis menentukan fungsi struktural."
-        },
-        {
-          "pertanyaan": "(Latihan 1b) Dalam 'Organon model of language', tanda bahasa dapat terlaksana karena adanya tiga unsur utama, yaitu...",
-          "pilihan": [
-            { "option": "Fonem, Morfem, dan Sintaksis", "flag": false },
-            { "option": "Konteks, Saluran, dan Kode", "flag": false },
-            { "option": "Penutur, Petutur, dan perihal tertentu (S)", "flag": true },
-            { "option": "Simile, Metafora, dan Personifikasi", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 1.19, 'Petunjuk Jawaban Latihan 1b', butir 2, tiga unsur utama adalah penutur dan petutur yang berkomunikasi tentang perihal tertentu melalui tanda bahasa."
-        },
-        {
-          "pertanyaan": "(Latihan 1b) Apa perbedaan antara fungsi fatis dan fungsi konatif menurut dampaknya pada petutur?",
-          "pilihan": [
-            { "option": "Fatis untuk memberi perintah, konatif untuk menyapa.", "flag": false },
-            { "option": "Fatis untuk mempertahankan komunikasi, konatif untuk menimbulkan reaksi atau tindakan pada petutur.", "flag": true },
-            { "option": "Fatis untuk menjelaskan definisi, konatif untuk mengungkapkan perasaan.", "flag": false },
-            { "option": "Keduanya memiliki fungsi yang sama dalam estetika karya sastra.", "flag": false }
-          ],
-          "pembahasan": "PDF hal. 1.19-1.20 menjelaskan fungsi fatis berguna untuk memulai/mempertahankan interaksi, sedangkan konatif memunculkan reaksi seperti diperintah/dilarang."
-        },
-        {
-          "pertanyaan": "(Latihan 1b) Mengapa dalam teks iklan, fungsi puitis sering dikaitkan dengan fungsi emotif?",
-          "pilihan": [
-            { "option": "Karena iklan hanya bertujuan menjelaskan spesifikasi produk secara kaku.", "flag": false },
-            { "option": "Karena keindahan bahasa (puitis) dapat membangkitkan emosi tertentu untuk melakukan sesuatu.", "flag": true },
-            { "option": "Karena iklan menggunakan metabahasa untuk mendefinisikan harga.", "flag": false },
-            { "option": "Karena fungsi puitis hanya berlaku untuk iklan di media cetak.", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 1.11, butir 4, fungsi puitis dapat membangkitkan emosi tertentu, contohnya iklan cairan pembersih 'bersih berkilau' memanfaatkan fungsi emotif."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 1) Bahasa memiliki fungsi penting dalam komunikasi, karena ....",
-          "pilihan": [
-            { "option": "melalui bahasa manusia dapat mengungkapkan perasaannya", "flag": false },
-            { "option": "melalui bahasa manusia dapat menceritakan tentang lingkungan yang ada di sekitarnya", "flag": false },
-            { "option": "melalui bahasa manusia dapat menyatakan keinginannya", "flag": false },
-            { "option": "melalui bahasa manusia dapat mengungkapkan pikiran dan perasaan, menceritakan peristiwa tertentu dan mempengaruhi petutur untuk melakukan sesuatu", "flag": true }
-          ],
-          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.29, Tes Formatif 1 No. 1."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 1) Dua jenis fungsi bahasa sebagai alat komunikasi, adalah fungsi ....",
-          "pilihan": [
-            { "option": "representatif dan fungsi emotif", "flag": false },
-            { "option": "struktural dan fungsi pragmatis", "flag": true },
-            { "option": "representatif dan fungsi komunikatif", "flag": false },
-            { "option": "apelatif dan fungsi komunikatif", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.29, Tes Formatif 1 No. 2."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 1) Organon model of language yang dicetuskan Karl Bühler merupakan model tanda bahasa yang mendasari pragmatik, karena ....",
-          "pilihan": [
-            { "option": "model organon menggambarkan penutur dan petutur yang berbicara tentang sesuatu melalui tanda bahasa", "flag": true },
-            { "option": "model organon mementingkan unsur-unsur non bahasa (luar bahasa)", "flag": false },
-            { "option": "konsep dasar model organon bertumpu pada pesan yang akan disampaikan", "flag": false },
-            { "option": "tanda bahasa menurut Karl Bühler memiliki fungsi representatif, fungsi ekspresif dan fungsi apelatif", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban A sesuai PDF hal. 1.29, Tes Formatif 1 No. 3."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 1) Jika fungsi-fungsi bahasa menurut Karl Bühler dibandingkan dengan Roman Jakobson, maka dapat disimpulkan, bahwa fungsi-fungsi berikut merupakan perluasan konsep fungsi bahasa Karl Bühler, yaitu ....",
-          "pilihan": [
-            { "option": "fungsi referensial, fungsi emotif, fungsi konatif", "flag": false },
-            { "option": "fungsi emotif, fungsi fatis, fungsi metalingual", "flag": false },
-            { "option": "fungsi emotif, fungsi fatis, fungsi puitis", "flag": false },
-            { "option": "fungsi fatis, fungsi puitis, fungsi metalingual", "flag": true }
-          ],
-          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.29, Tes Formatif 1 No. 4."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 1) Setiap pesan tidak selalu hanya memiliki satu fungsi bahasa, tetapi kemungkinan lebih dari satu fungsi, namun demikian selalu ada satu fungsi yang lebih dominan dibandingkan fungsi-fungsi yang lain. Hal ini terkait dengan ....",
-          "pilihan": [
-            { "option": "fungsi konatif", "flag": false },
-            { "option": "jenis wacana", "flag": true },
-            { "option": "fungsi apelatif", "flag": false },
-            { "option": "tujuan komunikasi", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.29, Tes Formatif 1 No. 5."
-        },
-        {
-          "pertanyaan": "(Latihan 2a) Dalam ilmu linguistik kognitif, apa fungsi utama dari 'jaringan semantis' dalam pikiran manusia?",
-          "pilihan": [
-            { "option": "Sebagai alat untuk menyusun tata bahasa yang kaku.", "flag": false },
-            { "option": "Sebagai tempat penyimpanan informasi, pengetahuan, dan pengalaman dalam bentuk konsep-konsep yang saling terhubung.", "flag": true },
-            { "option": "Hanya sebagai alat penerjemah kata demi kata dari BSu ke BSa.", "flag": false },
-            { "option": "Sebagai media komunikasi non-verbal melalui gerakan tubuh.", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 1.26, Petunjuk Jawaban Latihan 2a butir 1, informasi yang diserap indra disimpan dalam otak dalam bentuk konsep-konsep yang membentuk jaringan semantis untuk digunakan dalam komunikasi."
-        },
-        {
-          "pertanyaan": "(Latihan 2a) Mengapa teori 'skema' dianggap penting dalam proses pemahaman atau interpretasi sebuah teks?",
-          "pilihan": [
-            { "option": "Karena skema bersifat statis dan memastikan makna tidak berubah.", "flag": false },
-            { "option": "Karena skema membantu mengaitkan bahasa dengan realitas (unsur ensiklopedis) dan bersifat fleksibel mengikuti situasi.", "flag": true },
-            { "option": "Karena skema hanya berisi aturan-aturan fonologis bahasa sumber.", "flag": false },
-            { "option": "Karena skema menggantikan peran kamus dalam penerjemahan profesional.", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 1.18, Petunjuk Jawaban Latihan 2a butir 2, pemahaman mengacu pada skema yang mengaitkan bahasa dengan realitas. Skema ini fleksibel dan dapat berubah sesuai situasi komunikasi."
-        },
-        {
-          "pertanyaan": "(Latihan 2b) Perhatikan kalimat: 'Sport Illustrated can be bought for 1 dollar or 35 million dollars'. Interpretasi yang benar menggunakan bantuan skema adalah...",
-          "pilihan": [
-            { "option": "Harga majalah tersebut selalu berubah setiap minggu secara drastis.", "flag": false },
-            { "option": "1 dollar mengacu pada harga majalah, sedangkan 35 juta dollar mengacu pada pembelian perusahaan penerbitnya.", "flag": true },
-            { "option": "Penutur salah menyebutkan angka karena tidak memiliki data ensiklopedis.", "flag": false },
-            { "option": "Majalah tersebut hanya bisa dibeli di Amerika dengan mata uang dollar.", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 1.27, Latihan 2b butir 1, pemahaman ini ditunjang oleh kaitan antara harga dan benda yang dibeli dalam skema yang sesuai dengan konteks."
-        },
-        {
-          "pertanyaan": "(Latihan 2b) Bagaimana peran jaringan semantis dalam memahami kata 'bank' pada kalimat 'The fisherman went to the bank'?",
-          "pilihan": [
-            { "option": "Jaringan semantis memastikan bahwa 'bank' hanya berarti lembaga keuangan.", "flag": false },
-            { "option": "Jaringan semantis memunculkan konsep terkait (ikan, sungai, jala) untuk menentukan apakah 'bank' berarti tepi sungai atau lembaga keuangan.", "flag": true },
-            { "option": "Jaringan semantis hanya berfungsi jika kalimat tersebut ditulis dalam bahasa Indonesia.", "flag": false },
-            { "option": "Jaringan semantis tidak diperlukan jika pembaca sudah hafal arti kata 'bank'.", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 1.27, Latihan 2b butir 2, kata 'bank' bersifat polisemi. Konteks komunikasi dan jaringan semantis (seperti konsep fisherman/ikan) menentukan makna yang tepat."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2) Fungsi kognitif bahasa berarti ....",
-          "pilihan": [
-            { "option": "bahasa sebagai alat berpikir dan bernalar manusia", "flag": false },
-            { "option": "bahasa digunakan untuk mengungkapkan pikiran dan perasaan manusia", "flag": false },
-            { "option": "bahasa sebagai alat berpikir dan bernalar manusia serta untuk mengungkapkan pikiran dan perasaan manusia", "flag": true },
-            { "option": "bahasa berbentuk jaringan semantis dalam benak manusia", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.29, Kunci Jawaban Tes Formatif 2 No. 1."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2) Kemampuan semantis manusia memungkinkan manusia ....",
-          "pilihan": [
-            { "option": "memahami makna kata dan makna kalimat", "flag": false },
-            { "option": "menyimpan pengetahuan dan pengalaman yang dimiliki dalam bentuk jaringan semantis", "flag": false },
-            { "option": "memahami kata, kalimat dan teks yang kompleks", "flag": true },
-            { "option": "menginterpretasikan berbagai skema", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.29, Kunci Jawaban Tes Formatif 2 No. 2."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2) Skema merupakan acuan untuk memahami berbagai situasi komunikasi karena ....",
-          "pilihan": [
-            { "option": "skema merupakan penggambaran struktur pengetahuan seseorang berdasarkan pengalaman yang dimiliki dalam berinteraksi dengan lingkungannya", "flag": false },
-            { "option": "skema mewakili berbagai situasi komunikasi yang dihadapi seseorang", "flag": false },
-            { "option": "skema mengandung unsur-unsur bahasa dan luar bahasa yang diperlukan dalam komunikasi", "flag": false },
-            { "option": "skema bersifat fleksibel dan mencakup berbagai situasi komunikasi", "flag": true }
-          ],
-          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 3."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2) Tidak semua unsur makna dalam wacana diungkapkan secara harfiah, namun kita dapat memahami wacana tersebut, karena ....",
-          "pilihan": [
-            { "option": "kata, kalimat dan paragraf membawa amanat lengkap dalam wacana", "flag": false },
-            { "option": "pengetahuan ensiklopedis yang dimiliki seseorang membantu pemahaman makna dalam wacana", "flag": true },
-            { "option": "makna antarparagraf dalam wacana memiliki keutuhan makna (cohesion)", "flag": false },
-            { "option": "jaringan semantis membentuk pemahaman wacana", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 4."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2) Susunan istilah-istilah berikut sesuai dengan urutan dalam proses pemahaman ....",
-          "pilihan": [
-            { "option": "skemata, konsep-konsep semantis, jaringan semantis", "flag": false },
-            { "option": "skemata, jaringan semantis, konsep-konsep semantis", "flag": false },
-            { "option": "konsep-konsep semantis, skemata, jaringan semantis", "flag": false },
-            { "option": "konsep-konsep semantis, jaringan semantis, skemata", "flag": true }
-          ],
-          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 5."
-        },
-        {
-          "pertanyaan": "(Latihan 3a) Berdasarkan definisi Harimurti Kridalaksana dan Rogers/Steinfatt, apa hal yang paling utama dalam sebuah proses komunikasi?",
-          "pilihan": [
-            { "option": "Kekuatan suara penutur saat berbicara.", "flag": false },
-            { "option": "Penyampaian informasi dan pencapaian saling pemahaman (mutual understanding) antara penutur dan petutur.", "flag": true },
-            { "option": "Penggunaan bahasa tertulis yang formal dan kaku.", "flag": false },
-            { "option": "Hanya penggunaan tanda-tanda non-verbal seperti gerakan tubuh.", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 1.34, Petunjuk Jawaban Latihan 3a butir 1, komunikasi adalah penggunaan bahasa untuk menyampaikan informasi dengan tujuan saling memahami pesan."
-        },
-        {
-          "pertanyaan": "(Latihan 3b) Apa peran fungsi struktural bahasa dalam mendukung pengungkapan pikiran manusia melalui komunikasi verbal?",
-          "pilihan": [
-            { "option": "Membatasi pikiran manusia agar hanya membicarakan hal-hal ensiklopedis.", "flag": false },
-            { "option": "Menyediakan kaidah-kaidah (kata, ungkapan, kalimat) yang memungkinkan pikiran diwujudkan dalam bahasa yang berlaku.", "flag": true },
-            { "option": "Menghilangkan kebutuhan akan fungsi kognitif dalam otak.", "flag": false },
-            { "option": "Hanya berfungsi dalam komunikasi antarbudaya yang berbeda.", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 1.35, Petunjuk Jawaban Latihan 3b butir 1, pengungkapan pikiran dimungkinkan jika menggunakan tanda bahasa yang dibentuk menurut kaidah bahasa yang berlaku (fungsi struktural)."
-        },
-        {
-          "pertanyaan": "(Latihan 3b) Dilihat dari fungsi bahasa, unsur apa yang paling sering menyebabkan kesalahpahaman dalam komunikasi antarbudaya menurut model Burkart?",
-          "pilihan": [
-            { "option": "Ketidaksamaan media (lisan vs tulis).", "flag": false },
-            { "option": "Perbedaan konsep makna tanda bahasa yang dipengaruhi oleh unsur ensiklopedis dan latar belakang budaya.", "flag": true },
-            { "option": "Penggunaan tata bahasa yang terlalu benar.", "flag": false },
-            { "option": "Ketiadaan saluran komunikasi yang memadai.", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 1.35, Petunjuk Jawaban Latihan 3b butir 2, perbedaan budaya menyebabkan pengetahuan dan pengalaman tidak sama, sehingga skema dalam komunikasi berbeda."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 3) Tujuan komunikasi adalah ….",
-          "pilihan": [
-            { "option": "menyampaikan informasi melalui bahasa", "flag": false },
-            { "option": "pertukaran informasi antara pembicara/penulis/penutur dengan pendengar/pembaca/petutur", "flag": false },
-            { "option": "penyampaian pesan dan pemahaman antara pembicara/penulis/ penutur dengan pendengar/pembaca/petutur", "flag": true },
-            { "option": "pemahaman informasi yang disampaikan", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 1."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 3) Komunikasi dapat berlangsung secara verbal maupun non verbal. Komunikasi non verbal dapat diteliti melalui pendekatan ….",
-          "pilihan": [
-            { "option": "semantik", "flag": false },
-            { "option": "pragmatik", "flag": false },
-            { "option": "semantik dan pragmatik", "flag": false },
-            { "option": "semiotika", "flag": true }
-          ],
-          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 2."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 3) kesenjangan makna antara orang-orang yang berkomunikasi dapat terjadi karena …. ",
-          "pilihan": [
-            { "option": "orang-orang yang berkomunikasi memiliki latar belakang budaya yang berbeda", "flag": false },
-            { "option": "konsep-konsep semantis yang dinyatakan melalui tanda bahasa dan digunakan dalam komunikasi berbeda makna", "flag": true },
-            { "option": "perbedaan interpretasi makna karena perbedaan pengalaman, pengetahuan dan lingkup kehidupan orang-orang yang terlibat dalam komunikasi", "flag": false },
-            { "option": "perbedaan bahasa ibu orang-orang yang terlibat dalam komunikasi", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 3."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 3) Fungsi komunikatif bahasa terkait erat dengan fungsi kognitif bahasa, karena ….",
-          "pilihan": [
-            { "option": "komunikasi verbal berlangsung melalui tanda bahasa yang merupakan perwujudan konsep-konsep semantis yang digunakan untuk memproduksi, memahami dan menginterpretasi makna dalam komunikasi dan disimpan dalam otak manusia", "flag": true },
-            { "option": "dalam komunikasi penalaran sangat penting, penalaran melibatkan fungsi kognitif bahasa", "flag": false },
-            { "option": "komunikasi bertujuan untuk menyampaikan informasi, dalam komunikasi verbal informasi disampaikan melalui tanda bahasa yang dibentuk dalam otak manusia", "flag": false },
-            { "option": "kesenjangan makna dalam komunikasi disebabkan karena perbedaan cara pandang dan cara berpikir orang-orang yang terlibat dalam komunikasi", "flag": false }
-          ],
-          "pembahasan": "Kunci jawaban A sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 4."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 3) Dalam penerjemahan pengalihan makna yang optimal harus memperhatikan ....",
-          "pilihan": [
-            { "option": "asosiatif dan makna afektif/emotif", "flag": false },
-            { "option": "asosiatif", "flag": false },
-            { "option": "afektif/emotif", "flag": false },
-            { "option": "asosiatif, makna emotif dan nilai rasa (konotasi)", "flag": true }
-          ],
-          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.31, Kunci Jawaban Tes Formatif 3 No. 5."
+            "id": "modul_2",
+            "title": "Ihwal Penerjemahan",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.1) Dalam kegiatan penerjemahan, terdapat dua sebutan bahasa yang terlibat. Apa pengertian dari kedua istilah bahasa tersebut?",
+                    "pilihan": [
+                        {
+                            "option": "Bahasa Asing sebagai bahasa pengantar dan Bahasa Ibu sebagai hasil akhir.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bahasa Sumber (BSu) adalah bahasa teks asli yang diterjemahkan, dan Bahasa Sasaran (BSa) adalah bahasa yang digunakan untuk menyusun teks terjemahan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Bahasa Pertama sebagai bahasa lisan dan Bahasa Kedua sebagai bahasa tulis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bahasa Formal sebagai standar aturan dan Bahasa Non-formal sebagai laras bahasa.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.52, bagian 'Petunjuk Jawaban Latihan' butir 1, BSu adalah bahasa dalam teks yang diterjemahkan, sedangkan BSa adalah bahasa untuk menyusun teks terjemahan."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Terdapat perbedaan faktor produksi antara teks sumber (TSu) dan teks sasaran (TSa). Manakah pernyataan yang benar mengenai produksi TSa?",
+                    "pilihan": [
+                        {
+                            "option": "TSa diproduksi oleh penulis asli menggunakan norma bahasa sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "TSa diproduksi oleh penerjemah mengikuti norma, budaya, dan setting bahasa sasaran agar dipahami pembaca target.",
+                            "flag": true
+                        },
+                        {
+                            "option": "TSa diproduksi secara otomatis oleh mesin tanpa mempertimbangkan norma budaya.",
+                            "flag": false
+                        },
+                        {
+                            "option": "TSa diproduksi tanpa memperhatikan setting penggunaan bahasa karena fokus pada makna harfiah.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.52, butir 2, TSa diproduksi oleh penerjemah dalam BSa untuk pembaca yang menguasai norma, budaya, dan setting BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Sesuai dengan definisi penerjemahan, apa tugas utama seorang penerjemah dalam menghubungkan 'dua dunia'?",
+                    "pilihan": [
+                        {
+                            "option": "Mengubah isi pesan teks sumber agar sesuai dengan keinginan pemesan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyalin kata demi kata dari satu bahasa ke bahasa lain tanpa modifikasi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengalihkan pesan dalam teks sumber dan mengungkapkannya secara sepadan dalam bahasa sasaran sebagai jembatan bagi pembaca.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghapus bagian teks yang dianggap sulit agar pembaca lebih cepat paham.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.52, butir 3, tugas penerjemah adalah mengalihkan pesan secara sepadan sehingga menjadi jembatan yang menghubungkan dua dunia bagi pembaca."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.4) Penerjemahan sebagai tindak komunikasi melalui tiga tahap. Apa yang terjadi pada tahap ketiga?",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemah memahami teks sumber dan membentuk citra mental.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah menulis teks sasaran bagian demi bagian (chunking).",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah menyempurnakan teks terjemahan dengan menyunting dan mengoreksinya agar terjamin terbaca dan terpahami.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemah mencari padanan leksikal di kamus ekabahasa untuk pertama kalinya.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 2.53, butir 4, tahap ketiga adalah penyempurnaan teks melalui penyuntingan dan koreksi untuk menjamin keterbacaan."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.5) Penerjemahan dapat diklasifikasikan menjadi empat jenis utama. Dasar pembedaan tersebut adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Media (intra/antarbahasa), Bidang (sastra/nonsastra), Keperluan (pragmatis/nonpragmatis), dan Moda (tulis/lisan).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Gaya bahasa, Jumlah kata, Kecepatan penerjemah, dan Biaya jasa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Negara asal, Usia pembaca, Jenis kelamin penerjemah, dan Format dokumen.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kamus yang digunakan, Waktu penelitian, Lokasi geografis, dan Izin penerbit.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.53, butir 5, penerjemahan dibedakan atas media, bidang, keperluan, dan moda."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) Untuk menjadi penerjemah yang andal, seseorang harus memiliki tiga ciri atau syarat utama, yaitu...",
+                    "pilihan": [
+                        {
+                            "option": "Gelar sarjana, pengalaman kerja, dan penguasaan teknologi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pembaca yang baik, mengenal dengan baik dua budaya, dan penulis yang mahir.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hafal ribuan kosakata, memiliki koneksi luas, dan bekerja dengan cepat.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menguasai tata bahasa, memiliki banyak kamus, dan mampu melakukan riset pasar.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 2.88, Kunci Jawaban Tes Formatif 1 nomor 1, tiga ciri tersebut adalah pembaca baik, kenal budaya, dan penulis mahir."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) Apa alasan mendasar mengapa seorang penerjemah harus mengalihkan 'pesan' dan bukan sekadar kata saat melakukan tugasnya?",
+                    "pilihan": [
+                        {
+                            "option": "Karena mengalihkan kata terlalu mudah dilakukan oleh mesin.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar pesan yang terungkap dalam teks sumber dapat tersampaikan secara sepadan kepada pembaca dalam bahasa sasaran.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena setiap kata dalam bahasa Inggris selalu memiliki satu padanan pasti dalam bahasa Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk memperpendek durasi pengerjaan teks yang sangat panjang.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.88, nomor 2, penerjemah mengalihkan pesan untuk menyampaikannya kembali dalam BSa secara akurat."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Langkah apa yang paling tepat dilakukan jika Anda menemui bagian teks sumber yang sulit dipahami?",
+                    "pilihan": [
+                        {
+                            "option": "Menghapus bagian tersebut agar alur teks tetap lancar.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menerjemahkannya secara harfiah tanpa memperhatikan konteks.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Membaca mundur dan maju untuk menghubungkan bagian teks, serta mengecek kamus ekabahasa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menggantinya dengan ide pribadi yang dirasa mirip dengan topik.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.88, nomor 3, solusi saat tidak paham adalah membaca kontekstual (maju/mundur) dan memverifikasi di kamus ekabahasa."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.4) Penerjemahan (translation) dan penjurubahasaan (interpreting) memiliki satu persamaan fundamental, yaitu...",
+                    "pilihan": [
+                        {
+                            "option": "Keduanya sama-sama hanya menangani teks dalam bentuk tulisan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keduanya merupakan tindak komunikatif yang bertujuan memahami pesan sumber lalu menyampaikannya kembali dalam bahasa sasaran.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Keduanya tidak memerlukan pemahaman mendalam terhadap budaya asli.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keduanya selalu dilakukan secara simultan tanpa jeda waktu.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 2.88, nomor 4, persamaannya adalah keduanya merupakan tindak komunikatif untuk mengalihkan pesan."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.5) Bagaimana hubungan 'tumpang tindih' antara pembedaan penerjemahan berdasar bidang dan berdasar keperluan dijelaskan?",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemahan sastra selalu bersifat pragmatis dan mendesak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemahan pragmatis biasanya bersifat nonsusastra, sedangkan penerjemahan nonpragmatis umumnya bersifat susastra.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kedua kategori tersebut identik dan tidak memiliki perbedaan strategi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemahan hukum tidak termasuk dalam kategori pragmatis maupun bidang.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 2.88, nomor 5, tumpang tindih terjadi karena pembagian pragmatis/nonpragmatis beririsan dengan pembagian susastra/nonsusastra."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.6) Saat menerjemahkan dari bahasa Inggris ke bahasa Indonesia, kapan seorang penerjemah harus mengaktifkan kemahiran bahasa Indonesianya secara maksimal?",
+                    "pilihan": [
+                        {
+                            "option": "Saat menganalisis struktur gramatikal teks bahasa Inggris.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Saat mencari referensi budaya di internet.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Saat menuliskan kembali gagasan yang diperoleh dari teks sumber ke dalam bahasa sasaran.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya saat melakukan penagihan honorarium kepada pemesan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.88, nomor 6, kemahiran BSa (Indonesia) digunakan untuk menuangkan gagasan dari TSu ke bentuk tulisan."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.7) Berdasarkan analisis teks Roald Dahl, apa catatan minor terhadap terjemahan ungkapan 'about all he owned'?",
+                    "pilihan": [
+                        {
+                            "option": "Sudah sempurna dan tidak perlu diperbaiki.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kurang tepat, seharusnya diterjemahkan menjadi 'satu-satunya milik ayah di dunia'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Salah total karena menghilangkan nama tokoh utama.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Terlalu puitis sehingga mengaburkan fakta teknis.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.88, nomor 7, meskipun secara umum sepadan, ungkapan 'about all he owned' lebih wajar jika diterjemahkan menjadi 'satu-satunya milik ayah di dunia'."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Sebagai seorang komunikator dalam proses penerjemahan, apa dua tindakan utama yang diwajibkan kepada penerjemah?",
+                    "pilihan": [
+                        {
+                            "option": "Menguasai teknologi informasi dan memiliki jaringan penerbitan yang luas.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghormati pilihan penulis teks sumber dan menjaga kesepadanan antara teks sasaran dan teks sumber.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mengubah isi pesan agar lebih populer dan menyingkat kalimat yang terlalu panjang.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menerjemahkan hanya secara harfiah dan mengabaikan latar belakang budaya pembaca.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.70, Petunjuk Jawaban Latihan 2 nomor 1, penerjemah sebagai komunikator wajib menghormati pilihan penulis dan menjaga kesepadanan agar makna tersampaikan dengan benar."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Mengapa seorang penerjemah yang andal harus memiliki kemampuan layaknya seorang penulis yang mahir?",
+                    "pilihan": [
+                        {
+                            "option": "Agar mereka bisa menulis kritik terhadap buku yang sedang diterjemahkan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penulis adalah penutur bahasa yang mampu menggunakan bahasa dengan baik dan benar untuk menyampaikan gagasan secara efektif.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Supaya penerjemah bisa mengganti nama penulis asli dengan namanya sendiri.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya sebagai syarat formal untuk mendaftar ke organisasi profesi internasional.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.71, nomor 2, kemahiran menulis diperlukan agar penerjemah berpotensi menyampaikan pahamannya tentang pesan TSu ke dalam TSa secara akurat."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Kemampuan antarbahasa seperti apa yang diharapkan dimiliki oleh seorang penerjemah agar kesan 'hasil terjemahan' dapat diminimalisir?",
+                    "pilihan": [
+                        {
+                            "option": "Mampu menerjemahkan 1.000 kata dalam waktu kurang dari satu jam.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memiliki kemampuan berbahasa yang sangat dekat dengan budaya dan laras bahasa penutur BSa (Bahasa Sasaran).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya mengandalkan mesin penerjemah otomatis terbaru.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menguasai minimal lima bahasa asing secara pasif.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 2.71, nomor 3, penguasaan laras bahasa dan struktur kalimat yang dekat dengan budaya BSa akan membuat terjemahan terasa lebih alami."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Manakah di bawah ini yang merupakan kewajiban moral penerjemah berdasarkan Kode Etik Penerjemah?",
+                    "pilihan": [
+                        {
+                            "option": "Berusaha mencapai yang terbaik, menolak karya yang merusak nilai budaya, dan tidak memanipulasi pesan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menerima semua pekerjaan meskipun di luar batas kemampuan demi kepuasan klien.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengubah pesan teks sumber jika dirasa tidak sesuai dengan pendapat pribadi penerjemah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyembunyikan informasi penting jika diminta oleh pihak ketiga.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 2.71, nomor 4, kewajiban moral mencakup integritas untuk tidak memanipulasi pesan dan menjaga nilai budaya bangsa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) Apa kualifikasi khusus yang wajib dimiliki oleh seorang penerjemah yang menangani teks hukum agar hasilnya memiliki kekuatan hukum?",
+                    "pilihan": [
+                        {
+                            "option": "Memiliki gelar sarjana hukum dari universitas negeri.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memiliki sertifikat Penerjemah Bersumpah (Sworn Translator).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pernah bekerja di lembaga kepolisian atau kejaksaan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menguasai terminologi hukum dalam minimal tiga bahasa daerah.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.71, nomor 5, penerjemah teks hukum wajib memiliki sertifikat Penerjemah Bersumpah."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.1) Sesuai kriteria profesionalisme, apa syarat utama agar seseorang dapat disebut sebagai 'pembaca kritis'?",
+                    "pilihan": [
+                        {
+                            "option": "Mampu membaca teks sumber dengan sangat cepat tanpa kesalahan ejaan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mampu menengarai pragmatika TSu yang meliputi penulis, waktu penulisan, tujuan, dan pembaca sasarannya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Telah membaca lebih dari seratus buku dalam bahasa sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mampu menghafal seluruh isi bab dalam teks sumber.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.89, Kunci Jawaban Tes Formatif 2 nomor 1, pembaca kritis harus memahami konteks pragmatis teks sumber secara utuh."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.2) Dalam hubungan kerja, apa kewajiban utama seorang pemesan atau penerbit terhadap penerjemah?",
+                    "pilihan": [
+                        {
+                            "option": "Memberikan bonus tambahan jika terjemahan selesai lebih cepat.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menjelaskan segala keinginan, kepentingan, serta detail pembaca sasaran dan bagian yang harus ditonjolkan/dihilangkan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Membebaskan penerjemah untuk mengubah isi teks sesuka hati.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyediakan seluruh alat kerja seperti komputer dan meja kantor.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.89, nomor 2, pemesan harus memberikan instruksi yang jelas agar terjadi kesepahaman antara kedua belah pihak."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.3) Mengapa seorang penerjemah profesional dituntut untuk mahir melakukan penyuntingan (editing) juga?",
+                    "pilihan": [
+                        {
+                            "option": "Agar bisa menghapus bagian teks yang terlalu sulit diterjemahkan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk menyelaraskan kalimat, paragraf, dan ragam bahasa agar teks hasil terjemahan menjadi runtut dan padu.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Agar bisa menambahkan pendapat pribadi ke dalam teks sasaran.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk memastikan jumlah kata tidak berkurang dari teks sumber.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 2.89, nomor 3, menyunting adalah bagian integral untuk memastikan kualitas dan keterbacaan teks sasaran."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.4) Apa imbas langsung bagi profesi penerjemah jika peraturan hukum mengenai profesi tersebut dilaksanakan dengan konsisten di Indonesia?",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemah akan mendapatkan pembebasan pajak seumur hidup.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Profesi penerjemah dapat disejajarkan dengan profesi lain dan adanya kepastian karier.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Seluruh buku asing akan otomatis diterjemahkan ke bahasa daerah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah tidak perlu lagi bergabung dengan organisasi profesi.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 2.89, nomor 4, pengakuan hukum memberikan status profesi yang sejajar dan kepastian karier bagi pelakunya."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.5) Unsur kejujuran apa yang secara spesifik dituntut dari seorang penerjemah menurut Kode Etik?",
+                    "pilihan": [
+                        {
+                            "option": "Jujur mengenai tarif yang paling mahal di pasar.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Jujur tentang kemampuannya dan berani menolak pekerjaan yang tidak sesuai dengan tingkat kemampuannya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Selalu mengakui bahwa teks sasaran lebih baik daripada teks sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Melaporkan setiap kesalahan yang dilakukan oleh penulis asli kepada media massa.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.89, nomor 5, integritas profesional mengharuskan penerjemah jujur akan batas kemampuannya."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.1) Apa perbedaan mendasar antara masalah kohesi dan masalah koherensi dalam proses penyelarasan teks terjemahan?",
+                    "pilihan": [
+                        {
+                            "option": "Kohesi berkaitan dengan jumlah kata, koherensi berkaitan dengan jenis huruf.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kohesi terdapat pada tataran tekstual (konektor), sedangkan koherensi pada tataran pragmatis (makna tersirat).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kohesi hanya untuk teks sastra, koherensi hanya untuk teks hukum.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keduanya identik dan merujuk pada kebenaran tata bahasa sumber (BSu).",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.84, Petunjuk Jawaban Latihan 3 nomor 1, kohesi berkaitan dengan pemahaman konektor antarbagian teks, sedangkan koherensi menuntut penerjemah memahami apa yang tersirat di balik yang tersurat."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.2) Mengapa idiom dan ungkapan beku sering menjadi kendala besar bagi penerjemah dalam menemukan padanan yang sepadan?",
+                    "pilihan": [
+                        {
+                            "option": "Karena idiom selalu memiliki struktur kalimat yang sangat panjang.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena idiom sangat berkaitan dengan budaya dan seringkali tidak memiliki padanan langsung di bahasa sasaran.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena idiom hanya boleh diterjemahkan oleh penutur asli bahasa sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penggunaan idiom dilarang dalam penerjemahan karya fiksi modern.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.85, nomor 2, idiom berkaitan erat dengan budaya. Jika BSa tidak memiliki padanan, masalah diselesaikan dengan menjelaskan maknanya dalam TSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.3) Penerjemahan yang baik dilakukan melalui dua tahap utama pada lima tataran. Tahapan tersebut adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Membaca teks dan mencetak hasil akhir.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memahami teks sumber pada kelima tataran, kemudian menyusun teks sasaran yang sepadan pada lima tataran tersebut.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mencari kata di kamus dan meminta persetujuan penulis asli.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menerjemahkan secara harfiah lalu mengubahnya menjadi puisi.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 2.85, nomor 3, penerjemahan mencakup pemahaman TSu pada 5 tataran dan penyusunan TSa yang sepadan pada 5 tataran juga."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.4) Sebutkan dua kelemahan lazim yang sering ditemukan pada diri seorang penerjemah menurut analisis kemampuan.",
+                    "pilihan": [
+                        {
+                            "option": "Kurang modal materi dan kurang koneksi internet.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kurang menguasai bahasa sumber (BSu) dan kurang menguasai bahasa sasaran (BSa).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Terlalu cepat bekerja dan terlalu banyak menggunakan kamus.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya menguasai bahasa daerah dan tidak menguasai bahasa internasional.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.85, nomor 4, kelemahan utama adalah kegagalan memahami TSu (BSu) atau kegagalan menghasilkan terjemahan yang berterima di BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.5) Manakah yang termasuk dalam lima jenis kesalahan yang lazim dibuat oleh penerjemah menurut Hatim & Mason (1997)?",
+                    "pilihan": [
+                        {
+                            "option": "Salah ketik, salah ejaan, salah tanda baca, salah format, dan salah cetak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pembalikan, penghilangan, penambahan, penyimpangan, dan perubahan makna.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Terlalu puitis, terlalu kaku, terlalu singkat, terlalu panjang, dan terlalu mahal.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Salah judul, salah nama penulis, salah tahun, salah penerbit, dan salah bahasa.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 2.85, nomor 5, lima kesalahan tersebut adalah pembalikan, penghilangan, penambahan, penyimpangan, dan perubahan makna."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.1.1) Penerjemahan 'aftershave lotion' menjadi 'losion aftershave' dengan memungut kata aslinya merupakan penyelesaian masalah pada tataran...",
+                    "pilihan": [
+                        {
+                            "option": "Tataran Gramatikal",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tataran Leksikal",
+                            "flag": true
+                        },
+                        {
+                            "option": "Tataran Frasal",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tataran Tekstual",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.89, Kunci Jawaban Tes Formatif 3 No. 1, istilah aftershave tidak ada padanannya dalam BSa sehingga masuk masalah tataran leksikal."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.1.2) Mengapa frasa 'labor pains' diterjemahkan dengan deskripsi 'perutnya mulai mulas menjelang melahirkan'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah ingin menambah jumlah kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena dalam bahasa Indonesia tidak terdapat ungkapan beku (fixed expression) yang sepadan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena penerjemah salah memahami konteks medis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena teks tersebut adalah teks puisi yang butuh penjelasan panjang.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 2.89, butir (2), ini adalah masalah tataran frasal karena ketiadaan ungkapan beku yang sepadan dalam bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.1.3) Dalam terjemahan 'Kotak plastik merek Philco', penambahan kata 'merek' dilakukan untuk membantu pembaca memahami implikatur pada tataran...",
+                    "pilihan": [
+                        {
+                            "option": "Tataran Leksikal",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tataran Pragmatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "Tataran Gramatikal",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tataran Frasal",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.89, butir (3), penambahan kata 'merek' diperlukan agar pembaca Indonesia memahami implikatur 'Philco' sebagai televisi yang lazim di AS."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.2.1) Menerjemahkan 'fatalities' menjadi 'fatalitas' dianggap sebagai kesalahan 'pengubahan makna' (modification) karena...",
+                    "pilihan": [
+                        {
+                            "option": "Kata tersebut terlalu sulit diucapkan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dalam bahasa Indonesia, makna 'fatalitas' bukan berarti 'jiwa' (korban).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemah dilarang menggunakan kata serapan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata tersebut melanggar hukum DM (Diterangkan-Menerangkan).",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 2.89-2.90, Kunci Jawaban Tes Formatif 3 No. 2, penggunaan 'fatalitas' salah karena maknanya dalam BSa berbeda dengan 'jiwa/korban'."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.2.2) Terjemahan 'It is worth noting that…' menjadi 'Ini pantas diperhatikan karena…' dianggap sebagai kesalahan pengubahan makna karena...",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemah tidak mengenali ungkapan beku BSu yang seharusnya berpadanan dengan 'Perlu dicatat bahwa'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kalimat tersebut terlalu formal untuk pembaca Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah seharusnya menghilangkan kalimat tersebut.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kalimat tersebut mengandung makna umpatan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 2.90, penerjemah tidak mengenali ungkapan beku yang tepat (Perlu dicatat bahwa), sehingga terjadi pengubahan makna."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.2.3) Mengapa terjemahan 'radar screens' menjadi 'radar layar' dikategorikan sebagai kesalahan 'pembalikan makna'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena radar tidak memiliki layar.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penerjemah mengabaikan hukum DM (Diterangkan-Menerangkan) dalam kaidah bahasa Indonesia.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kata 'radar' harus diganti dengan 'pendeteksi'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena terjadi kesalahan pengetikan (typo) pada kata layar.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 2.90, butir (3), kesalahan terjadi karena mengabaikan hukum DM, seharusnya 'layar radar'."
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
