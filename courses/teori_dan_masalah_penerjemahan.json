@@ -2491,12 +2491,828 @@
                 }
             ]
         },
-          {
+        {
+            "id": "modul_5",
+            "title": "Metode Penerjemahan",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.1) Apa karakteristik utama dari metode 'penerjemahan kata per kata' (word-for-word translation)?",
+                    "pilihan": [
+                        {
+                            "option": "Mengubah struktur kalimat BSu agar sesuai dengan kelaziman BSa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Susunan kata TSu dipertahankan dan diterjemahkan satu per satu menggunakan makna umum di luar konteks.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mementingkan estetika dan keindahan kalimat dalam bahasa sasaran.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghilangkan kata-kata yang dianggap tidak penting bagi pembaca.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.20 (Rangkuman), metode ini mengoperasikan binerisasi kata pada TSu dengan TSa sehingga makna dalam kalimat panjang sering menjadi kabur."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Mengapa metode 'penerjemahan harfiah' (literal translation) dianggap sering gagal dalam menangani ungkapan idiomatis?",
+                    "pilihan": [
+                        {
+                            "option": "Karena struktur gramatika TSa tidak mengikuti aturan BSa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penerjemah hanya memadankan kata secara arti kamus tanpa memahami makna ungkapan secara mendalam.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena metode ini terlalu berorientasi pada pembaca sasaran.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena metode ini selalu mengubah urutan kata dalam kalimat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.20, dalam metode harfiah, penerjemah wajib melakukan analisis TSu mendalam agar makna tidak melenceng akibat hanya mengandalkan arti kamus."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Apa kelemahan utama dari metode 'penerjemahan setia' (faithful translation) menurut Nida dan Taber?",
+                    "pilihan": [
+                        {
+                            "option": "Terlalu banyak menambahkan informasi baru.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hasilnya seringkali kaku dan aneh karena terlalu patuh pada struktur BSu sehingga mengabaikan keberterimaan BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Sangat mudah dipahami oleh pembaca anak-anak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghilangkan nuansa budaya asli bahasa sumber.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.20, kesetiaan pada struktur BSu menyebabkan TSa menjadi tidak wajar dan kaku (les belles infidéles)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.4) Manakah pernyataan yang benar mengenai keunggulan 'penerjemahan semantis' (semantic translation) dibandingkan metode setia?",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemahan semantis sepenuhnya mengabaikan makna BSu.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemahan semantis lebih luwes dan mempertimbangkan unsur estetika serta kewajaran budaya BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemahan semantis selalu menghasilkan teks yang lebih pendek dari TSu.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemahan semantis hanya digunakan untuk teks teknis kedokteran.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.20, metode semantis mampu menghasilkan TSa yang jauh lebih baik karena tidak terikat kaku pada bentuk TSu dan menghasilkan kesan terjemahan yang minim."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.5) Perhatikan TSa: 'Kini sebuah tim peneliti... telah memecahkan masalah itu'. Mengapa terjemahan ini dianggap kurang baik secara keseluruhan?",
+                    "pilihan": [
+                        {
+                            "option": "Karena menggunakan struktur pasif bahasa Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena frasa 'a hotly-disputed question' diterjemahkan secara harfiah dan makna TSa masih sulit dipahami secara utuh.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena tidak mencantumkan nama peneliti.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena menggunakan metode adaptasi budaya.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 5.20 (Petunjuk Jawaban Latihan 1 butir 5), TSa tersebut masih terasa kaku dan sulit dipahami karena proses harfiah."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.6) Terjemahan istilah 'naked eye' menjadi 'mata telanjang' merupakan contoh keberhasilan metode semantis karena...",
+                    "pilihan": [
+                        {
+                            "option": "Diterjemahkan kata demi kata secara harfiah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah menemukan padanan idiomatis yang tepat dan berterima dalam BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Istilah tersebut tidak memiliki makna dalam bahasa Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah mengubah makna aslinya agar lebih sopan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.20, butir 6, struktur kalimatnya benar dan berterima karena kebetulan idiom tersebut memiliki padanan yang serupa."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.7) TSu: 'you play it by ear' diterjemahkan menjadi 'kamu memainkan itu dengan telinga'. Mengapa TSa ini salah?",
+                    "pilihan": [
+                        {
+                            "option": "Karena telinga bukan alat untuk bermain.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah terjebak dalam metode harfiah dan tidak memahami makna idiomatis 'asal-asalan' atau 'tanpa rencana'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kalimat tersebut seharusnya diterjemahkan secara puitis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena kata 'kamu' terlalu kasar untuk digunakan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.20, butir 7, penerjemah gagal melakukan analisis mendalam sehingga menerjemahkan idiom secara langsung/harfiah."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.8) TSa: 'Kubilang padanya langkahi dulu mayatku'. Penggunaan ungkapan ini dalam terjemahan menunjukkan bahwa...",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemah menggunakan metode kata per kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah menggunakan metode semantis dengan mencari ungkapan yang lazim dalam BSa sehingga kesan terjemahan hilang.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemah ingin menakut-nakuti pembaca.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah tidak menguasai kosakata bahasa Inggris.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.21, butir 8, metode semantis menciptakan TSa yang wajar melalui penggunaan ungkapan yang lazim di BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.9) Dalam terjemahan survei BBC Radio, penggunaan tanda pisah (–) yang dipertahankan dari TSu membuat terjemahan menjadi...",
+                    "pilihan": [
+                        {
+                            "option": "Lebih profesional dan modern.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tidak wajar karena tanda baca tersebut tidak lazim dipakai dalam konteks tersebut di bahasa Indonesia.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Lebih mudah dipahami oleh pembaca lokal.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sesuai dengan kaidah EYD terbaru.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.21, butir 9, kesetiaan berlebihan pada format/tanda baca BSu dapat mengurangi kenikmatan membaca TSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.10) Penerjemahan 'promising student' menjadi 'bintang kelas' adalah contoh penerapan metode semantis yang baik karena...",
+                    "pilihan": [
+                        {
+                            "option": "Bintang kelas adalah terjemahan harfiah dari promising.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah tidak terikat pada pola BSu dan mempertahankan makna secara wajar dalam budaya BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Istilah bintang kelas hanya digunakan di India.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah mengganti subjek kalimat agar lebih singkat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.21, butir 10, pemilihan padanan 'bintang kelas' sangat baik karena sesuai dengan konsep budaya pembaca sasaran."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Penerjemahan kata per kata adalah penerjemahan ....",
+                    "pilihan": [
+                        {
+                            "option": "yang memadankan kata dalam BSu dengan kata pada BSa",
+                            "flag": true
+                        },
+                        {
+                            "option": "mengikuti struktur BSu",
+                            "flag": false
+                        },
+                        {
+                            "option": "mengikuti struktur BSa",
+                            "flag": false
+                        },
+                        {
+                            "option": "memadankan struktur BSu dan struktur BSa",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A sesuai PDF hal. 5.19 (Latihan 2 No. 1)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Kalimat 'They lead a cat-and-dog life...' diterjemahkan menjadi 'Mereka menjalani kehidupan seekor kucing dan anjing'. Ini menggunakan metode ....",
+                    "pilihan": [
+                        {
+                            "option": "kata per kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 5.19 (Latihan 2 No. 2)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Kalimat 'Samantha... book-worm' diterjemahkan menjadi 'Samantha... murid yang gemar sekali membaca' menggunakan metode ....",
+                    "pilihan": [
+                        {
+                            "option": "kata per kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "semantis",
+                            "flag": true
+                        },
+                        {
+                            "option": "setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 5.19 (Latihan 2 No. 3)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Terjemahan 'George... he is completely alone' menjadi '...ia benar-benar sendirian' menggunakan metode ....",
+                    "pilihan": [
+                        {
+                            "option": "semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "kata per kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 5.19 (Latihan 2 No. 4)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) Berikut adalah akibat yang ditimbulkan oleh penerjemahan harfiah, kecuali ....",
+                    "pilihan": [
+                        {
+                            "option": "makna yang terdapat dalam TSa menjadi kabur",
+                            "flag": false
+                        },
+                        {
+                            "option": "struktur gramatika TSa tidak berterima",
+                            "flag": false
+                        },
+                        {
+                            "option": "TSa akan semakin dekat dengan budaya BSa",
+                            "flag": true
+                        },
+                        {
+                            "option": "makna hanya dapat dipahami dengan memadankan kata pada TSu",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 5.19 (Latihan 2 No. 5). Penerjemahan harfiah justru menjauhkan TSa dari budaya BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.6) Ujung diagram V tidak saling bersentuhan menandakan ....",
+                    "pilihan": [
+                        {
+                            "option": "metode penerjemahan hampir tidak dapat menciptakan kesepadanan yang sama antara BSu dan BSa",
+                            "flag": true
+                        },
+                        {
+                            "option": "metode penerjemahan mampu menciptakan kesepadanan antara BSu dan BSa",
+                            "flag": false
+                        },
+                        {
+                            "option": "metode penerjemahan sisi kiri memiliki kesamaan dengan sisi kanan",
+                            "flag": false
+                        },
+                        {
+                            "option": "penerjemah dianjurkan menggunakan metode paling bawah",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A sesuai PDF hal. 5.19 (Latihan 2 No. 6)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.7) Dari keempat metode sisi kiri, yang paling mampu menciptakan kembali makna TSu dalam TSa adalah metode ....",
+                    "pilihan": [
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "kata per kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "semantis",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 5.19 (Latihan 2 No. 7)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.8) 'Les belles infidéles' memiliki makna ....",
+                    "pilihan": [
+                        {
+                            "option": "terjemahan yang baik sesuai kaidah BSu",
+                            "flag": false
+                        },
+                        {
+                            "option": "terjemahan yang baik sesuai kaidah BSa",
+                            "flag": false
+                        },
+                        {
+                            "option": "terjemahan yang cantik diperoleh melalui penerjemahan setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "kesetiaan pada struktur BSu sudah ketinggalan zaman",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 5.19 (Latihan 2 No. 8). Frasa ini menyindir terjemahan yang indah namun tidak setia pada teks asli."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) TSu: 'Now it is raining cats and dogs' diterjemahkan 'Sekarang ini sedang hujan kucing dan anjing'. Metode yang digunakan adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "Setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "Harfiah",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kata per kata",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 5.40, Tes Formatif 1 No. 1. Makna TSu tidak sampai sempurna karena idiom diterjemahkan secara harfiah."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) TSu: 'The grapes... are on special offer' diterjemahkan 'Anggur... sedang diobral besar-besaran'. Metode yang digunakan adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Semantis",
+                            "flag": true
+                        },
+                        {
+                            "option": "Setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "Harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata per kata",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A sesuai PDF hal. 5.40, Tes Formatif 1 No. 2. Penerjemah paham makna konteks penawaran khusus."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Terjemahan teks 'Virgin Atlantic' yang sangat patuh pada bentuk TSu sehingga membuat TSa kurang wajar menggunakan metode...",
+                    "pilihan": [
+                        {
+                            "option": "Semantis",
+                            "flag": false
+                        },
+                        {
+                            "option": "Setia",
+                            "flag": true
+                        },
+                        {
+                            "option": "Harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata per kata",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 5.40, Tes Formatif 1 No. 3."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.4) TSu: 'he's a good egg!' diterjemahkan 'Ia telur yang baik'. Mengapa metode ini dikategorikan Harfiah?",
+                    "pilihan": [
+                        {
+                            "option": "Karena telur adalah simbol kebaikan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena idiom tidak dapat diterjemahkan secara harfiah tanpa merusak makna aslinya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena struktur kalimatnya salah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena menggunakan bahasa gaul.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 5.40, Tes Formatif 1 No. 4."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.5) Penerjemahan yang mementingkan kejelasan dan kemudahan pembaca memahami TSa tanpa melenceng dari makna TSu adalah metode...",
+                    "pilihan": [
+                        {
+                            "option": "Semantis",
+                            "flag": true
+                        },
+                        {
+                            "option": "Setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "Harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata per kata",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A sesuai PDF hal. 5.40, Tes Formatif 1 No. 5."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.6) Metode yang hanya menerjemahkan berdasarkan arti kamus dan 'surface structure' saja adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Kata per kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "Harfiah",
+                            "flag": true
+                        },
+                        {
+                            "option": "Setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "Semantis",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 5.40, Tes Formatif 1 No. 6."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.7) Metode penerjemahan 'setia' (faithful) memiliki karakteristik...",
+                    "pilihan": [
+                        {
+                            "option": "Berpegang teguh pada maksud TSa agar luwes.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Berpegang teguh pada maksud dan tujuan TSu, sehingga hasil sering terasa kaku dan asing.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Selalu mengubah struktur bahasa agar sesuai BSa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengabaikan format teks asli sepenuhnya.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B sesuai PDF hal. 5.40, Tes Formatif 1 No. 7."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.8) TSu: 'Snow is a form of frozen water'. TSa: 'Salju adalah sebuah bentuk dari air yang membeku'. Metode yang digunakan adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Kata per kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "Harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Setia",
+                            "flag": true
+                        },
+                        {
+                            "option": "Semantis",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 5.40, Tes Formatif 1 No. 8."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.9) Apa alasan utama metode 'kata per kata' tidak mampu menghasilkan terjemahan yang wajar dan akurat?",
+                    "pilihan": [
+                        {
+                            "option": "Karena harganya terlalu murah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena kalimat yang dihasilkan sering tidak berstruktur sehingga tidak memiliki makna.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena terlalu banyak menggunakan catatan kaki.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena hanya digunakan oleh penerjemah senior.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C sesuai PDF hal. 5.40, Tes Formatif 1 No. 9."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.10) TSu: 'Tablet computers were the stars...' diterjemahkan 'Komputer tablet menjadi primadona...'. Metode ini disebut...",
+                    "pilihan": [
+                        {
+                            "option": "Kata per kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "Harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Setia",
+                            "flag": false
+                        },
+                        {
+                            "option": "Semantis",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D sesuai PDF hal. 5.40, Tes Formatif 1 No. 10."
+                },
+                        {
+          "pertanyaan": "(Latihan 2.1) Metode penerjemahan yang mengubah karakter dalam TSu dan menyesuaikan alur cerita dengan budaya BSa adalah metode penerjemahan ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": true },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 1, metode adaptasi adalah yang paling jauh dari BSu karena mengubah karakter dan latar agar sesuai budaya BSa (contoh: 'The Cat and the Fox' menjadi 'Kucing dan Kancil')."
+        },
+        {
+          "pertanyaan": "(Latihan 2.2) Salah satu ciri metode penerjemahan bebas adalah ....",
+          "pilihan": [
+            { "option": "menyesuaikan dengan pembaca sasaran", "flag": false },
+            { "option": "menggunakan ungkapan kolokial agar berterima", "flag": false },
+            { "option": "mengutamakan bentuk daripada isi", "flag": false },
+            { "option": "mengutamakan isi daripada bentuk", "flag": true }
+          ],
+          "pembahasan": "Menurut PDF hal. 5.34, nomor 2, dalam penerjemahan bebas, isi atau pesan lebih diutamakan sehingga bentuk seringkali dikorbankan."
+        },
+        {
+          "pertanyaan": "(Latihan 2.3) Metode penerjemahan yang mereproduksi pesan dalam TSa dengan ungkapan yang lebih alamiah dan akrab daripada TSu adalah metode penerjemahan ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": true },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 5.34, nomor 3, metode idiomatis mereproduksi pesan dengan menggunakan idiom atau ungkapan kolokial yang lazim dalam BSa."
+        },
+        {
+          "pertanyaan": "(Latihan 2.4) Metode penerjemahan yang berupaya untuk menerjemahkan makna kontekstual dalam TSu, baik aspek kebahasaan maupun aspek isinya, agar dapat diterima dan dimengerti oleh pembaca TSa adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": true }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 4, metode komunikatif fokus pada keberterimaan pesan secara kontekstual bagi pembaca sasaran."
+        },
+        {
+          "pertanyaan": "(Latihan 2.5) TSu: 'Euro currency slumped to its lowest level' | TSa: 'Mata uang Euro terjun bebas ke level terendah.' Metode yang digunakan adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": true },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 5.34, nomor 5, penggunaan ungkapan 'terjun bebas' sebagai padanan 'slumped' menunjukkan metode idiomatis."
+        },
+        {
+          "pertanyaan": "(Latihan 2.6) TSu: Lirik lagu 'When I need you...' | TSa: 'Jika ku merindukan dirimu...'. Metode yang digunakan adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": true },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 5.34, nomor 6, penerjemahan lirik lagu yang mengutamakan pesan namun mengubah struktur secara signifikan masuk kategori metode bebas."
+        },
+        {
+          "pertanyaan": "(Latihan 2.7) TSu: 'Millions of kids... wet the bed' | TSa: '...jutaan anak kecil... ngompol.' Metode yang digunakan adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": true }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 7, penggunaan kata 'ngompol' yang lugas untuk menjelaskan konteks 'wet the bed' menunjukkan metode komunikatif."
+        },
+        {
+          "pertanyaan": "(Latihan 2.8) TSu: 'Amelia Earhart... disappeared...' | TSa: '...lenyap ditelan bumi...'. Metode yang digunakan adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": true },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 5.34, nomor 8, ungkapan 'lenyap ditelan bumi' adalah bentuk idiomatis untuk menggantikan kata 'disappeared'."
+        },
+        {
+          "pertanyaan": "(Latihan 2.9) TSu: 'Thank you very much. Best regards,' | TSa: 'Terima kasih banyak. Hormat kami,'. Metode yang digunakan adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": true },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 5.34, nomor 9, penyesuaian salam penutup surat ke dalam budaya BSa ('Hormat kami') adalah bentuk adaptasi."
+        },
+        {
+          "pertanyaan": "(Latihan 2.10) TSu: 'Helping someone... with toileting in bed' | TSa: 'Membantu orang... buang hajat di tempat tidur.' Metode yang digunakan adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": true }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 10, penyampaian pesan fungsional yang mudah dipahami pembaca sasaran menggunakan metode komunikatif."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.1) Dalam terjemahan 'Oil Prices hike...' menjadi 'Harga Minyak... Meroket', kata 'meroket' menunjukkan penggunaan metode ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": true },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 5.41, nomor 1, kata 'meroket' memiliki makna konotasi dan imaji visual kolokial yang kuat, sehingga termasuk metode idiomatis."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.2) Pada teks tentang sekolah di Amerika, ungkapan 'single-sex classes' dijelaskan secara singkat guna mempermudah pembaca. Metode ini adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": true }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 2, bentuk TSa diubah agar komunikatif dan mudah dipahami oleh pembaca sasaran."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.3) Terjemahan teks Selena Gomez yang bentuknya sangat jauh berbeda dari TSu namun mempertahankan garis besar maknanya menggunakan metode ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": true },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 5.41, nomor 3, kebebasan dalam struktur yang membuat TSa mudah dipahami pembaca menunjukkan metode bebas."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.4) Dengan metode ini, penerjemah mampu mempertahankan makna dengan baik meskipun tidak setia pada bentuk TSu, sehingga TSa mudah dipahami. Metode yang dimaksud adalah ....",
+          "pilihan": [
+            { "option": "komunikatif", "flag": true },
+            { "option": "idiomatis", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "adaptasi", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 5.41, nomor 4, metode komunikatif mengaplikasikan kosakata yang baik agar pesan tersampaikan secara efektif."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.5) TSu: 'The giant destroyed...' | TSa: 'Buto Ijo itu memporak-porandakan...'. Penggantian karakter raksasa menjadi tokoh lokal Buto Ijo adalah contoh metode ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": true },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 5, penyesuaian karakter atau tokoh dengan budaya BSa adalah ciri khas metode adaptasi."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.6) Penggunaan ungkapan 'babak belur' dalam TSa untuk menerjemahkan kondisi ekonomi yang sulit membuat kehadiran metode ini sangat kental. Metode tersebut adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": true },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 5.41, nomor 6, 'babak belur' merupakan ungkapan idiomatis dalam bahasa Indonesia."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.7) Kalimat pertama dalam TSa pada soal nomor 7 dinilai sangat komunikatif. Jika penerjemah mengikuti bentuk TSu, makna belum tentu mudah dipahami. Metode ini adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": true }
+          ],
+          "pembahasan": "Menurut PDF hal. 5.41, nomor 7, orientasi pada kemudahan pemahaman pembaca sasaran adalah inti metode komunikatif."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.8) TSu: Kalimat sederhana tentang diktator Haiti. Makna 'homeland' dan 'ousted' dipindahkan ke TSa dengan mudah tanpa terikat pola TSu. Metode ini adalah ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": true }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 8, pemindahan makna pada kalimat sederhana agar mudah dipahami menggunakan metode komunikatif."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.9) Frasa 'berbadan dua' sebagai padanan untuk 'pregnant' adalah contoh penggunaan ungkapan ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": false },
+            { "option": "idiomatis", "flag": true },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 5.42, nomor 9, 'berbadan dua' adalah ungkapan idiomatis/halus dalam bahasa Indonesia."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2.10) TSa sangat lepas dari bentuk TSu dan penerjemah melakukan perubahan radikal serta penambahan informasi yang tidak ada dalam TSu. Ini adalah metode ....",
+          "pilihan": [
+            { "option": "adaptasi", "flag": false },
+            { "option": "bebas", "flag": true },
+            { "option": "idiomatis", "flag": false },
+            { "option": "komunikatif", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 5.42, nomor 10, perubahan radikal dan penambahan informasi mandiri oleh penerjemah merupakan ciri metode bebas."
+        }
 
-            "id": "modul_",
-
-            "title": "",
-
-            "questions": []}
+            ]
+        }
     ]
 }
