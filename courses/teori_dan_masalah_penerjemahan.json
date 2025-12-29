@@ -1868,6 +1868,635 @@
                     "pembahasan": "Berdasarkan PDF hal. 3.29, Larson (1984) menyatakan hasil terjemahan hendaknya akurat (pesan benar), jelas (mudah dipahami), dan wajar (tidak kaku)."
                 }
             ]
-        }
+        },
+        {
+            "id": "modul_4",
+            "title": "Proses Penerjemahan",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.1) Mengapa seorang penerjemah wajib mengetahui 'subject matter' atau ranah dari teks yang akan diterjemahkannya?",
+                    "pilihan": [
+                        {
+                            "option": "Agar bisa menentukan tarif yang paling mahal.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk memudahkan pemahaman makna dalam TSu secara paripurna dan menemukan kesepadanan yang presisi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya untuk memenuhi formalitas prapenerjemahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar bisa mengganti seluruh isi teks dengan ide baru.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.16, Petunjuk Jawaban Latihan 1 nomor 1, tanpa penguasaan subject matter, penerjemah akan mengalami kesulitan menemukan kesepadanan presisi dan hasil terjemahannya akan sangat buruk."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Apa manfaat utama bagi penerjemah melakukan proses 'membaca analitis' atau membaca kritis terhadap teks sumber?",
+                    "pilihan": [
+                        {
+                            "option": "Mempercepat waktu pengerjaan teks tanpa harus melihat kamus.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memahami makna secara utuh dan mendalam karena seringkali kalimat menyamarkan maksud yang sebenarnya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghafal seluruh kosakata sulit sebelum mulai menulis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menentukan jumlah paragraf yang akan dihapus.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.16, nomor 2, melalui membaca kritis/analitis, penerjemah dapat membuat analogi-analogi yang memudahkan proses penerjemahan."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Dalam proses analisis teks sumber (TSu), hal fundamental apa yang perlu diperhatikan penerjemah terkait bentuk teks?",
+                    "pilihan": [
+                        {
+                            "option": "Jumlah halaman dan berat kertas teks sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bentuk TSu (naratif, deskriptif, persuasif, atau argumentatif) karena berkaitan dengan pilihan kata dan gaya penulisan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Warna sampul buku dan jenis huruf (font) yang digunakan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Daftar isi dan biografi singkat penerbit.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 4.16, nomor 3, pemahaman terhadap bentuk teks akan sangat mempengaruhi pilihan kata dan gaya bahasa yang digunakan dalam TSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Persiapan apa yang harus dipastikan tersedia oleh seorang penerjemah sebelum mulai melakukan pengerjaan teks?",
+                    "pilihan": [
+                        {
+                            "option": "Izin dari pemerintah daerah dan surat kontrak kerja.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Peralatan (komputer), kamus, ensiklopedia terkait, referensi internet, dan akses ke pakar jika ada kesulitan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Membeli buku-buku baru yang tidak ada kaitannya dengan teks.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyalin teks sumber ke dalam kertas kosong secara manual.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 4.17, Petunjuk Jawaban Latihan 2 nomor 1, kelengkapan alat kerja dan pembacaan TSu berulang-ulang adalah kunci keberhasilan proses."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Sebutkan tiga alasan utama mengapa sebuah teks perlu dianalisis secara mendalam sebelum diterjemahkan.",
+                    "pilihan": [
+                        {
+                            "option": "Menentukan harga, waktu, dan lokasi kerja.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengetahui maksud pengarang, cara penyampaian pesan, dan perwujudan gaya penulisannya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mencari kesalahan ketik penulis, menghitung kata, dan mengubah judul.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memastikan teks tidak mengandung gambar dan tidak terlalu tebal.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.18, nomor 2, analisis dilakukan untuk memahami maksud (eksposisi/narasi/dll), laras bahasa, dan gaya penulisan pengarang."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Bagaimana alur proses penerjemahan yang dikemukakan oleh Larson (1984)?",
+                    "pilihan": [
+                        {
+                            "option": "Proses menyalin kata demi kata dari BSu ke BSa secara linier.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Proses memindahkan makna dari TSu ke TSa, di mana bentuk TSu menjadi tidak begitu dipentingkan demi keberterimaan budaya BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Proses mengubah seluruh struktur TSa agar mirip dengan karya orisinal penerjemah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Proses yang hanya mengutamakan bentuk gramatikal tanpa memedulikan makna.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.18, nomor 3, Larson menekankan bahwa yang dipindahkan adalah makna melalui proses penafsiran, sehingga bentuk TSa bisa berbeda dari TSu."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Apa hasil akhir yang krusial dari proses analisis teks yang dilakukan oleh seorang penerjemah?",
+                    "pilihan": [
+                        {
+                            "option": "Penerbitan buku dalam waktu satu hari.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keputusan apakah penerjemah akan menerima atau menolak untuk menerjemahkan teks tersebut.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pengubahan seluruh tanda baca dalam teks sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penghitungan jumlah halaman yang akan dicetak.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 4.18, nomor 4, jika analisis gagal (penerjemah tidak memahami makna), ia tidak boleh memaksakan diri dan sebaiknya menolak pekerjaan tersebut."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) Mengapa pemahaman akan 'konteks' sangat penting bagi penerjemah dalam memilih ungkapan yang tepat?",
+                    "pilihan": [
+                        {
+                            "option": "Karena konteks menentukan harga jual per kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena konteks menjadi 'wadah' yang memberikan makna berbeda pada kata yang sama (misal: istilah 'morfologi' dalam bahasa vs kedokteran).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena konteks hanya berisi informasi tentang biografi penulis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena tanpa konteks, penerjemah tidak bisa menggunakan komputer.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 4.18, nomor 5, konteks memungkinkan penerjemah memodifikasi TSa sesuai kelaziman 'wadah' terjemahannya."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) Dalam tahap prapenerjemahan, apa yang dimaksud dengan 'Audience Design'?",
+                    "pilihan": [
+                        {
+                            "option": "Langkah untuk merancang tata letak gambar dalam buku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Langkah untuk mengetahui siapa pembaca TSa guna menentukan prosedur dan laras bahasa yang tepat.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Langkah untuk mencari sponsor atau pemesan terjemahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Langkah untuk menghitung jumlah pembaca yang akan membeli buku.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.35, Kunci Jawaban Tes Formatif 1 nomor 1, audience design sangat berpengaruh pada pemilihan laras bahasa dan bentuk TSa."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) Mengapa profil pembaca sasaran harus dipertimbangkan secara serius dalam menentukan kesepadanan?",
+                    "pilihan": [
+                        {
+                            "option": "Karena pembaca sasaran yang membayar honorarium penerjemah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena perbedaan usia, pendidikan, dan latar sosial pembaca menentukan pemilihan padanan kata yang wajar (misal: pilihan kata untuk 'pregnant').",
+                            "flag": true
+                        },
+                        {
+                            "option": "Agar penerjemah tidak perlu membaca teks sumber secara utuh.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya untuk mengikuti tren pasar buku terbaru.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.35, nomor 2, istilah seperti 'inseminasi buatan' atau 'bunting' dipilih berdasarkan siapa pembacanya agar makna tersampaikan secara wajar."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Mana yang lebih penting menurut teori penerjemahan modern: mempertahankan bentuk formal TSu atau menyesuaikan dengan budaya BSa?",
+                    "pilihan": [
+                        {
+                            "option": "Mempertahankan bentuk formal TSu agar terlihat profesional.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyesuaikan dengan budaya BSa agar teks lebih mudah dipahami dan kesan 'hasil terjemahan' dapat diminimalkan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Keduanya tidak penting selama teks bisa dibaca.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyesuaikan budaya BSa hanya jika penerjemah tidak menguasai gramatika.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 4.35, nomor 3, penyesuaian budaya BSa lebih tepat kecuali dalam kasus khusus seperti penerjemahan puisi."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.4) Apa indikator utama dari sebuah 'terjemahan yang wajar'?",
+                    "pilihan": [
+                        {
+                            "option": "Terjemahan yang menggunakan kosakata yang sangat sulit dan teknis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Terjemahan yang sesuai dengan pembaca sasaran berdasarkan usia, latar sosial, budaya, pengalaman, dan pengetahuan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Terjemahan yang urutan katanya persis sama dengan teks sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Terjemahan yang selesai tepat waktu sesuai kontrak.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 4.36, nomor 4, kewajaran didasarkan pada kesesuaian dengan pembaca sasaran (contoh: pemilihan kata ganti 'Aku', 'Saya', atau nama diri 'Nana')."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.5) Mengapa seorang penerjemah perlu membuat draf dan mengolahnya kembali sebelum menjadi versi final?",
+                    "pilihan": [
+                        {
+                            "option": "Agar penerjemah memiliki bukti bahwa mereka telah bekerja keras.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk memeriksa kesalahan, memastikan kelengkapan makna TSu terakomodasi, serta memperbaiki tanda baca dan tata bahasa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya sebagai cadangan jika file asli hilang.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar bisa mengubah seluruh isi teks tanpa diketahui pemesan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.36, nomor 5, pembuatan draf melatih penerjemah bekerja terorganisasi untuk menghasilkan produk akhir yang sempurna."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.1) Berdasarkan tahap pascapenerjemahan, apa saja lima langkah utama yang harus ditempuh oleh seorang penerjemah?",
+                    "pilihan": [
+                        {
+                            "option": "Membaca teks, mencetak, menjilid, menjual, dan mereview.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Membandingkan TSu dengan TSa, memeriksa pemahaman, menguji kewajaran, menguji keterbacaan, dan menguji konsistensi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Analisis skopos, penentuan tarif, pencarian klien, editing, dan revisi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Deverbalisasi, chunking, penyusunan draf, penentuan genre, dan publikasi.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.30, Petunjuk Jawaban Latihan 1 nomor 1, lima langkah tersebut merupakan rangkaian proses untuk memastikan kualitas hasil terjemahan."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Apa manfaat utama dari membandingkan TSa (Teks Sasaran) dengan TSu (Teks Sumber) pada tahap akhir?",
+                    "pilihan": [
+                        {
+                            "option": "Hanya untuk memastikan jumlah halaman tetap sama.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai upaya 'check and recheck' untuk memastikan makna tidak melenceng atau ada bagian yang terlewat.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Agar penerjemah bisa mengubah seluruh gaya bahasa penulis asli.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk memudahkan proses penghitungan honorarium.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.30, nomor 2, manfaatnya adalah memastikan makna yang dipindahkan tidak melenceng dan memungkinkan penambahan jika ada makna yang masih samar."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Apa yang dimaksud dengan memperhatikan 'norma yang berlaku dalam BSa' menurut pendapat Newmark (1988)?",
+                    "pilihan": [
+                        {
+                            "option": "Memastikan terjemahan mengikuti urutan kata bahasa sumber secara kaku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyesuaikan teks sasaran agar wajar, tepat, dan jelas sesuai dengan budaya serta keberterimaan masyarakat BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya menggunakan kata-kata serapan dari bahasa asing.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengabaikan gaya tutur penulis asli sepenuhnya.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 4.30, nomor 3, norma BSu belum tentu sesuai dengan BSa, sehingga penerjemah harus memilah mana yang perlu disesuaikan dengan budaya BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.4) Mengapa dalam memeriksa pemahaman TSa, penerjemah disarankan melibatkan pihak kedua?",
+                    "pilihan": [
+                        {
+                            "option": "Karena pihak kedua akan membayar biaya tambahan penyuntingan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk menjaga objektivitas dan memastikan pesan yang disampaikan benar-benar jelas serta mudah dipahami oleh pembaca sasaran.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Agar penerjemah tidak perlu lagi melakukan revisi sendiri.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya sebagai syarat administratif dalam pengurusan hak cipta.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.31, nomor 4, pihak kedua membantu memberikan feedback atas hal-hal yang mungkin dianggap jelas oleh penerjemah tapi belum tentu jelas bagi orang lain."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.5) Pernyataan bahwa 'kewajaran bergantung pada pembaca sasaran' dibuktikan dengan adanya perbedaan pilihan kata. Manakah contoh yang tepat sesuai dokumen?",
+                    "pilihan": [
+                        {
+                            "option": "Menerjemahkan 'apple' menjadi 'apel' untuk semua kalangan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pilihan kata 'bunting', 'hamil', atau 'berbadan dua' yang disesuaikan dengan latar sosial dan pendidikan pembaca.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menggunakan istilah 'kamu' untuk semua lawan bicara di semua wilayah Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menggunakan bahasa gaul dalam teks hukum resmi agar terlihat modern.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.31, nomor 5, kewajaran bergantung pada pengelompokan usia, pendidikan, dan geografi pembaca (misal: penggunaan kata 'pregnant')."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Bagaimana hubungan antara kemampuan membaca dengan proses membandingkan TSa dengan TSu?",
+                    "pilihan": [
+                        {
+                            "option": "Kemampuan membaca hanya diperlukan saat tahap persiapan awal saja.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kemampuan membaca yang baik dalam dua bahasa memudahkan penerjemah menemukan makna yang terlewat saat membandingkan draf dengan teks asli.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemah tidak perlu mahir membaca jika sudah memiliki kamus lengkap.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Proses perbandingan dilakukan secara otomatis oleh memori jangka pendek tanpa perlu teknik membaca.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 4.32, Petunjuk Jawaban Latihan 2 nomor 1, kemampuan membaca dalam dua bahasa berperan penting dalam proses pemindahan makna secara akurat."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Apa definisi 'terjemahan yang wajar' menurut prinsip Nida dan Taber (1974)?",
+                    "pilihan": [
+                        {
+                            "option": "Terjemahan yang mempertahankan struktur gramatikal bahasa Inggris.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Makna diungkapkan dengan bahasa yang sesuai dengan budaya pembaca sehingga terasa sebagai produk budaya BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Terjemahan yang selesai lebih cepat dari jadwal yang ditentukan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Terjemahan yang hanya menggunakan kata-kata serapan terbaru.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.32, nomor 2, kewajaran sangat bergantung pada latar sosial-ekonomi, pendidikan, dan usia pembaca sasaran."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Bagaimana prinsip kewajaran mempengaruhi pemilihan struktur kalimat dalam bahasa Indonesia (BSa)?",
+                    "pilihan": [
+                        {
+                            "option": "Wajib mengikuti struktur kalimat aktif bahasa Inggris.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mementingkan makna daripada bentuk, seperti lebih sering menggunakan kalimat pasif agar berterima dalam budaya Indonesia.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menggunakan kalimat yang sangat panjang dan kompleks untuk pembaca anak-anak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghilangkan subjek kalimat agar kalimat menjadi lebih singkat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.32, nomor 3, penutur bahasa Inggris menyukai kalimat aktif, sedangkan orang Indonesia cenderung lebih suka kalimat pasif dalam keseharian."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Apa manfaat utama dari menguji konsistensi dalam sebuah Teks Sasaran (TSa)?",
+                    "pilihan": [
+                        {
+                            "option": "Agar teks hasil terjemahan memiliki jumlah kata yang lebih banyak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menjadikan istilah yang muncul berulang menjadi seragam sehingga memudahkan pembaca memahami makna (terutama istilah teknis).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Agar penerjemah bisa menambahkan variasi sinonim sebanyak mungkin.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya untuk memastikan tidak ada kesalahan ketik nama penulis.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 4.32, nomor 4, konsistensi menjamin teks lebih enak dibaca dan istilah teknis menjadi seragam."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) Langkah apa yang dapat ditempuh oleh penerjemah untuk mereduksi inkonsistensi dalam TSa?",
+                    "pilihan": [
+                        {
+                            "option": "Menggunakan mesin penerjemah yang berbeda-beda setiap hari.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Membaca TSa berulang kali, menandai kata kunci/istilah yang sering muncul, dan memberi nomor pada setiap paragraf.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghapus paragraf yang memiliki istilah sulit.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Meminta bantuan orang awam untuk mengubah seluruh isi teks.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.32, nomor 5, penandaan masalah dan kata kunci membantu penerjemah menjaga keseragaman istilah."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.1) Manakah tiga aspek yang menjadi indikator terjemahan yang baik menurut Nida dan Taber (1974)?",
+                    "pilihan": [
+                        {
+                            "option": "Leksikal, Frasal, dan Tekstual.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sepadan, Wajar, dan Dekat.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pragmatis, Kognitif, dan Struktural.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Draf, Revisi, dan Final.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 4.36, Kunci Jawaban Tes Formatif 2 nomor 1, indikator tersebut adalah Sepadan (formalitas), Wajar (budaya), dan Dekat (makna)."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.2) Pada tahap pascapenerjemahan, bagaimana seorang penerjemah memastikan karyanya sudah 'paripurna'?",
+                    "pilihan": [
+                        {
+                            "option": "Dengan langsung menyerahkan hasil ke pengawas ujian.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Melakukan reviu lengkap (pemahaman, kewajaran, keterbacaan, dan konsistensi) serta perbandingan dengan TSu.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya dengan memeriksa apakah jumlah halaman sudah sesuai.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dengan mengganti seluruh judul bab agar lebih menarik.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.37, nomor 2, reviu dan perbandingan menyeluruh adalah langkah wajib untuk mencapai kualitas paripurna."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.3) Apa tindakan utama yang dilakukan penerjemah saat menguji keterbacaan teks?",
+                    "pilihan": [
+                        {
+                            "option": "Menghitung jumlah huruf dalam setiap kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Membaca kembali TSa dengan seksama untuk memastikan makna dapat dipahami serta memperhatikan tanda baca dan huruf kapital.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mengganti seluruh istilah asing dengan bahasa daerah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menambahkan gambar ilustrasi di setiap halaman.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 4.37, nomor 3, keterbacaan dijamin melalui pembacaan ulang yang teliti terhadap detail teknis penulisan."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.4) Mengapa latar waktu penulisan dapat mempengaruhi 'bentuk' dan pilihan kata dalam penerjemahan?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah lebih suka menggunakan kata-kata kuno.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena bahasa berkembang (misal: kata 'syahdan' yang dulu populer kini diganti dengan istilah modern seperti 'jomblo').",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena latar waktu menentukan biaya kontrak penerjemahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Latar waktu sama sekali tidak berpengaruh pada bentuk teks.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 4.37, nomor 4, puisi lama memiliki pola baku, sedangkan puisi modern lebih bebas. Hal ini berlaku pula pada popularitas kata tertentu."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.5) Apa tugas spesifik dari seorang 'penyelaras akhir' terjemahan?",
+                    "pilihan": [
+                        {
+                            "option": "Menulis ulang seluruh isi buku dari awal.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memastikan tidak ada makna yang terlewat, menyeragamkan istilah, serta mereviu paragraf dan halaman demi halaman.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya bertugas mengirimkan naskah ke percetakan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghapus nama penerjemah asli dari sampul buku.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 4.37, nomor 5, penyelaras akhir bertanggung jawab atas keseragaman istilah, kata ganti, dan keutuhan makna."
+                }
+            ]
+        },
+          {
+
+            "id": "modul_",
+
+            "title": "",
+
+            "questions": []}
     ]
 }
