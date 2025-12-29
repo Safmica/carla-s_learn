@@ -1,0 +1,303 @@
+{
+  "slug": "teori_dan_masalah_penerjemahan_modul_1",
+  "title": "Modul 1: Pengertian Fungsi Bahasa",
+  "description": "Membahas fungsi bahasa dari aspek struktural, pragmatis, kognitif, dan komunikatif serta aplikasinya dalam pemahaman teks.",
+  "modules": [
+    {
+      "id": "modul_1",
+      "title": "Pengertian Fungsi Bahasa",
+      "questions": [
+        {
+          "pertanyaan": "(Latihan 1a) Dilihat dari sudut komunikasi, perbedaan antara fungsi struktural dan fungsi pragmatis berdasarkan konsep dasar fungsi bahasa adalah...",
+          "pilihan": [
+            { "option": "Fungsi struktural adalah penggunaan bahasa dalam masyarakat, fungsi pragmatis adalah kaidah bahasa.", "flag": false },
+            { "option": "Fungsi struktural terkait dengan sistem dan jaringan antarunsur bahasa, sedangkan fungsi pragmatis terkait penggunaan bahasa dalam komunikasi.", "flag": true },
+            { "option": "Fungsi struktural berfokus pada emosi penutur, sedangkan fungsi pragmatis pada estetika bahasa.", "flag": false },
+            { "option": "Fungsi struktural bersifat fleksibel, sedangkan fungsi pragmatis bersifat kaku dan statis.", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 1.5, subbab 'Pengertian Fungsi Bahasa', paragraf 5, fungsi struktural adalah jaringan antara unsur bahasa pada tataran kecil dan besar, sedangkan fungsi pragmatis terkait penggunaan bahasa dalam komunikasi."
+        },
+        {
+          "pertanyaan": "(Latihan 1a) Menurut Karl Buehler dalam Organon Model, kaitan antara lambang bahasa dengan penutur, pendengar, dan hal yang diwakilinya berturut-turut disebut...",
+          "pilihan": [
+            { "option": "Representatif, Ekspresif, Apelatif", "flag": false },
+            { "option": "Ekspresif, Apelatif, Representatif", "flag": true },
+            { "option": "Fatis, Puitis, Metalingual", "flag": false },
+            { "option": "Referensial, Konatif, Emotif", "flag": false }
+          ],
+          "pembahasan": "PDF hal. 1.5 - 1.6 menjelaskan: Ekspresif (kaitan dengan penutur), Apelatif (kaitan dengan pendengar), dan Representatif (kaitan dengan hal yang diwakilinya/simbol)."
+        },
+        {
+          "pertanyaan": "(Latihan 1a) Roman Jakobson memperluas fungsi bahasa. Manakah di bawah ini yang menjelaskan fungsi metalingual?",
+          "pilihan": [
+            { "option": "Bahasa yang digunakan untuk membangkitkan emosi petutur.", "flag": false },
+            { "option": "Bahasa yang digunakan untuk membicarakan atau menjelaskan bahasa itu sendiri.", "flag": true },
+            { "option": "Bahasa yang digunakan untuk mempertahankan kontak komunikasi.", "flag": false },
+            { "option": "Bahasa yang digunakan untuk menyampaikan data faktual dalam konteks.", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 1.7, paragraf 1, fungsi metalingual adalah bahasa yang digunakan sebagai metabahasa untuk menjelaskan hal-hal terkait bahasa tersebut (seperti definisi)."
+        },
+        {
+          "pertanyaan": "(Latihan 1b) Apa makna dari pernyataan bahwa fungsi struktural bahasa terkait dengan fungsi pragmatis?",
+          "pilihan": [
+            { "option": "Struktur bahasa tidak dipengaruhi oleh latar komunikasi.", "flag": false },
+            { "option": "Fungsi pragmatis yang menentukan fungsi struktural bahasa dalam suatu komunikasi.", "flag": true },
+            { "option": "Struktur bahasa selalu mendahului tujuan komunikasi.", "flag": false },
+            { "option": "Hanya bahasa lisan yang memiliki keterkaitan antara struktur dan pragmatis.", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 1.19, 'Petunjuk Jawaban Latihan 1b', butir 1, sistem bahasa ditentukan oleh fungsi bahasa dalam masyarakat; fungsi pragmatis menentukan fungsi struktural."
+        },
+        {
+          "pertanyaan": "(Latihan 1b) Dalam 'Organon model of language', tanda bahasa dapat terlaksana karena adanya tiga unsur utama, yaitu...",
+          "pilihan": [
+            { "option": "Fonem, Morfem, dan Sintaksis", "flag": false },
+            { "option": "Konteks, Saluran, dan Kode", "flag": false },
+            { "option": "Penutur, Petutur, dan perihal tertentu (S)", "flag": true },
+            { "option": "Simile, Metafora, dan Personifikasi", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 1.19, 'Petunjuk Jawaban Latihan 1b', butir 2, tiga unsur utama adalah penutur dan petutur yang berkomunikasi tentang perihal tertentu melalui tanda bahasa."
+        },
+        {
+          "pertanyaan": "(Latihan 1b) Apa perbedaan antara fungsi fatis dan fungsi konatif menurut dampaknya pada petutur?",
+          "pilihan": [
+            { "option": "Fatis untuk memberi perintah, konatif untuk menyapa.", "flag": false },
+            { "option": "Fatis untuk mempertahankan komunikasi, konatif untuk menimbulkan reaksi atau tindakan pada petutur.", "flag": true },
+            { "option": "Fatis untuk menjelaskan definisi, konatif untuk mengungkapkan perasaan.", "flag": false },
+            { "option": "Keduanya memiliki fungsi yang sama dalam estetika karya sastra.", "flag": false }
+          ],
+          "pembahasan": "PDF hal. 1.19-1.20 menjelaskan fungsi fatis berguna untuk memulai/mempertahankan interaksi, sedangkan konatif memunculkan reaksi seperti diperintah/dilarang."
+        },
+        {
+          "pertanyaan": "(Latihan 1b) Mengapa dalam teks iklan, fungsi puitis sering dikaitkan dengan fungsi emotif?",
+          "pilihan": [
+            { "option": "Karena iklan hanya bertujuan menjelaskan spesifikasi produk secara kaku.", "flag": false },
+            { "option": "Karena keindahan bahasa (puitis) dapat membangkitkan emosi tertentu untuk melakukan sesuatu.", "flag": true },
+            { "option": "Karena iklan menggunakan metabahasa untuk mendefinisikan harga.", "flag": false },
+            { "option": "Karena fungsi puitis hanya berlaku untuk iklan di media cetak.", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 1.11, butir 4, fungsi puitis dapat membangkitkan emosi tertentu, contohnya iklan cairan pembersih 'bersih berkilau' memanfaatkan fungsi emotif."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 1) Bahasa memiliki fungsi penting dalam komunikasi, karena ....",
+          "pilihan": [
+            { "option": "melalui bahasa manusia dapat mengungkapkan perasaannya", "flag": false },
+            { "option": "melalui bahasa manusia dapat menceritakan tentang lingkungan yang ada di sekitarnya", "flag": false },
+            { "option": "melalui bahasa manusia dapat menyatakan keinginannya", "flag": false },
+            { "option": "melalui bahasa manusia dapat mengungkapkan pikiran dan perasaan, menceritakan peristiwa tertentu dan mempengaruhi petutur untuk melakukan sesuatu", "flag": true }
+          ],
+          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.29, Tes Formatif 1 No. 1."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 1) Dua jenis fungsi bahasa sebagai alat komunikasi, adalah fungsi ....",
+          "pilihan": [
+            { "option": "representatif dan fungsi emotif", "flag": false },
+            { "option": "struktural dan fungsi pragmatis", "flag": true },
+            { "option": "representatif dan fungsi komunikatif", "flag": false },
+            { "option": "apelatif dan fungsi komunikatif", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.29, Tes Formatif 1 No. 2."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 1) Organon model of language yang dicetuskan Karl Bühler merupakan model tanda bahasa yang mendasari pragmatik, karena ....",
+          "pilihan": [
+            { "option": "model organon menggambarkan penutur dan petutur yang berbicara tentang sesuatu melalui tanda bahasa", "flag": true },
+            { "option": "model organon mementingkan unsur-unsur non bahasa (luar bahasa)", "flag": false },
+            { "option": "konsep dasar model organon bertumpu pada pesan yang akan disampaikan", "flag": false },
+            { "option": "tanda bahasa menurut Karl Bühler memiliki fungsi representatif, fungsi ekspresif dan fungsi apelatif", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban A sesuai PDF hal. 1.29, Tes Formatif 1 No. 3."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 1) Jika fungsi-fungsi bahasa menurut Karl Bühler dibandingkan dengan Roman Jakobson, maka dapat disimpulkan, bahwa fungsi-fungsi berikut merupakan perluasan konsep fungsi bahasa Karl Bühler, yaitu ....",
+          "pilihan": [
+            { "option": "fungsi referensial, fungsi emotif, fungsi konatif", "flag": false },
+            { "option": "fungsi emotif, fungsi fatis, fungsi metalingual", "flag": false },
+            { "option": "fungsi emotif, fungsi fatis, fungsi puitis", "flag": false },
+            { "option": "fungsi fatis, fungsi puitis, fungsi metalingual", "flag": true }
+          ],
+          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.29, Tes Formatif 1 No. 4."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 1) Setiap pesan tidak selalu hanya memiliki satu fungsi bahasa, tetapi kemungkinan lebih dari satu fungsi, namun demikian selalu ada satu fungsi yang lebih dominan dibandingkan fungsi-fungsi yang lain. Hal ini terkait dengan ....",
+          "pilihan": [
+            { "option": "fungsi konatif", "flag": false },
+            { "option": "jenis wacana", "flag": true },
+            { "option": "fungsi apelatif", "flag": false },
+            { "option": "tujuan komunikasi", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.29, Tes Formatif 1 No. 5."
+        },
+        {
+          "pertanyaan": "(Latihan 2a) Dalam ilmu linguistik kognitif, apa fungsi utama dari 'jaringan semantis' dalam pikiran manusia?",
+          "pilihan": [
+            { "option": "Sebagai alat untuk menyusun tata bahasa yang kaku.", "flag": false },
+            { "option": "Sebagai tempat penyimpanan informasi, pengetahuan, dan pengalaman dalam bentuk konsep-konsep yang saling terhubung.", "flag": true },
+            { "option": "Hanya sebagai alat penerjemah kata demi kata dari BSu ke BSa.", "flag": false },
+            { "option": "Sebagai media komunikasi non-verbal melalui gerakan tubuh.", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 1.26, Petunjuk Jawaban Latihan 2a butir 1, informasi yang diserap indra disimpan dalam otak dalam bentuk konsep-konsep yang membentuk jaringan semantis untuk digunakan dalam komunikasi."
+        },
+        {
+          "pertanyaan": "(Latihan 2a) Mengapa teori 'skema' dianggap penting dalam proses pemahaman atau interpretasi sebuah teks?",
+          "pilihan": [
+            { "option": "Karena skema bersifat statis dan memastikan makna tidak berubah.", "flag": false },
+            { "option": "Karena skema membantu mengaitkan bahasa dengan realitas (unsur ensiklopedis) dan bersifat fleksibel mengikuti situasi.", "flag": true },
+            { "option": "Karena skema hanya berisi aturan-aturan fonologis bahasa sumber.", "flag": false },
+            { "option": "Karena skema menggantikan peran kamus dalam penerjemahan profesional.", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 1.18, Petunjuk Jawaban Latihan 2a butir 2, pemahaman mengacu pada skema yang mengaitkan bahasa dengan realitas. Skema ini fleksibel dan dapat berubah sesuai situasi komunikasi."
+        },
+        {
+          "pertanyaan": "(Latihan 2b) Perhatikan kalimat: 'Sport Illustrated can be bought for 1 dollar or 35 million dollars'. Interpretasi yang benar menggunakan bantuan skema adalah...",
+          "pilihan": [
+            { "option": "Harga majalah tersebut selalu berubah setiap minggu secara drastis.", "flag": false },
+            { "option": "1 dollar mengacu pada harga majalah, sedangkan 35 juta dollar mengacu pada pembelian perusahaan penerbitnya.", "flag": true },
+            { "option": "Penutur salah menyebutkan angka karena tidak memiliki data ensiklopedis.", "flag": false },
+            { "option": "Majalah tersebut hanya bisa dibeli di Amerika dengan mata uang dollar.", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 1.27, Latihan 2b butir 1, pemahaman ini ditunjang oleh kaitan antara harga dan benda yang dibeli dalam skema yang sesuai dengan konteks."
+        },
+        {
+          "pertanyaan": "(Latihan 2b) Bagaimana peran jaringan semantis dalam memahami kata 'bank' pada kalimat 'The fisherman went to the bank'?",
+          "pilihan": [
+            { "option": "Jaringan semantis memastikan bahwa 'bank' hanya berarti lembaga keuangan.", "flag": false },
+            { "option": "Jaringan semantis memunculkan konsep terkait (ikan, sungai, jala) untuk menentukan apakah 'bank' berarti tepi sungai atau lembaga keuangan.", "flag": true },
+            { "option": "Jaringan semantis hanya berfungsi jika kalimat tersebut ditulis dalam bahasa Indonesia.", "flag": false },
+            { "option": "Jaringan semantis tidak diperlukan jika pembaca sudah hafal arti kata 'bank'.", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 1.27, Latihan 2b butir 2, kata 'bank' bersifat polisemi. Konteks komunikasi dan jaringan semantis (seperti konsep fisherman/ikan) menentukan makna yang tepat."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2) Fungsi kognitif bahasa berarti ....",
+          "pilihan": [
+            { "option": "bahasa sebagai alat berpikir dan bernalar manusia", "flag": false },
+            { "option": "bahasa digunakan untuk mengungkapkan pikiran dan perasaan manusia", "flag": false },
+            { "option": "bahasa sebagai alat berpikir dan bernalar manusia serta untuk mengungkapkan pikiran dan perasaan manusia", "flag": true },
+            { "option": "bahasa berbentuk jaringan semantis dalam benak manusia", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.29, Kunci Jawaban Tes Formatif 2 No. 1."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2) Kemampuan semantis manusia memungkinkan manusia ....",
+          "pilihan": [
+            { "option": "memahami makna kata dan makna kalimat", "flag": false },
+            { "option": "menyimpan pengetahuan dan pengalaman yang dimiliki dalam bentuk jaringan semantis", "flag": false },
+            { "option": "memahami kata, kalimat dan teks yang kompleks", "flag": true },
+            { "option": "menginterpretasikan berbagai skema", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.29, Kunci Jawaban Tes Formatif 2 No. 2."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2) Skema merupakan acuan untuk memahami berbagai situasi komunikasi karena ....",
+          "pilihan": [
+            { "option": "skema merupakan penggambaran struktur pengetahuan seseorang berdasarkan pengalaman yang dimiliki dalam berinteraksi dengan lingkungannya", "flag": false },
+            { "option": "skema mewakili berbagai situasi komunikasi yang dihadapi seseorang", "flag": false },
+            { "option": "skema mengandung unsur-unsur bahasa dan luar bahasa yang diperlukan dalam komunikasi", "flag": false },
+            { "option": "skema bersifat fleksibel dan mencakup berbagai situasi komunikasi", "flag": true }
+          ],
+          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 3."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2) Tidak semua unsur makna dalam wacana diungkapkan secara harfiah, namun kita dapat memahami wacana tersebut, karena ....",
+          "pilihan": [
+            { "option": "kata, kalimat dan paragraf membawa amanat lengkap dalam wacana", "flag": false },
+            { "option": "pengetahuan ensiklopedis yang dimiliki seseorang membantu pemahaman makna dalam wacana", "flag": true },
+            { "option": "makna antarparagraf dalam wacana memiliki keutuhan makna (cohesion)", "flag": false },
+            { "option": "jaringan semantis membentuk pemahaman wacana", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 4."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 2) Susunan istilah-istilah berikut sesuai dengan urutan dalam proses pemahaman ....",
+          "pilihan": [
+            { "option": "skemata, konsep-konsep semantis, jaringan semantis", "flag": false },
+            { "option": "skemata, jaringan semantis, konsep-konsep semantis", "flag": false },
+            { "option": "konsep-konsep semantis, skemata, jaringan semantis", "flag": false },
+            { "option": "konsep-konsep semantis, jaringan semantis, skemata", "flag": true }
+          ],
+          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 2 No. 5."
+        },
+        {
+          "pertanyaan": "(Latihan 3a) Berdasarkan definisi Harimurti Kridalaksana dan Rogers/Steinfatt, apa hal yang paling utama dalam sebuah proses komunikasi?",
+          "pilihan": [
+            { "option": "Kekuatan suara penutur saat berbicara.", "flag": false },
+            { "option": "Penyampaian informasi dan pencapaian saling pemahaman (mutual understanding) antara penutur dan petutur.", "flag": true },
+            { "option": "Penggunaan bahasa tertulis yang formal dan kaku.", "flag": false },
+            { "option": "Hanya penggunaan tanda-tanda non-verbal seperti gerakan tubuh.", "flag": false }
+          ],
+          "pembahasan": "Berdasarkan PDF hal. 1.34, Petunjuk Jawaban Latihan 3a butir 1, komunikasi adalah penggunaan bahasa untuk menyampaikan informasi dengan tujuan saling memahami pesan."
+        },
+        {
+          "pertanyaan": "(Latihan 3b) Apa peran fungsi struktural bahasa dalam mendukung pengungkapan pikiran manusia melalui komunikasi verbal?",
+          "pilihan": [
+            { "option": "Membatasi pikiran manusia agar hanya membicarakan hal-hal ensiklopedis.", "flag": false },
+            { "option": "Menyediakan kaidah-kaidah (kata, ungkapan, kalimat) yang memungkinkan pikiran diwujudkan dalam bahasa yang berlaku.", "flag": true },
+            { "option": "Menghilangkan kebutuhan akan fungsi kognitif dalam otak.", "flag": false },
+            { "option": "Hanya berfungsi dalam komunikasi antarbudaya yang berbeda.", "flag": false }
+          ],
+          "pembahasan": "Menurut PDF hal. 1.35, Petunjuk Jawaban Latihan 3b butir 1, pengungkapan pikiran dimungkinkan jika menggunakan tanda bahasa yang dibentuk menurut kaidah bahasa yang berlaku (fungsi struktural)."
+        },
+        {
+          "pertanyaan": "(Latihan 3b) Dilihat dari fungsi bahasa, unsur apa yang paling sering menyebabkan kesalahpahaman dalam komunikasi antarbudaya menurut model Burkart?",
+          "pilihan": [
+            { "option": "Ketidaksamaan media (lisan vs tulis).", "flag": false },
+            { "option": "Perbedaan konsep makna tanda bahasa yang dipengaruhi oleh unsur ensiklopedis dan latar belakang budaya.", "flag": true },
+            { "option": "Penggunaan tata bahasa yang terlalu benar.", "flag": false },
+            { "option": "Ketiadaan saluran komunikasi yang memadai.", "flag": false }
+          ],
+          "pembahasan": "Sesuai PDF hal. 1.35, Petunjuk Jawaban Latihan 3b butir 2, perbedaan budaya menyebabkan pengetahuan dan pengalaman tidak sama, sehingga skema dalam komunikasi berbeda."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 3) Tujuan komunikasi adalah ….",
+          "pilihan": [
+            { "option": "menyampaikan informasi melalui bahasa", "flag": false },
+            { "option": "pertukaran informasi antara pembicara/penulis/penutur dengan pendengar/pembaca/petutur", "flag": false },
+            { "option": "penyampaian pesan dan pemahaman antara pembicara/penulis/ penutur dengan pendengar/pembaca/petutur", "flag": true },
+            { "option": "pemahaman informasi yang disampaikan", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban C sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 1."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 3) Komunikasi dapat berlangsung secara verbal maupun non verbal. Komunikasi non verbal dapat diteliti melalui pendekatan ….",
+          "pilihan": [
+            { "option": "semantik", "flag": false },
+            { "option": "pragmatik", "flag": false },
+            { "option": "semantik dan pragmatik", "flag": false },
+            { "option": "semiotika", "flag": true }
+          ],
+          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 2."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 3) kesenjangan makna antara orang-orang yang berkomunikasi dapat terjadi karena …. ",
+          "pilihan": [
+            { "option": "orang-orang yang berkomunikasi memiliki latar belakang budaya yang berbeda", "flag": false },
+            { "option": "konsep-konsep semantis yang dinyatakan melalui tanda bahasa dan digunakan dalam komunikasi berbeda makna", "flag": true },
+            { "option": "perbedaan interpretasi makna karena perbedaan pengalaman, pengetahuan dan lingkup kehidupan orang-orang yang terlibat dalam komunikasi", "flag": false },
+            { "option": "perbedaan bahasa ibu orang-orang yang terlibat dalam komunikasi", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban B sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 3."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 3) Fungsi komunikatif bahasa terkait erat dengan fungsi kognitif bahasa, karena ….",
+          "pilihan": [
+            { "option": "komunikasi verbal berlangsung melalui tanda bahasa yang merupakan perwujudan konsep-konsep semantis yang digunakan untuk memproduksi, memahami dan menginterpretasi makna dalam komunikasi dan disimpan dalam otak manusia", "flag": true },
+            { "option": "dalam komunikasi penalaran sangat penting, penalaran melibatkan fungsi kognitif bahasa", "flag": false },
+            { "option": "komunikasi bertujuan untuk menyampaikan informasi, dalam komunikasi verbal informasi disampaikan melalui tanda bahasa yang dibentuk dalam otak manusia", "flag": false },
+            { "option": "kesenjangan makna dalam komunikasi disebabkan karena perbedaan cara pandang dan cara berpikir orang-orang yang terlibat dalam komunikasi", "flag": false }
+          ],
+          "pembahasan": "Kunci jawaban A sesuai PDF hal. 1.30, Kunci Jawaban Tes Formatif 3 No. 4."
+        },
+        {
+          "pertanyaan": "(Tes Formatif 3) Dalam penerjemahan pengalihan makna yang optimal harus memperhatikan ....",
+          "pilihan": [
+            { "option": "asosiatif dan makna afektif/emotif", "flag": false },
+            { "option": "asosiatif", "flag": false },
+            { "option": "afektif/emotif", "flag": false },
+            { "option": "asosiatif, makna emotif dan nilai rasa (konotasi)", "flag": true }
+          ],
+          "pembahasan": "Kunci jawaban D sesuai PDF hal. 1.31, Kunci Jawaban Tes Formatif 3 No. 5."
+        }
+      ]
+    }
+  ]
+}
