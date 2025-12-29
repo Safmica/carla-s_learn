@@ -1378,6 +1378,496 @@
                     "pembahasan": "Dikutip dari PDF hal. 2.90, butir (3), kesalahan terjadi karena mengabaikan hukum DM, seharusnya 'layar radar'."
                 }
             ]
+        },
+        {
+            "id": "modul_3",
+            "title": "Prinsip Dasar Penerjemahan",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.1) Dalam tabel analisis idiom, ungkapan 'He always robs Peter to pay Paul' sering kali salah diterjemahkan secara harfiah. Manakah padanan idiomatis yang benar dalam bahasa Indonesia?",
+                    "pilihan": [
+                        {
+                            "option": "Dia selalu merampok Peter untuk membayar Paul.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dia selalu gali lubang tutup lubang.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Dia mengambil hak orang lain secara paksa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dia mencuri untuk membantu teman.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 3.22, tabel Latihan 1 nomor 5, padanan yang benar untuk idiom tersebut adalah 'Dia selalu gali lubang tutup lubang' karena menerjemahkan idiom harus mencari ungkapan yang sepadan secara makna, bukan harfiah."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Ungkapan 'I am in a pink' jika diterjemahkan menjadi 'Saya memakai warna merah muda' adalah salah. Apa makna sepadan yang seharusnya?",
+                    "pilihan": [
+                        {
+                            "option": "Saya sedang jatuh cinta.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Saya sedang merasa malu.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Saya sehat-sehat saja.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Saya menyukai bunga mawar.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 3.22, tabel Latihan 1 nomor 3, ungkapan 'in a pink' merujuk pada kondisi kesehatan, sehingga padanan yang benar adalah 'Saya sehat-sehat saja'."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Dalam analisis 'backtranslation' kata 'sarung' menggunakan Google Translate, kata 'sheath' dan 'scabbard' secara spesifik merujuk pada...",
+                    "pilihan": [
+                        {
+                            "option": "Sarung untuk pakaian shalat.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sarung pelindung atau sarung pedang.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Sarung bantal atau sprei.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bungkus kado atau kemasan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 3.22, Latihan 2 butir 1, hasil backtranslation menunjukkan bahwa 'sheath' dan 'scabbard' merujuk pada sarung pelindung/pedang, bukan sarung pakaian (sarong)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Perhatikan perbandingan terjemahan 'The Old Man and the Sea'. Mengapa terjemahan Sapardi (Terjemahan-1) dianggap lebih baik daripada Google Translate (Terjemahan-2) pada kalimat 'If I were him...'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena Sapardi menggunakan tata bahasa Inggris yang asli.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena Sapardi menyelaraskan struktur aktif Inggris menjadi pasif Indonesia yang lebih wajar, sementara Google Translate menerjemahkan kata demi kata yang janggal.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena Google Translate menambahkan terlalu banyak informasi baru.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena Terjemahan-1 menghilangkan bagian yang dianggap sulit.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 3.23, butir 2, Terjemahan-1 menyelaraskan struktur BSu dengan BSa sehingga terasa lebih hidup dan dinamis, berbeda dengan Terjemahan-2 yang kaku."
+                },
+                {
+                    "pertanyaan": "(Latihan 3) Dalam novel 'Nemesis', preposisi 'of' dalam frasa 'the sin of curiosity' diterjemahkan ke dalam bahasa Indonesia sebagai...",
+                    "pilihan": [
+                        {
+                            "option": "Kata 'dari'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata 'milik'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyakit 'ingin tahu' (tidak diterjemahkan secara eksplisit sebagai kata depan).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kata 'tentang'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 3.24, tabel Latihan 3 nomor 2, frasa tersebut menjadi 'penyakit ingin tahu', di mana 'of' tidak diterjemahkan secara harfiah melainkan menyatu dalam konsep makna BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 4a) Berdasarkan penjodohan Genre dan Text Type, manakah pasangan yang benar?",
+                    "pilihan": [
+                        {
+                            "option": "Recipe :: Description",
+                            "flag": false
+                        },
+                        {
+                            "option": "Advertisement :: Procedure",
+                            "flag": false
+                        },
+                        {
+                            "option": "Recipe :: Procedure",
+                            "flag": true
+                        },
+                        {
+                            "option": "Police Report :: Anecdote",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 3.26, Latihan 4 bagian Genre, 'Recipe' (resep) memiliki tipe teks 'Procedure' (prosedur)."
+                },
+                {
+                    "pertanyaan": "(Latihan 4b) Pertanyaan 'What is the channel: written or spoken?' digunakan untuk menganalisis aspek register yaitu...",
+                    "pilihan": [
+                        {
+                            "option": "Field",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tenor",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mode",
+                            "flag": true
+                        },
+                        {
+                            "option": "Genre",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 3.26, Latihan 4 bagian Mode, pertanyaan nomor 6 mengenai saluran (lisan/tulis) adalah indikator untuk menentukan 'Mode'."
+                },
+                {
+                    "pertanyaan": "(Latihan 5) Dalam evaluasi dialog majalah Femina, ungkapan 'Dad: Ah, we just made it!' diterjemahkan menjadi 'Kita tepat sekali!'. Mengapa terjemahan ini dinilai baik?",
+                    "pilihan": [
+                        {
+                            "option": "Karena menggunakan kata yang persis sama dengan kamus.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena berhasil mengalihkan makna kontekstual 'berhasil tiba tepat waktu' secara wajar.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kalimatnya lebih panjang dari teks sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena tidak mengubah tanda seru di akhir kalimat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 3.21, Latihan 5, terjemahan tersebut menangkap pesan kontekstual situasi (tiba di lapangan golf) dengan bahasa Indonesia yang natural."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) Apa hakikat penerjemahan jika dilihat dari perspektif teori kesepadanan (equivalence)?",
+                    "pilihan": [
+                        {
+                            "option": "Proses menyamakan setiap kata (one-to-one correspondence).",
+                            "flag": false
+                        },
+                        {
+                            "option": "Proses mencari padanan makna BSu dalam BSa yang diungkapkan secara wajar sesuai kaidah BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Proses mengubah seluruh isi teks sumber sesuai selera penerjemah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Proses mempertahankan struktur bahasa sumber meskipun terdengar asing di bahasa sasaran.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 3.27, Rangkuman paragraf 1, kesepadanan menekankan agar padanan diungkapkan secara wajar dengan memperhatikan kaidah bahasa terjemahan."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) Mengapa ahli seperti Van Der Broek dan Mehrach menganggap teori kesepadanan adalah 'sesuatu yang sia-sia'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah tidak dibayar dengan cukup.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena masing-masing bahasa demikian unik dan tidak ada dua bahasa yang memiliki struktur linguistik serta budaya yang identik.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena komputer sudah bisa melakukan penerjemahan dengan sempurna.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena pembaca tidak peduli dengan kualitas terjemahan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 3.27, Rangkuman paragraf 1, kelompok yang kontra berpendapat kesepadanan mustahil karena keunikan tiap bahasa."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Apa kontribusi utama teori pragmatik yang membahas genre, field, tenor, dan mode terhadap proses penerjemahan?",
+                    "pilihan": [
+                        {
+                            "option": "Membantu penerjemah menghitung jumlah halaman buku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menentukan tujuan penulisan bagi penulis dan tujuan penerjemah dalam mengalihkan pesan sesuai konteks penggunaan bahasa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Memastikan penerjemah tidak melakukan kesalahan ketik.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menggantikan peran kamus dwibahasa.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 3.29, butir 3, aspek-aspek register ini sangat signifikan menentukan tujuan pengalihan pesan ke dalam bahasa sasaran."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.4) Mengapa dalam praktik penerjemahan diperlukan konsep 'derajat kesepadanan' atau 'derajat keterjemahan'?",
+                    "pilihan": [
+                        {
+                            "option": "Untuk menentukan harga jual buku terjemahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk membantu penerjemah menilai sendiri hasil kerjanya dan memberikan umpan balik (feedback) terhadap mutu terjemahan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya untuk memenuhi syarat administrasi di universitas.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk memastikan semua teks diterjemahkan secara harfiah.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 3.29, butir 4, derajat kesepadanan membantu penilaian mutu dan proses perbaikan selama penerjemahan berlangsung."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.1) Berdasarkan prinsip dasar penerjemahan, manakah padanan yang paling tepat untuk kalimat 'Am I lost?' dalam konteks puitis?",
+                    "pilihan": [
+                        {
+                            "option": "Apakah saya tersesat?",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kalahkah aku?",
+                            "flag": true
+                        },
+                        {
+                            "option": "Saya sudah hilang?",
+                            "flag": false
+                        },
+                        {
+                            "option": "Di mana saya?",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 3.39 (Latihan 1), padanan 'Kalahkah aku?' dianggap paling cocok dalam konteks tertentu untuk memenuhi prinsip estetika dan akurasi pesan puitis (Rujukan Petunjuk Jawaban hal. 3.42)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Perhatikan terjemahan 'Once bitten, twice shy' menjadi 'Setelah digigit, dua kali malu'. Mengapa terjemahan ini dianggap kurang tepat menurut prinsip penerjemahan idiom?",
+                    "pilihan": [
+                        {
+                            "option": "Karena urutan katanya terbalik.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena diterjemahkan secara harfiah sehingga pesan idiomatisnya tidak sampai dengan benar.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kata 'malu' seharusnya diganti dengan 'takut'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena menggunakan bahasa yang terlalu formal.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 3.43 (Petunjuk Jawaban Latihan 1), bahasa Inggris adalah bahasa idiomatis yang memerlukan padanan yang juga idiomatis, bukan terjemahan harfiah kata per kata."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Manakah padanan yang benar untuk kalimat 'I like James' picture' menurut prinsip kewajaran bahasa Indonesia?",
+                    "pilihan": [
+                        {
+                            "option": "Saya suka gambar James.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Saya suka lukisan yang dibuat James.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Gambar James saya sukai.",
+                            "flag": false
+                        },
+                        {
+                            "option": "James punya gambar saya suka.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 3.43, penambahan klausa 'yang dibuat' memperjelas makna kepemilikan atau karya dalam bahasa Indonesia agar lebih wajar."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Dalam menerjemahkan paragraf pemberian nama 'K'tut', kalimat 'We shall call you K'tut' diterjemahkan menjadi 'Kau kami namakan K'tut'. Penyesuaian apa yang dilakukan di sini?",
+                    "pilihan": [
+                        {
+                            "option": "Penyesuaian dari kalimat aktif Inggris menjadi pasif bahasa Indonesia.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penyesuaian dari kalimat intransitif menjadi transitif.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyesuaian ejaan nama diri.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penghilangan kata ganti orang pertama.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 3.43, struktur aktif Inggris 'We shall call' dialihkan menjadi pasif 'Kau kami namakan' karena lebih wajar dan sesuai dengan karakteristik bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Perhatikan kalimat 'It was decided that the Raja... should accept'. Terjemahan yang paling wajar adalah 'Raja memutuskan untuk menerima'. Prinsip penyesuaian yang digunakan adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Mengubah kalimat pasif Inggris menjadi aktif bahasa Indonesia.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mempertahankan bentuk pasif agar terdengar lebih resmi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghapus subjek untuk penghematan kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menambahkan kata keterangan waktu di awal kalimat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 3.44, struktur pasif 'It was decided' diubah menjadi aktif 'Raja memutuskan' untuk menonjolkan peran pelaku sesuai kelaziman bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Pada kalimat 'I found myself in a beautiful, medieval village', frasa 'I found myself' diterjemahkan menjadi 'saat itu aku berada'. Ini adalah contoh penyesuaian...",
+                    "pilihan": [
+                        {
+                            "option": "Aktif ke Pasif",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transitif menjadi Intransitif",
+                            "flag": true
+                        },
+                        {
+                            "option": "Leksikal menjadi Gramatikal",
+                            "flag": false
+                        },
+                        {
+                            "option": "Puitis menjadi Prosa",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 3.45, kata kerja transitif 'found' yang memerlukan objek diubah menjadi kata kerja intransitif 'berada' di TSa karena tuntutan kewajaran bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Kata 're-collect' dalam konteks ingatan sering salah diterjemahkan. Berdasarkan prinsip keakuratan, padanan yang tepat adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Mengumpulkan kembali.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mendapatkan kembali ingatan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menyusun ulang dokumen.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Membawa pulang barang.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan analisis kamus di PDF hal. 5.10 (yang dirujuk kembali di Modul 3), 'recollect' berarti 'to remember', sehingga padanan yang akurat adalah mendapatkan kembali ingatan, bukan sekadar mengumpulkan benda fisik."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2) Manakah di antara prinsip-prinsip berikut yang dikemukakan oleh Theodore Savory (1968) dalam bukunya 'The Art of Translation'?",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemah harus selalu menggunakan kamus elektronik.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah hendaknya dapat menghasilkan karya terjemahan yang dapat merefleksikan gaya naskah pengarang aslinya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemah dilarang mengubah kalimat aktif menjadi pasif.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah harus mengabaikan unsur budaya pembaca sasaran.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 3.50 (Kunci Jawaban Tes Formatif 2), salah satu prinsip Savory adalah bahwa terjemahan harus mampu merefleksikan gaya asli pengarang."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2) Selain merefleksikan gaya pengarang, prinsip lain yang ditawarkan oleh Theodore Savory adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemah harus memiliki gaya penerjemahan yang mandiri.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemah harus bekerja tanpa melibatkan pihak kedua.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah harus menerjemahkan kata demi kata tanpa kecuali.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemah harus menghindari penggunaan catatan kaki.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 3.50, butir 5, Savory berpendapat bahwa penerjemah juga hendaknya memiliki gaya penerjemahan yang mandiri."
+                },
+                {
+                    "pertanyaan": "(Petunjuk Belajar) Apa kriteria utama hasil terjemahan yang baik menurut prinsip yang dikutip dari Larson (1984)?",
+                    "pilihan": [
+                        {
+                            "option": "Singkat, Padat, dan Murah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Akurat, Jelas, dan Wajar.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Harfiah, Formal, dan Kaku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sastrawi, Puitis, dan Bebas.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 3.29, Larson (1984) menyatakan hasil terjemahan hendaknya akurat (pesan benar), jelas (mudah dipahami), dan wajar (tidak kaku)."
+                }
+            ]
         }
     ]
 }
