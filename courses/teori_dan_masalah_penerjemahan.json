@@ -5874,6 +5874,672 @@
                     "pembahasan": "Menurut PDF hal. 7.48-7.49, Kunci Jawaban Tes Formatif 3 nomor 2, penetapan sasaran (audience design) diperlukan untuk mempelajari siapa pengguna terjemahan tersebut. Sesuai pendapat Ian Mason (2000), ini membantu penerjemah menyesuaikan teks agar berterima dan logis bagi pembaca tertentu, sehingga tujuan komunikasi dapat tercapai tanpa kesalahpahaman."
                 }
             ]
+        },
+        {
+            "id": "modul_8",
+            "title": "Penyuntingan Teks Terjemahan dan Evaluasi",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.1) Perhatikan kalimat berikut: 'Sebagaimana dikonsepkan oleh Yusmar Yusuf Ilhami (1991: 43) bahwa proses sosialisasi individual suatu kebudayaan tidaklah terjadi secara abstrak...'. Perbaikan manakah yang paling tepat?",
+                    "pilihan": [
+                        {
+                            "option": "Menghilangkan nama tahun agar kalimat menjadi lebih singkat.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghilangkan kata 'bahwa' dan menambahkan tanda koma (,) setelah nama dan tahun.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mengganti kata 'abstrak' dengan kata 'tidak nyata'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengubah seluruh kalimat menjadi kalimat tanya.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.47, kata 'bahwa' setelah frase preposisi 'Sebagaimana dikonsepkan...' menyebabkan kalimat menjadi tidak efektif/rancu secara struktural. Penggunaan tanda koma diperlukan sebagai pemisah anak kalimat di awal."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Kalimat 'Manusia adalah makhluk potensial paling unggul dan mulia dalam ciptaan-Nya' dianggap kurang tepat. Bagaimana penyuntingan yang benar?",
+                    "pilihan": [
+                        {
+                            "option": "Manusia adalah makhluk yang potensial paling unggul dan mulia di antara ciptaan-Nya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Manusia adalah makhluk paling unggul dari semua ciptaan-Nya.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ciptaan-Nya yang paling mulia adalah manusia yang potensial.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Manusia adalah ciptaan paling unggul di dunia ini.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.47, penambahan kata 'yang' diperlukan sebagai konjungsi atributif untuk 'potensial', dan preposisi 'di antara' lebih tepat digunakan untuk membandingkan satu subjek dalam kelompok besar ciptaan-Nya."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Kalimat 'Pemegang dominasi peran akan memengaruhi narapidana lain terhadap proses pemasyarakatan yang sedang dibangun' memiliki kesalahan pilihan kata. Perbaikannya adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Mengganti 'dominasi' menjadi 'kekuasaan'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengganti 'terhadap' menjadi 'dalam' dan 'sedang dibangun' menjadi 'berlangsung'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghapus kata 'narapidana' agar lebih sopan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengubah kata 'memengaruhi' menjadi 'mempengaruhi'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.47, kata 'terhadap' kurang tepat untuk menunjukkan keterlibatan dalam suatu proses. Kata 'berlangsung' lebih sesuai konteks proses dinamis pemasyarakatan dibandingkan kata 'sedang dibangun'."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.4) Dalam kalimat 'Oleh karena itu, sering kali eks narapidana dapat terlihat lebih baik dari kondisi sebelumnya...', bagian mana yang perlu disunting?",
+                    "pilihan": [
+                        {
+                            "option": "Kata 'eks' seharusnya diganti menjadi 'mantan'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata 'dari' diganti menjadi 'daripada' dan 'sebelumnya' menjadi 'terdahulu'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghilangkan frasa 'Oleh karena itu'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata 'sering kali' diganti menjadi 'kerap'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.47, kata 'daripada' adalah konjungsi yang benar untuk menunjukkan perbandingan (komparasi). Kata 'terdahulu' lebih tepat secara laras bahasa untuk merujuk pada kondisi di masa lalu."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.5) Penyuntingan terhadap kalimat 'Apabila air sungai itu tidak mengalir lagi, maka terhentilah kehidupan di sekelilingnya' berfokus pada...",
+                    "pilihan": [
+                        {
+                            "option": "Penggunaan ejaan kata 'mengalir'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghilangkan kata 'maka' karena fungsi 'Apabila' sudah menunjukkan hubungan sebab-akibat.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menambahkan tanda seru di akhir kalimat.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengganti kata 'kehidupan' menjadi 'ekosistem'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.47, penggunaan 'Apabila... maka...' adalah bentuk redundansi logika (lewah). Kata 'maka' harus dihilangkan agar kalimat menjadi efektif."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.6) Bagaimanakah penulisan yang benar untuk frase 'mempertanggung jawabkan'?",
+                    "pilihan": [
+                        {
+                            "option": "Mempertanggung jawab kan (tiga kata terpisah)",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mempertanggungjawabkan (satu kata serangkai)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mempertanggung-jawabkan (menggunakan tanda hubung)",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memper tanggungjawabkan (memisah imbuhan memper-)",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.47, kata dasar yang mendapat awalan dan akhiran sekaligus harus ditulis serangkai (mempertanggungjawabkan) sesuai kaidah EYD."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.8) Kalimat 'Pendidikan pesantren baik tempat, bentuk hingga substansinya telah jauh mengalami perubahan' perlu disunting menjadi...",
+                    "pilihan": [
+                        {
+                            "option": "Pendidikan pesantren baik tempat, bentuk, maupun substansinya telah jauh berubah.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Tempat dan bentuk pendidikan pesantren sudah berubah banyak sekali.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pendidikan pesantren berubah dari segi tempat, bentuk dan isinya.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pesantren sudah jauh mengalami perubahan substansi dan bentuk.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.48, penggunaan korelasi 'baik... maupun...' adalah pasangan konjungsi yang benar. Kata 'jauh berubah' lebih efektif daripada 'jauh mengalami perubahan'."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.9) Perhatikan kalimat: 'Di kota besar yang intensitas mobilitas penduduknya tinggi...'. Pilihan kata manakah yang lebih tepat?",
+                    "pilihan": [
+                        {
+                            "option": "Mempertahankan kata 'intensitas' agar terdengar ilmiah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengganti menjadi 'Di kota besar yang mobilitas penduduknya tinggi...'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menambahkan kata 'sangat' sebelum 'besar'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghapus kata 'penduduknya'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.48, kata 'intensitas' berlebihan (pleonasme) jika disandingkan dengan 'mobilitas tinggi'. Cukup menggunakan kata 'mobilitas' untuk efektivitas kalimat."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) Manakah pernyataan yang paling tepat mengenai definisi 'penyuntingan' dalam konteks penerjemahan?",
+                    "pilihan": [
+                        {
+                            "option": "Proses menyalin ulang teks sumber ke dalam bahasa sasaran tanpa perubahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Proses menyelaraskan bahasa agar sesuai dengan kaidah BSa dan pembaca sasaran, termasuk koreksi dan modifikasi kesalahan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya memeriksa kesalahan cetak (proofreading) pada naskah siap terbit.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghitung jumlah kata untuk menentukan biaya jasa penerjemah.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.39, penyuntingan adalah penyelarasan bahasa agar TSa berterima bagi pembaca sasaran melalui koreksi dan modifikasi yang diperlukan."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) Apa saja tiga prinsip utama yang harus dikuasai oleh seorang penyunting profesional?",
+                    "pilihan": [
+                        {
+                            "option": "Kecepatan kerja, penguasaan aplikasi, dan hubungan klien.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kemahiran membaca TSu/TSa, penguasaan berbagai bentuk tulisan BSa (Indonesia), serta ketekunan dan kecermatan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Memiliki banyak kamus, mampu menulis puisi, dan sering bepergian.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Gelar akademis tinggi, sertifikat profesi, dan penguasaan bahasa daerah.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.39 (Kunci Jawaban nomor 2), penyunting harus memahami pesan secara akurat (membaca), menguasai struktur BSa (menulis), dan memiliki prinsip teliti (tekun)."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Mengapa seorang penyunting wajib mencocokkan hasil suntingannya kembali dengan Teks Sumber (TSu)?",
+                    "pilihan": [
+                        {
+                            "option": "Hanya untuk memastikan tidak ada paragraf yang hilang.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai alat kontrol agar suntingan tetap mempertahankan makna TSu secara utuh meskipun dilakukan modifikasi gaya bahasa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Agar penyunting dapat mengubah isi teks sumber sesuai keinginannya.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk membuktikan bahwa penerjemah asli melakukan banyak kesalahan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.39, pencocokan dengan TSu berfungsi sebagai kontrol agar hasil modifikasi tidak meleset dari makna asli teks sumber."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.4) Dalam penyuntingan, pemahaman jenis teks sangat penting. Manakah penjelasan yang benar mengenai teks 'Eksposisi'?",
+                    "pilihan": [
+                        {
+                            "option": "Bertujuan meyakinkan orang lain dengan pembuktian pendapat.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bertujuan menceritakan sesuatu berdasarkan pengamatan atau perekaan (seperti dongeng).",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bertujuan memberikan informasi, penjelasan, atau pemahaman tanpa bermaksud meyakinkan pembaca.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Bertujuan melukiskan objek pengamatan melalui panca indera.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.39-8.40, eksposisi fokus pada pemberian informasi (seperti manfaat biopori), sedangkan argumentasi untuk meyakinkan, narasi untuk bercerita, dan deskripsi untuk melukiskan objek."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.5) Mengapa seorang penyunting harus taat pada Kode Etik Penyunting meskipun kode etik tersebut tidak memiliki kekuatan hukum yang mengikat?",
+                    "pilihan": [
+                        {
+                            "option": "Agar tidak dikenai sanksi penjara oleh negara.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai alat kontrol tanggung jawab profesional dan menjaga keutuhan serta integritas karya yang diolah.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Supaya penyunting bisa mendapatkan royalti yang sama dengan penulis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar penyunting diizinkan mengubah gaya bahasa sesuka hati.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 8.40, meskipun tidak ada sanksi seperti malpraktik kedokteran, kode etik merefleksikan tanggung jawab moral penyunting dalam menjaga standar kualitas naskah."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.6) Manakah tindakan penyunting yang dianggap melanggar etika profesional berdasarkan materi 'Kode Etik Penyunting'?",
+                    "pilihan": [
+                        {
+                            "option": "Mendiamkan naskah lalu menerbitkan terjemahan serupa atas namanya sendiri (tindakan kriminal).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Membiarkan gaya bahasa penerjemah jika maksudnya sudah jelas dan tidak bertele-tele.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memberikan catatan perbaikan kepada penerjemah daripada sekadar mencela.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghormati kerahasiaan informasi dalam naskah sebelum diterbitkan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.34, nomor 4, menyalahgunakan pengetahuan dari naskah untuk kepentingan pribadi/plagiarisme adalah pelanggaran berat etika penyuntingan."
+                },
+                {
+                    "pertanyaan": "(Latihan 1 - Butir 1 & 3) Dalam penyuntingan judul 'Cerita-cerita Tentang Penciptaan' dan kalimat 'Bagaimana dunia dimulai?', perbaikan yang paling tepat menurut standar kualitas adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Mengganti judul menjadi 'Kisah Penciptaan' dan 'dimulai' menjadi 'berawal'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Mempertahankan kata 'Cerita-cerita' agar lebih santai.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengganti 'dimulai' menjadi 'diciptakan' karena konteks agama.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menghilangkan kata 'Tentang' agar judul lebih singkat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.32, kata 'Kisah' lebih tepat daripada 'Cerita-cerita' untuk konteks penciptaan. Selain itu, penggunaan kata 'berawal' menghindarkan penyimpangan makna dari kata 'dimulai' (Petunjuk Jawaban Teks 1)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1 - Butir 4 & 6) Mengapa padanan 'tanaman' dalam kalimat 'Dari mana tanaman...' disunting menjadi 'tumbuhan' dan 'seorang dewa' menjadi 'pencipta tunggal'?",
+                    "pilihan": [
+                        {
+                            "option": "Hanya untuk variasi diksi agar tidak bosan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk menghindari penyimpangan makna (tanaman identik dengan budidaya) dan menyesuaikan ketepatan teologis (pencipta tunggal).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena bahasa Indonesia tidak mengenal kata 'dewa'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena kata 'tumbuhan' lebih mudah dieja oleh pembaca remaja.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.32, 'tumbuhan' lebih luas dan akurat secara ilmiah daripada 'tanaman'. Perubahan 'seorang dewa' menjadi 'pencipta tunggal' dilakukan karena adanya penyimpangan makna asli dalam TSu."
+                },
+                {
+                    "pertanyaan": "(Latihan 1 - Butir 11 & 12) Apa amatan penyunting terhadap kalimat 'Cerita-cerita itu berbeda satu dengan lain...'?",
+                    "pilihan": [
+                        {
+                            "option": "Kalimat sudah sempurna dan tidak perlu revisi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Terdapat masalah 'translationese' (terasa seperti terjemahan kaku), sehingga perlu disunting menjadi 'Walaupun sangat berbeda, semua kisah itu...'.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kalimat terlalu panjang sehingga harus dipotong menjadi dua.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kesalahan fatal pada penggunaan tanda baca titik koma.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.33, amatan penyunting menunjukkan adanya unsur 'translationese' yang membuat alur kalimat tidak alami dalam bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Latihan 2 - Butir 1) Dalam Teks 2 mengenai sejarah geologi, mengapa judul 'Serangkaian Malapetaka' disunting menjadi 'Rangkaian Bencana'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena kata 'Malapetaka' terlalu puitis untuk teks ilmiah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk efektivitas diksi yang lebih netral dan akurat dalam konteks geologi/sains.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena 'Bencana' memiliki jumlah huruf yang lebih sedikit.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena judul asli TSu menggunakan kata 'Disaster'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.35, penyuntingan dilakukan untuk menyesuaikan laras bahasa teks ilmiah (geologi) agar lebih tepat dibandingkan penggunaan kata 'malapetaka'."
+                },
+                {
+                    "pertanyaan": "(Latihan 2 - Butir 2 & 3) Perhatikan perbaikan pada teks Georges Cuvier. Mengapa 'percaya' diganti menjadi 'meyakini' dan 'bebuyutan' menjadi 'seumur hidup'?",
+                    "pilihan": [
+                        {
+                            "option": "Agar teks terdengar lebih dramatis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk meningkatkan ketajaman makna dan menghindari konotasi negatif yang kurang tepat dalam teks biografi formal.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kata 'percaya' hanya boleh digunakan dalam teks agama.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya untuk memperpendek jumlah kata dalam paragraf.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.37, pilihan kata 'meyakini' lebih kuat untuk konteks pendapat ilmiah, dan 'seumur hidup' lebih tepat untuk menggambarkan permusuhan profesional daripada 'bebuyutan'."
+                },
+                {
+                    "pertanyaan": "(Latihan 3) Dalam penyuntingan teks 'Jacob Hays', istilah 'High Constable' yang awalnya diterjemahkan secara harfiah sebaiknya disunting menjadi...",
+                    "pilihan": [
+                        {
+                            "option": "Polisi Tinggi Kota",
+                            "flag": false
+                        },
+                        {
+                            "option": "Perwira Tinggi Polisi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penjaga Keamanan Utama",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kepala Polisi Desa",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.38, penyunting memberikan amatan bahwa 'Perwira Tinggi Polisi' adalah padanan fungsional yang lebih akurat untuk pembaca Indonesia dalam memahami jabatan tersebut."
+                },
+                {
+                    "pertanyaan": "(Latihan 3) Mengapa frasa 'mempersonifikasikan individu tersebut' disunting menjadi 'bertanggung jawab melindungi wilayah yang luas'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah asli salah mengartikan kata personify.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena personifikasi hanya boleh digunakan untuk benda mati.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar kalimat terlihat lebih canggih.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya untuk menyesuaikan dengan jumlah baris halaman.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.40, penggunaan kata 'mempersonifikasikan' dalam konteks tersebut tidak tepat secara logika bahasa sasaran, sehingga harus diubah ke deskripsi peran yang nyata."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2 - Butir 1) Dalam butir pertama instruksi keamanan, perbaikan ejaan 'Ground' (dengan tanda petik) menjadi 'ground' (huruf kecil) dilakukan karena...",
+                    "pilihan": [
+                        {
+                            "option": "Kata 'ground' adalah nama orang sehingga harus huruf kecil.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata tersebut merupakan istilah umum (common noun) dalam konteks teknik, bukan nama diri.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penyunting ingin menghemat tinta cetak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Standard ISO mengharuskan penggunaan huruf kecil.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.40, butir 1, penggunaan huruf kapital dan tanda petik pada istilah teknis umum tidak diperlukan dalam BSa Indonesia yang benar."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2 - Butir 3 & 13) Apa kesalahan penyuntingan bahasa yang ditemukan pada kata 'kedalam'?",
+                    "pilihan": [
+                        {
+                            "option": "Kesalahan ejaan kata dasar.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Salah penulisan kata depan yang seharusnya dipisah ('ke dalam').",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kata tersebut seharusnya diganti menjadi 'ke dalaman'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata tersebut terlalu informal.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.40 & 8.42, penulisan kata depan 'ke' yang menunjukkan arah/tempat harus dipisah dengan spasi dari kata yang mengikutinya."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2 - Butir 5) Instruksi 'Jangan pergunakan alat ini ditempat terbuka ('outdoor')' disunting menjadi 'Gunakan alat ini hanya di dalam ruangan'. Mengapa?",
+                    "pilihan": [
+                        {
+                            "option": "Agar kalimat instruksi menjadi lebih positif dan langsung (to the point).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kata 'jangan' dilarang dalam manual manual elektronik.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk menghilangkan istilah bahasa Inggris 'outdoor'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena alat tersebut tidak boleh terkena debu.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.40, penyuntingan butir 5 bertujuan meningkatkan efektivitas pesan dengan mengubah larangan menjadi instruksi tindakan yang jelas."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2 - Butir 10) TSa asli: 'Segera diperbaiki oleh teknisi yang ditunjuk'. Suntingan: 'Kembalikan alat ini ke tempat Anda membelinya...'. Perubahan ini didasarkan pada...",
+                    "pilihan": [
+                        {
+                            "option": "Kesalahan tata bahasa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kewajaran konteks layanan purna jual bagi konsumen.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Perintah dari pemesan terjemahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keinginan penyunting untuk mengubah kebijakan garansi.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.41, penyuntingan dilakukan agar instruksi lebih praktis dan wajar bagi pengguna alat rumah tangga di Indonesia."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2 - Butir 12) Kata 'didisain' disunting menjadi 'didesain'. Apa alasan teknis di baliknya?",
+                    "pilihan": [
+                        {
+                            "option": "Penyesuaian ejaan serapan yang baku sesuai kaidah bahasa Indonesia.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena 'didisain' adalah kata bahasa daerah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata 'didesain' terdengar lebih modern.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena TSu menggunakan kata 'designed'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.41, penyuntingan mencakup koreksi ejaan serapan agar sesuai dengan standar bahasa Indonesia yang benar (EYD/PUEBI)."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2 - Butir 14 & 15) Mengapa penulisan 'Heating Plate' dan 'Plat' perlu diubah menjadi 'pelat pemanas'?",
+                    "pilihan": [
+                        {
+                            "option": "Untuk menjaga konsistensi istilah dan menggunakan huruf kecil untuk istilah umum.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena penggunaan bahasa Inggris diharamkan dalam teks instruksi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena kata 'Plat' merujuk pada piring makan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar pembaca tidak menganggap alat tersebut sangat panas.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.41-8.42, penyuntingan memastikan konsistensi penulisan istilah 'pelat' (baku) dan penggunaan huruf kecil untuk komponen alat."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2 - Butir 16) Kalimat terakhir mengenai risiko luka bakar disunting total menjadi: 'Suhu air yang dihasilkan sangat panas. Maka, berhati-hatilah...'. Apa fokus utama penyuntingan ini?",
+                    "pilihan": [
+                        {
+                            "option": "Mengoreksi ejaan kata 'minuman'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Meningkatkan kejelasan (clarity) dan keterbacaan agar peringatan bahaya lebih efektif tersampaikan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghilangkan kata 'tersiram'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menambah durasi membaca instruksi.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 8.42, penyuntingan butir 16 dilakukan agar logika kalimat lebih runtut antara sebab (suhu panas) dan akibat (risiko melepuh) bagi pembaca."
+                },
+                {
+                    "pertanyaan": "(Rangkuman) Manakah di bawah ini yang merupakan checklist wajib penyuntingan bahasa sesuai modul?",
+                    "pilihan": [
+                        {
+                            "option": "Warna kertas, berat buku, dan jenis jilid.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Salah ejaan, kata tidak lengkap, salah huruf kapital, dan salah tanda baca.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Jumlah foto, profil penulis, dan daftar pustaka.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Lokasi toko, harga alat, dan tanggal kedaluwarsa.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 8.40 (Rangkuman), checklist penyuntingan bahasa meliputi ejaan, kelengkapan kata, kapitalisasi, tata bahasa, dan tanda baca."
+                },
+                {
+                    "pertanyaan": "(Alat Kerja) Manakah alat kerja yang 'wajib' dimiliki seorang penyunting untuk memastikan kualitas evaluasi?",
+                    "pilihan": [
+                        {
+                            "option": "Kamera digital dan alat rekam suara.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pedoman EYD, Kamus Besar Bahasa Indonesia (KBBI), dan Tesaurus.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Buku sejarah dunia dan peta geografi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya mesin penerjemah otomatis.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 8.21, penyunting wajib memiliki referensi standar bahasa seperti EYD, KBBI, Tesaurus, dan glosarium istilah."
+                }
+            ]
         }
     ]
 }
