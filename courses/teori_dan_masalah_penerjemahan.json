@@ -3111,207 +3111,1376 @@
                     ],
                     "pembahasan": "Kunci jawaban D sesuai PDF hal. 5.40, Tes Formatif 1 No. 10."
                 },
+                {
+                    "pertanyaan": "(Latihan 2.1) Metode penerjemahan yang mengubah karakter dalam TSu dan menyesuaikan alur cerita dengan budaya BSa adalah metode penerjemahan ....",
+                    "pilihan": [
                         {
-          "pertanyaan": "(Latihan 2.1) Metode penerjemahan yang mengubah karakter dalam TSu dan menyesuaikan alur cerita dengan budaya BSa adalah metode penerjemahan ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": true },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 1, metode adaptasi adalah yang paling jauh dari BSu karena mengubah karakter dan latar agar sesuai budaya BSa (contoh: 'The Cat and the Fox' menjadi 'Kucing dan Kancil')."
+                            "option": "adaptasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 1, metode adaptasi adalah yang paling jauh dari BSu karena mengubah karakter dan latar agar sesuai budaya BSa (contoh: 'The Cat and the Fox' menjadi 'Kucing dan Kancil')."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Salah satu ciri metode penerjemahan bebas adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "menyesuaikan dengan pembaca sasaran",
+                            "flag": false
+                        },
+                        {
+                            "option": "menggunakan ungkapan kolokial agar berterima",
+                            "flag": false
+                        },
+                        {
+                            "option": "mengutamakan bentuk daripada isi",
+                            "flag": false
+                        },
+                        {
+                            "option": "mengutamakan isi daripada bentuk",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.34, nomor 2, dalam penerjemahan bebas, isi atau pesan lebih diutamakan sehingga bentuk seringkali dikorbankan."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Metode penerjemahan yang mereproduksi pesan dalam TSa dengan ungkapan yang lebih alamiah dan akrab daripada TSu adalah metode penerjemahan ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.34, nomor 3, metode idiomatis mereproduksi pesan dengan menggunakan idiom atau ungkapan kolokial yang lazim dalam BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Metode penerjemahan yang berupaya untuk menerjemahkan makna kontekstual dalam TSu, baik aspek kebahasaan maupun aspek isinya, agar dapat diterima dan dimengerti oleh pembaca TSa adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 4, metode komunikatif fokus pada keberterimaan pesan secara kontekstual bagi pembaca sasaran."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) TSu: 'Euro currency slumped to its lowest level' | TSa: 'Mata uang Euro terjun bebas ke level terendah.' Metode yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.34, nomor 5, penggunaan ungkapan 'terjun bebas' sebagai padanan 'slumped' menunjukkan metode idiomatis."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.6) TSu: Lirik lagu 'When I need you...' | TSa: 'Jika ku merindukan dirimu...'. Metode yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": true
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.34, nomor 6, penerjemahan lirik lagu yang mengutamakan pesan namun mengubah struktur secara signifikan masuk kategori metode bebas."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.7) TSu: 'Millions of kids... wet the bed' | TSa: '...jutaan anak kecil... ngompol.' Metode yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 7, penggunaan kata 'ngompol' yang lugas untuk menjelaskan konteks 'wet the bed' menunjukkan metode komunikatif."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.8) TSu: 'Amelia Earhart... disappeared...' | TSa: '...lenyap ditelan bumi...'. Metode yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.34, nomor 8, ungkapan 'lenyap ditelan bumi' adalah bentuk idiomatis untuk menggantikan kata 'disappeared'."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.9) TSu: 'Thank you very much. Best regards,' | TSa: 'Terima kasih banyak. Hormat kami,'. Metode yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.34, nomor 9, penyesuaian salam penutup surat ke dalam budaya BSa ('Hormat kami') adalah bentuk adaptasi."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.10) TSu: 'Helping someone... with toileting in bed' | TSa: 'Membantu orang... buang hajat di tempat tidur.' Metode yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 10, penyampaian pesan fungsional yang mudah dipahami pembaca sasaran menggunakan metode komunikatif."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.1) Dalam terjemahan 'Oil Prices hike...' menjadi 'Harga Minyak... Meroket', kata 'meroket' menunjukkan penggunaan metode ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.41, nomor 1, kata 'meroket' memiliki makna konotasi dan imaji visual kolokial yang kuat, sehingga termasuk metode idiomatis."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.2) Pada teks tentang sekolah di Amerika, ungkapan 'single-sex classes' dijelaskan secara singkat guna mempermudah pembaca. Metode ini adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 2, bentuk TSa diubah agar komunikatif dan mudah dipahami oleh pembaca sasaran."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.3) Terjemahan teks Selena Gomez yang bentuknya sangat jauh berbeda dari TSu namun mempertahankan garis besar maknanya menggunakan metode ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": true
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.41, nomor 3, kebebasan dalam struktur yang membuat TSa mudah dipahami pembaca menunjukkan metode bebas."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.4) Dengan metode ini, penerjemah mampu mempertahankan makna dengan baik meskipun tidak setia pada bentuk TSu, sehingga TSa mudah dipahami. Metode yang dimaksud adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "komunikatif",
+                            "flag": true
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.41, nomor 4, metode komunikatif mengaplikasikan kosakata yang baik agar pesan tersampaikan secara efektif."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.5) TSu: 'The giant destroyed...' | TSa: 'Buto Ijo itu memporak-porandakan...'. Penggantian karakter raksasa menjadi tokoh lokal Buto Ijo adalah contoh metode ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 5, penyesuaian karakter atau tokoh dengan budaya BSa adalah ciri khas metode adaptasi."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.6) Penggunaan ungkapan 'babak belur' dalam TSa untuk menerjemahkan kondisi ekonomi yang sulit membuat kehadiran metode ini sangat kental. Metode tersebut adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.41, nomor 6, 'babak belur' merupakan ungkapan idiomatis dalam bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.7) Kalimat pertama dalam TSa pada soal nomor 7 dinilai sangat komunikatif. Jika penerjemah mengikuti bentuk TSu, makna belum tentu mudah dipahami. Metode ini adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.41, nomor 7, orientasi pada kemudahan pemahaman pembaca sasaran adalah inti metode komunikatif."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.8) TSu: Kalimat sederhana tentang diktator Haiti. Makna 'homeland' dan 'ousted' dipindahkan ke TSa dengan mudah tanpa terikat pola TSu. Metode ini adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 8, pemindahan makna pada kalimat sederhana agar mudah dipahami menggunakan metode komunikatif."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.9) Frasa 'berbadan dua' sebagai padanan untuk 'pregnant' adalah contoh penggunaan ungkapan ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": false
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 5.42, nomor 9, 'berbadan dua' adalah ungkapan idiomatis/halus dalam bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.10) TSa sangat lepas dari bentuk TSu dan penerjemah melakukan perubahan radikal serta penambahan informasi yang tidak ada dalam TSu. Ini adalah metode ....",
+                    "pilihan": [
+                        {
+                            "option": "adaptasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "bebas",
+                            "flag": true
+                        },
+                        {
+                            "option": "idiomatis",
+                            "flag": false
+                        },
+                        {
+                            "option": "komunikatif",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 5.42, nomor 10, perubahan radikal dan penambahan informasi mandiri oleh penerjemah merupakan ciri metode bebas."
+                }
+            ]
         },
         {
-          "pertanyaan": "(Latihan 2.2) Salah satu ciri metode penerjemahan bebas adalah ....",
-          "pilihan": [
-            { "option": "menyesuaikan dengan pembaca sasaran", "flag": false },
-            { "option": "menggunakan ungkapan kolokial agar berterima", "flag": false },
-            { "option": "mengutamakan bentuk daripada isi", "flag": false },
-            { "option": "mengutamakan isi daripada bentuk", "flag": true }
-          ],
-          "pembahasan": "Menurut PDF hal. 5.34, nomor 2, dalam penerjemahan bebas, isi atau pesan lebih diutamakan sehingga bentuk seringkali dikorbankan."
-        },
-        {
-          "pertanyaan": "(Latihan 2.3) Metode penerjemahan yang mereproduksi pesan dalam TSa dengan ungkapan yang lebih alamiah dan akrab daripada TSu adalah metode penerjemahan ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": true },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 5.34, nomor 3, metode idiomatis mereproduksi pesan dengan menggunakan idiom atau ungkapan kolokial yang lazim dalam BSa."
-        },
-        {
-          "pertanyaan": "(Latihan 2.4) Metode penerjemahan yang berupaya untuk menerjemahkan makna kontekstual dalam TSu, baik aspek kebahasaan maupun aspek isinya, agar dapat diterima dan dimengerti oleh pembaca TSa adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": true }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 4, metode komunikatif fokus pada keberterimaan pesan secara kontekstual bagi pembaca sasaran."
-        },
-        {
-          "pertanyaan": "(Latihan 2.5) TSu: 'Euro currency slumped to its lowest level' | TSa: 'Mata uang Euro terjun bebas ke level terendah.' Metode yang digunakan adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": true },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 5.34, nomor 5, penggunaan ungkapan 'terjun bebas' sebagai padanan 'slumped' menunjukkan metode idiomatis."
-        },
-        {
-          "pertanyaan": "(Latihan 2.6) TSu: Lirik lagu 'When I need you...' | TSa: 'Jika ku merindukan dirimu...'. Metode yang digunakan adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": true },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 5.34, nomor 6, penerjemahan lirik lagu yang mengutamakan pesan namun mengubah struktur secara signifikan masuk kategori metode bebas."
-        },
-        {
-          "pertanyaan": "(Latihan 2.7) TSu: 'Millions of kids... wet the bed' | TSa: '...jutaan anak kecil... ngompol.' Metode yang digunakan adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": true }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 7, penggunaan kata 'ngompol' yang lugas untuk menjelaskan konteks 'wet the bed' menunjukkan metode komunikatif."
-        },
-        {
-          "pertanyaan": "(Latihan 2.8) TSu: 'Amelia Earhart... disappeared...' | TSa: '...lenyap ditelan bumi...'. Metode yang digunakan adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": true },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 5.34, nomor 8, ungkapan 'lenyap ditelan bumi' adalah bentuk idiomatis untuk menggantikan kata 'disappeared'."
-        },
-        {
-          "pertanyaan": "(Latihan 2.9) TSu: 'Thank you very much. Best regards,' | TSa: 'Terima kasih banyak. Hormat kami,'. Metode yang digunakan adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": true },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 5.34, nomor 9, penyesuaian salam penutup surat ke dalam budaya BSa ('Hormat kami') adalah bentuk adaptasi."
-        },
-        {
-          "pertanyaan": "(Latihan 2.10) TSu: 'Helping someone... with toileting in bed' | TSa: 'Membantu orang... buang hajat di tempat tidur.' Metode yang digunakan adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": true }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 5.34, nomor 10, penyampaian pesan fungsional yang mudah dipahami pembaca sasaran menggunakan metode komunikatif."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.1) Dalam terjemahan 'Oil Prices hike...' menjadi 'Harga Minyak... Meroket', kata 'meroket' menunjukkan penggunaan metode ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": true },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 5.41, nomor 1, kata 'meroket' memiliki makna konotasi dan imaji visual kolokial yang kuat, sehingga termasuk metode idiomatis."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.2) Pada teks tentang sekolah di Amerika, ungkapan 'single-sex classes' dijelaskan secara singkat guna mempermudah pembaca. Metode ini adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": true }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 2, bentuk TSa diubah agar komunikatif dan mudah dipahami oleh pembaca sasaran."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.3) Terjemahan teks Selena Gomez yang bentuknya sangat jauh berbeda dari TSu namun mempertahankan garis besar maknanya menggunakan metode ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": true },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 5.41, nomor 3, kebebasan dalam struktur yang membuat TSa mudah dipahami pembaca menunjukkan metode bebas."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.4) Dengan metode ini, penerjemah mampu mempertahankan makna dengan baik meskipun tidak setia pada bentuk TSu, sehingga TSa mudah dipahami. Metode yang dimaksud adalah ....",
-          "pilihan": [
-            { "option": "komunikatif", "flag": true },
-            { "option": "idiomatis", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "adaptasi", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 5.41, nomor 4, metode komunikatif mengaplikasikan kosakata yang baik agar pesan tersampaikan secara efektif."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.5) TSu: 'The giant destroyed...' | TSa: 'Buto Ijo itu memporak-porandakan...'. Penggantian karakter raksasa menjadi tokoh lokal Buto Ijo adalah contoh metode ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": true },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 5, penyesuaian karakter atau tokoh dengan budaya BSa adalah ciri khas metode adaptasi."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.6) Penggunaan ungkapan 'babak belur' dalam TSa untuk menerjemahkan kondisi ekonomi yang sulit membuat kehadiran metode ini sangat kental. Metode tersebut adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": true },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 5.41, nomor 6, 'babak belur' merupakan ungkapan idiomatis dalam bahasa Indonesia."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.7) Kalimat pertama dalam TSa pada soal nomor 7 dinilai sangat komunikatif. Jika penerjemah mengikuti bentuk TSu, makna belum tentu mudah dipahami. Metode ini adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": true }
-          ],
-          "pembahasan": "Menurut PDF hal. 5.41, nomor 7, orientasi pada kemudahan pemahaman pembaca sasaran adalah inti metode komunikatif."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.8) TSu: Kalimat sederhana tentang diktator Haiti. Makna 'homeland' dan 'ousted' dipindahkan ke TSa dengan mudah tanpa terikat pola TSu. Metode ini adalah ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": true }
-          ],
-          "pembahasan": "Berdasarkan PDF hal. 5.41, nomor 8, pemindahan makna pada kalimat sederhana agar mudah dipahami menggunakan metode komunikatif."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.9) Frasa 'berbadan dua' sebagai padanan untuk 'pregnant' adalah contoh penggunaan ungkapan ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": false },
-            { "option": "idiomatis", "flag": true },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Sesuai PDF hal. 5.42, nomor 9, 'berbadan dua' adalah ungkapan idiomatis/halus dalam bahasa Indonesia."
-        },
-        {
-          "pertanyaan": "(Tes Formatif 2.10) TSa sangat lepas dari bentuk TSu dan penerjemah melakukan perubahan radikal serta penambahan informasi yang tidak ada dalam TSu. Ini adalah metode ....",
-          "pilihan": [
-            { "option": "adaptasi", "flag": false },
-            { "option": "bebas", "flag": true },
-            { "option": "idiomatis", "flag": false },
-            { "option": "komunikatif", "flag": false }
-          ],
-          "pembahasan": "Menurut PDF hal. 5.42, nomor 10, perubahan radikal dan penambahan informasi mandiri oleh penerjemah merupakan ciri metode bebas."
-        }
-
+            "id": "modul_6",
+            "title": "Prosedur Penerjemahan",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.1) Dalam Teks 1, istilah 'Circuit Court' tetap dipertahankan dalam TSa. Prosedur penerjemahan apa yang digunakan dan apa alasannya?",
+                    "pilihan": [
+                        {
+                            "option": "Transposisi; karena struktur kalimat harus diubah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemahan langsung (direct translation); karena merupakan nama lembaga peradilan Amerika yang tidak memiliki padanan di BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kalke; karena diterjemahkan per unsur kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Modulasi; karena ada perubahan sudut pandang makna.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 6.17, Circuit Court adalah nama lembaga pengadilan di Amerika. Karena ketiadaan padanan dalam bahasa Indonesia, nama tersebut tetap dipertahankan (Penerjemahan Langsung)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Pemadanan 'Directory of Contributors' menjadi 'Direktori Kontributor' pada Teks 2 dikategorikan sebagai prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Transferensi; karena memungut kata asing sepenuhnya.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kalke (lexical calque); karena menerjemahkan frasa dengan mengikuti pola BSu namun menggunakan unsur BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Adaptasi; karena disesuaikan dengan budaya lokal.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Deskriptif; karena memberikan penjelasan panjang.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 6.17, pola BSu yang menggunakan artikel 'of' diikuti secara struktural dalam BSa, sehingga disebut sebagai lexical calque."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Pada Teks 3, penerjemahan 'chicken feed' menjadi 'makanan ayam' dianggap sebagai kegagalan prosedur karena...",
+                    "pilihan": [
+                        {
+                            "option": "Menerjemahkan secara harfiah sehingga makna idiomatis 'upah yang sangat kecil' tidak tersampaikan.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menggunakan bahasa yang terlalu puitis.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Seharusnya menggunakan bahasa daerah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menerjemahkan nama merek dagang.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 6.18, penggunaan prosedur harfiah pada idiom seperti 'chicken feed' dan 'on cloud nine' berakibat pada TSa yang tidak dapat dipahami maknanya."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.4) Dalam Teks 4 mengenai sepak bola, kata 'tackling' dipertahankan dalam TSa. Apa tujuan dari penggunaan prosedur transferensi ini?",
+                    "pilihan": [
+                        {
+                            "option": "Untuk memudahkan penerjemah agar tidak perlu membuka kamus.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai upaya menghadirkan latar dan warna lokal dunia olahraga yang sudah kaprah dikenal masyarakat.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kata tersebut dilarang untuk diterjemahkan oleh FIFA.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk mengubah jenis teks dari berita menjadi cerita pendek.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 6.18, pemertahanan istilah olahraga (tackling) membuat TSa menjadi lebih cantik, menarik, dan sesuai dengan konteks bidangnya."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.5) Frasa 'go green' pada Teks 5 tetap dipertahankan oleh penerjemah. Mengapa prosedur transferensi/pungutan lebih dipilih daripada menerjemahkannya menjadi 'hijau royo-royo'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah malas mencari padanan kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena 'go green' sudah menjadi slogan populer global yang maknanya sudah dipahami luas oleh pembaca.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena istilah 'hijau royo-royo' dianggap terlalu modern.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena prosedur transferensi adalah satu-satunya prosedur yang legal.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 6.19, mempertahankan slogan populer lebih baik daripada memperkenalkan terjemahan baru yang belum tentu diterima maknanya oleh khalayak."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Pemertahanan frasa 'luuk thung' (konser khas Thailand) dalam TSa adalah contoh prosedur ....",
+                    "pilihan": [
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "lexical calque",
+                            "flag": false
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": true
+                        },
+                        {
+                            "option": "structural calque",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C (PDF hal. 6.44). Transferensi atau borrowing dilakukan dengan mempertahankan kata asli BSu untuk menjaga warna lokal."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Mempertahankan kata 'HAVEN' (nama lembaga) dalam TSa disebut dengan prosedur ....",
+                    "pilihan": [
+                        {
+                            "option": "calque",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "pungutan",
+                            "flag": false
+                        },
+                        {
+                            "option": "penerjemahan langsung",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D (PDF hal. 6.44). Nama lembaga atau institusi asing yang tidak memiliki padanan resmi biasanya diterjemahkan secara langsung (direct translation)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Salah satu alasan terjadinya penerjemahan harfiah adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "adanya perbedaan budaya BSu dan BSa",
+                            "flag": false
+                        },
+                        {
+                            "option": "penerjemah gagal dalam memahami makna TSu",
+                            "flag": true
+                        },
+                        {
+                            "option": "penerjemah ingin menampilkan warna lokal TSu dalam TSa",
+                            "flag": false
+                        },
+                        {
+                            "option": "Budaya BSa tidak mengenal budaya BSu",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B (PDF hal. 6.44). Penerjemahan harfiah seringkali terjadi karena keterbatasan kemampuan penerjemah dalam menganalisis makna di balik kata."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Contoh prosedur penerjemahan 'calque' adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "cell phone :: hand phone",
+                            "flag": false
+                        },
+                        {
+                            "option": "hotline service :: service hotline",
+                            "flag": true
+                        },
+                        {
+                            "option": "checklist :: ceklis",
+                            "flag": false
+                        },
+                        {
+                            "option": "driver’s license :: SIM",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B (PDF hal. 6.44). Kalke menerjemahkan elemen pembentuk frasa secara harfiah namun disesuaikan dengan struktur bahasa sasaran."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) TSu: 'It was a red letter day...' | TSa: 'Itu adalah surat merah...'. Terjemahan ini menggunakan prosedur ....",
+                    "pilihan": [
+                        {
+                            "option": "harfiah",
+                            "flag": true
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": false
+                        },
+                        {
+                            "option": "direct translation",
+                            "flag": false
+                        },
+                        {
+                            "option": "calque",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A (PDF hal. 6.44). 'Red letter day' adalah idiom yang berarti hari bahagia. Menerjemahkannya menjadi 'surat merah' adalah kesalahan prosedur harfiah."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) Pemertahanan kata 'uppercut' dalam TSa dapat dikategorikan sebagai prosedur penerjemahan ....",
+                    "pilihan": [
+                        {
+                            "option": "transferensi",
+                            "flag": true
+                        },
+                        {
+                            "option": "direct translation",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "calque",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A (PDF hal. 6.44). Kata 'uppercut' diambil utuh dari BSu ke TSa. Prosedur ini disebut transferensi untuk mempertahankan keaslian istilah teknis olahraga tersebut."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) Pemertahanan kata 'WBO' (World Boxing Organization) dalam TSa dikategorikan sebagai prosedur ....",
+                    "pilihan": [
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "langsung (direct translation)",
+                            "flag": true
+                        },
+                        {
+                            "option": "calque",
+                            "flag": false
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B (PDF hal. 6.44). Nama organisasi internasional seperti WBO diterjemahkan secara langsung karena merupakan nama diri institusi yang diakui secara global."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Prosedur yang dipergunakan dalam menerjemahkan 'Taliban militants' menjadi 'militan Taliban' adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "borrowing atau pungutan",
+                            "flag": false
+                        },
+                        {
+                            "option": "kalke (calque)",
+                            "flag": true
+                        },
+                        {
+                            "option": "langsung",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C (PDF hal. 6.44). Terjadi penerjemahan elemen (militants -> militan) dengan penyesuaian struktur urutan kata dari BSu ke BSa (Hukum DM)."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.4) TSu: 'stand down' | TSa: 'merunduk'. Prosedur yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "langsung",
+                            "flag": false
+                        },
+                        {
+                            "option": "borrowing atau pungutan",
+                            "flag": false
+                        },
+                        {
+                            "option": "calque",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D (PDF hal. 6.44). Penerjemah salah mengartikan phrasal verb 'stand down' (mundur) dan menerjemahkan kata per kata menjadi 'merunduk', sehingga maknanya melenceng."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.5) Prosedur yang digunakan dalam menerjemahkan 'keep an eye' menjadi 'menjaga matanya' adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "harfiah",
+                            "flag": true
+                        },
+                        {
+                            "option": "calque",
+                            "flag": false
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": false
+                        },
+                        {
+                            "option": "langsung",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A (PDF hal. 6.44). Idiom 'keep an eye' (mengawasi) diterjemahkan secara harfiah menjadi 'menjaga matanya', yang merupakan kesalahan pemahaman makna kontekstual."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.6) Prosedur yang digunakan dalam menerjemahkan kata 'sale' yang tetap menjadi 'sale' dalam TSa adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "langsung (direct translation)",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": true
+                        },
+                        {
+                            "option": "calque",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C (PDF hal. 6.44). Kata 'sale' dipungut secara utuh dari BSu untuk memberikan kesan kegenitan bahasa atau keletah bahasa dalam konteks belanja."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.7) TSu: 'blueprint' | TSa: 'cetak biru'. Prosedur penerjemahan yang tepat menggambarkan perubahan ini adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "calque",
+                            "flag": true
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": false
+                        },
+                        {
+                            "option": "direct translation",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B (PDF hal. 6.44). Kalke dilakukan dengan menerjemahkan elemen pembentuk kata majemuk (blue = biru, print = cetak) menjadi istilah yang lazim di BSa."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.8) TSu: 'kick back' | TSa: 'menyerang balik'. Prosedur yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "calque",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": true
+                        },
+                        {
+                            "option": "direct translation",
+                            "flag": false
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B (PDF hal. 6.44). 'Kick back' dalam konteks santai diartikan secara harfiah (kick = tendang/serang, back = balik), padahal maknanya adalah beristirahat."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.9) Prosedur yang digunakan dalam menerjemahkan 'take off' yang tetap menjadi 'take off' adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "calque",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "direct translation",
+                            "flag": false
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D (PDF hal. 6.44). Istilah penerbangan 'take off' seringkali dipertahankan bentuk aslinya dalam komunikasi formal maupun informal melalui prosedur transferensi."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.10) TSu: 'central bank' | TSa: 'Bank Sentral'. Prosedur yang digunakan adalah ....",
+                    "pilihan": [
+                        {
+                            "option": "direct translation",
+                            "flag": false
+                        },
+                        {
+                            "option": "harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "calque",
+                            "flag": true
+                        },
+                        {
+                            "option": "transferensi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C (PDF hal. 6.44). Istilah ini diterjemahkan unsur per unsur dengan penyesuaian tata urutan kata bahasa Indonesia, sehingga termasuk prosedur kalke."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Dalam kalimat mengenai model bisnis, kata 'business' diterjemahkan menjadi 'bisnis'. Prosedur apa yang digunakan?",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyulihan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Resmi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 6.39 (Kunci Jawaban Latihan 2 No. 1), prosedur ini adalah naturalisasi karena terjadi penyesuaian ejaan dan pelafalan dari bahasa asing ke dalam kaidah bahasa sasaran agar lebih akrab di telinga pembaca."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Penerjemahan frasa 'run your business' menjadi 'menjalankan bisnis Anda' menggunakan prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Resmi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 6.39 (No. 2), prosedur yang digunakan adalah modulasi. Modulasi melibatkan perubahan sudut pandang secara semantis agar ungkapan terasa wajar dalam konteks budaya BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Jika melihat perubahan struktur secara keseluruhan pada TSa di soal nomor 1-3, prosedur yang tepat untuk menggambarkannya adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Resmi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 6.39 (No. 3), transposisi (atau pergeseran/shift) adalah prosedur yang mengubah struktur gramatikal dari BSu ke BSa agar kalimat menjadi berterima."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Kata 'ways' (jamak) diterjemahkan menjadi 'cara' (tunggal) dalam TSa. Prosedur ini disebut...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 6.39 (No. 4), ini adalah transposisi berupa pergeseran intra-sistem, di mana konsep jamak dalam BSu tidak harus dimarkahi dengan pengulangan jika konteksnya sudah jelas dalam BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) Penerjemahan kata 'Creativity' menjadi 'Kreativitas' merupakan contoh prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 6.39 (No. 5), ini adalah naturalisasi karena menyerap kata asing dengan menyesuaikan ejaan menurut kaidah bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.6) Kata 'Cheetah' diterjemahkan menjadi 'citah' dalam teks ilmiah. Prosedur apa yang ditempuh?",
+                    "pilihan": [
+                        {
+                            "option": "Naturalisasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Resmi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyulihan budaya",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 6.39 (No. 6), naturalisasi digunakan untuk menyerap istilah biologi tersebut ke dalam ejaan BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.7) Penerjemahan kata ganti 'they' menjadi 'binatang' (untuk merujuk pada cheetah) dikategorikan sebagai...",
+                    "pilihan": [
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyulihan budaya",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 6.39 (No. 7), ini adalah transposisi karena terjadi perubahan kategori kata (pronomina menjadi nomina) demi kejelasan referensi dalam BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.8) Kata 'cap' (topi dengan lidah) diterjemahkan secara umum menjadi 'topi'. Prosedur ini disebut...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyulihan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata yang lebih umum",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 6.39 (No. 8), jika BSa tidak memiliki kata spesifik untuk jenis topi tertentu, maka digunakan prosedur penerjemahan dengan kata yang lebih umum (general word)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.9) Penerjemah menambahkan frasa 'otot yang terletak di bagian belakang paha' untuk menjelaskan kata 'hamstring'. Prosedur ini adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Penyulihan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Contextual conditioning",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 6.39 (No. 9), penambahan informasi penjelas untuk istilah medis yang mungkin asing bagi pembaca awam disebut contextual conditioning."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.10) Kata 'champurrado' (minuman khas Meksiko) diterjemahkan menjadi 'coklat panas'. Prosedur ini adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 6.39 (No. 10), ini adalah pemadanan budaya (cultural equivalent) dengan mengganti unsur budaya sumber dengan unsur budaya yang mirip di BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.11) Kata 'cowboys' diterjemahkan menjadi 'koboi' melalui prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 6.39 (No. 11), penyesuaian ejaan 'cowboys' menjadi 'koboi' adalah bentuk naturalisasi."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.12) Ketiadaan pemarkah jamak dalam kata 'koboi' (untuk menggantikan 'cowboys') ditempuh dengan prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 6.39 (No. 12), ini adalah transposisi (pergeseran intra-sistem) karena bahasa Indonesia sering menggunakan bentuk tunggal untuk makna jamak jika konteksnya sudah jelas."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.1) Penerjemahan kata 'commute' (berangkat kerja) menjadi 'pergi pulang' menggunakan prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D (PDF hal. 6.44). Terjadi pergeseran kelas kata atau struktur unit dari satu kata menjadi frasa agar maknanya berterima di BSa."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.2) Kata 'mile' diterjemahkan menjadi 'mil' melalui prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B (PDF hal. 6.44). Penyesuaian ejaan satuan jarak ini adalah prosedur naturalisasi agar sesuai dengan sistem BSa."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.3) Penambahan informasi 'sekitar 30 km' (untuk menjelaskan 20 miles) dalam TSa disebut prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Contextual conditioning",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C (PDF hal. 6.44). Mengonversi satuan ukur asing (mile) ke satuan yang lazim di budaya pembaca sasaran (km) adalah bentuk pemadanan budaya."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.4) Dalam kalimat 'residents commute by cars', ketiadaan pemarkah jamak pada kata 'mobil' (untuk 'cars') adalah prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D (PDF hal. 6.44). Ini adalah pergeseran intra-sistem (transposisi) karena pengulangan 'mobil-mobil' tidak diperlukan jika konteks jamak sudah dipahami."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.5) Penerjemahan 'I cut my finger' menjadi 'Jariku teriris' menggunakan prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Translation with more general word",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A (PDF hal. 6.44). Terjadi perubahan sudut pandang (modulasi) dari aktif ('I cut' - saya memotong) menjadi pasif ('teriris') demi kewajaran bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.6) Kata 'capris' (jenis celana spesifik) diterjemahkan menjadi 'celana panjang jins'. Prosedur ini disebut...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Translation with a more general word",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban B (PDF hal. 6.44). Karena istilah 'capris' kurang dikenal, penerjemah menggunakan istilah yang lebih umum dan dikenal luas oleh pembaca sasaran."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.7) Ketiadaan pemarkah jamak dalam 'a pair of flip flops' yang diterjemahkan menjadi 'sandal jepit' adalah prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penyulihan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban D (PDF hal. 6.44). Ini adalah pergeseran intra-sistem (transposisi) karena dalam budaya Indonesia, sandal disebut dalam satuan satu meskipun berpasangan."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.8) Pemadanan istilah 'flip flops' dengan 'sandal jepit' adalah bentuk prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C (PDF hal. 6.44). 'Sandal jepit' adalah padanan budaya yang paling dekat dan wajar untuk jenis alas kaki tersebut di Indonesia."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.9) Penambahan penjelasan mengenai 'anorexia' (gangguan yang mengancam nyawa...) dalam TSa disebut prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Contextual conditioning",
+                            "flag": true
+                        },
+                        {
+                            "option": "Translation with a more general word",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban A (PDF hal. 6.44). Penjelasan tambahan diberikan untuk menjamin pemahaman pembaca terhadap istilah medis tersebut (contextual conditioning)."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.10) Perubahan satuan berat dari '60 pounds' menjadi 'sekitar 27 kg' dalam TSa dikategorikan sebagai...",
+                    "pilihan": [
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pemadanan budaya",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Kunci jawaban C (PDF hal. 6.44). Mengonversi sistem ukuran (imperial ke metrik) agar relevan dengan budaya pembaca sasaran adalah bentuk pemadanan budaya."
+                }
             ]
         }
     ]
