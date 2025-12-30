@@ -6540,6 +6540,496 @@
                     "pembahasan": "Berdasarkan PDF hal. 8.21, penyunting wajib memiliki referensi standar bahasa seperti EYD, KBBI, Tesaurus, dan glosarium istilah."
                 }
             ]
+        },
+        {
+            "id": "modul_9",
+            "title": "Anotasi dalam Penerjemahan",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.a) Manakah pernyataan yang paling tepat menggambarkan definisi 'penerjemahan beranotasi' menurut Williams dan Chesterman (2002)?",
+                    "pilihan": [
+                        {
+                            "option": "Penerjemahan yang dilakukan secara otomatis oleh mesin kemudian diperbaiki manusia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penelitian introspektif dan retrospektif terhadap terjemahan sendiri dengan memberikan komentar atau catatan terhadap prosesnya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Proses menghapus bagian teks yang sulit dipahami agar tidak perlu diberi penjelasan tambahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Penerjemahan yang hanya berfokus pada estetika tanpa memedulikan makna asli.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.2 (Bagian 1, paragraf 2), Williams dan Chesterman mendefinisikan anotasi sebagai bentuk penelitian terhadap diri sendiri yang mencakup analisis aspek TSu serta argumentasi pemecahan masalah selama proses penerjemahan."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.b) Sumber rujukan utama dalam menyusun sebuah anotasi dapat berasal dari hal-hal berikut, kecuali...",
+                    "pilihan": [
+                        {
+                            "option": "Referensi seperti buku, ensiklopedia, kamus, dan film.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keyakinan pribadi penerjemah yang bersifat intuitif.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Budaya masyarakat bahasa sumber (BSu) maupun bahasa sasaran (BSa).",
+                            "flag": false
+                        },
+                        {
+                            "option": "Spekulasi tanpa dasar ilmiah untuk mempersingkat waktu pengerjaan.",
+                            "flag": true
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 9.8 - 9.9, sumber anotasi harus valid secara ilmiah, mencakup keyakinan intelektual penerjemah, pemahaman budaya, serta referensi cetak maupun non-cetak lainnya."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.c) Kapan seorang penerjemah merasa perlu memberikan anotasi pada hasil karyanya?",
+                    "pilihan": [
+                        {
+                            "option": "Hanya jika pemesan terjemahan menolak untuk membayar honorarium.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Saat berhadapan dengan kasus padanan makna yang membutuhkan penjelasan lebih jauh agar terjemahan wajar dan berterima.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Setiap kali menerjemahkan kata benda umum (seperti 'meja' atau 'kursi').",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya jika penerjemah tidak menggunakan kamus saat bekerja.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 9.9 (butir c), anotasi dilakukan saat ada kasus padanan makna yang rumit, sebagai bentuk pertanggungjawaban agar TSa tetap berterima dalam budaya BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.d) Bagaimana sifat subjektivitas dan objektivitas dalam sebuah anotasi penerjemahan dijelaskan?",
+                    "pilihan": [
+                        {
+                            "option": "Anotasi sepenuhnya objektif karena bahasa adalah ilmu pasti yang kaku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Anotasi sepenuhnya subjektif sehingga tidak bisa dipertanggungjawabkan secara ilmiah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Subjektivitas menonjol karena kolaborasi pengetahuan dan keterampilan, namun harus diperoleh melalui cara yang objektif.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Objektivitas hanya bisa dicapai jika penerjemah menggunakan perangkat lunak statistik.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.9 (butir d), meskipun melibatkan pilihan individu (subjektif), anotasi tetap harus memiliki landasan rujukan yang jelas (objektif) agar dapat dipertanggungjawabkan secara ilmiah."
+                },
+                {
+                    "pertanyaan": "(Latihan 2 & 3) Berdasarkan praktik identifikasi pada teks 'The Only Way' dan 'Rebecca', manakah di antara istilah berikut yang WAJIB diberikan anotasi karena kekhasan budayanya?",
+                    "pilihan": [
+                        {
+                            "option": "Windows, Breakfast, House, Car.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Rangoli patterns, Shehnai, Sari, dan Sleigh.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Morning, Flowers, Door, Street.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pink, Silver, Blue, Red.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 9.9 (Petunjuk Jawaban Latihan 2 & 3), kata-kata yang merujuk pada identitas budaya spesifik (seperti pola hiasan India 'rangoli' atau alat musik 'shehnai') memerlukan penjelasan lebih jauh agar pembaca BSa tidak kehilangan konteks."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) Mengapa dapat dikatakan bahwa seorang penerjemah sebenarnya tidak memiliki 'kebebasan' mutlak dalam memadankan kata?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah terikat kontrak hukum yang melarang perubahan kata.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penerjemah 'diatur' oleh budaya pembaca sasaran dan harus bernegosiasi agar padanan tidak menimbulkan kontroversi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kamus ekabahasa sudah menentukan satu-satunya arti yang benar.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena kebebasan hanya milik penulis asli teks sumber.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.40 (Kunci Tes Formatif 1 No. 1), penerjemah harus mempertimbangkan keberterimaan di mata pembaca sasaran. Pilihan kata seringkali merupakan hasil negosiasi antara keyakinan penerjemah dan norma budaya pembacanya."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) Apa tujuan utama dilakukannya anotasi dalam sebuah karya terjemahan?",
+                    "pilihan": [
+                        {
+                            "option": "Untuk menambah jumlah halaman naskah agar buku terlihat lebih tebal.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai bentuk pertanggungjawaban bahwa pemilihan padanan dilakukan melalui pertimbangan mendalam, bukan secara semena-mena.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Untuk mengkritik kelemahan penulis asli teks sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya untuk memamerkan jumlah referensi yang dimiliki penerjemah.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 9.40 (No. 2), anotasi menunjukkan bahwa penerjemah benar-benar mempertimbangkan setiap pilihan katanya, menjadikan penerjemahan sebagai kegiatan intelektual yang integral."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Rujukan apa yang harus dimiliki oleh seorang penerjemah untuk dapat menyusun anotasi yang sahih?",
+                    "pilihan": [
+                        {
+                            "option": "Hanya satu buah kamus dwibahasa yang paling baru.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kamus, buku teks, ensiklopedia, internet, serta pendapat praktisi atau pakar di bidang terkait.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Cukup menggunakan ingatan masa kecil tanpa perlu mencari data tambahan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya menggunakan rujukan dari media sosial yang sedang populer.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 9.40 (No. 3), untuk memberikan alasan yang kuat, penerjemah dituntut memiliki rujukan yang luas dan sahih agar anotasinya dapat dipertanggungjawabkan secara akademis."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.4) Apakah anotasi harus selalu dilakukan dalam setiap proses penerjemahan komersial?",
+                    "pilihan": [
+                        {
+                            "option": "Ya, setiap kata yang diterjemahkan wajib memiliki catatan kaki.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tidak, anotasi biasanya dilakukan hanya untuk alasan akademis (seperti Tugas Akhir Program).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya jika teks tersebut akan diterjemahkan ke dalam lebih dari sepuluh bahasa.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Anotasi hanya wajib jika teks sumber mengandung banyak angka statistik.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.40 (No. 4), anotasi tidak melulu dilakukan. Dalam kasus penerjemahan teks fiksi untuk diterbitkan secara umum, penerjemah biasanya tidak perlu memberikan anotasi teknis seperti di lingkungan akademis."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Dalam novel 'Rebecca', kata 'Miss' dipadankan dengan 'Nona'. Apa alasan pertanggungjawaban penerjemah menggunakan diksi tersebut pada masa sekarang?",
+                    "pilihan": [
+                        {
+                            "option": "Karena 'Nona' adalah satu-satunya padanan dalam kamus.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai bentuk eksotisme bahasa dalam karya fiksi untuk menjaga suasana klasik cerita.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Untuk memudahkan pembaca anak-anak mengeja kata tersebut.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penggunaan kata 'Mbak' dianggap terlalu formal.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.32, penggunaan kata 'Nona' saat ini jarang dilakukan kecuali untuk tujuan tertentu (menggoda). Dalam penerjemahan fiksi, diksi ini dipilih sebagai bentuk eksotisme bahasa untuk menjaga nuansa latar waktu cerita."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Penerjemah memilih kata 'Tante' untuk memadankan 'aunt', daripada menggunakan kata 'Bibi'. Mengapa?",
+                    "pilihan": [
+                        {
+                            "option": "Karena kata 'Bibi' memiliki jumlah huruf yang terlalu sedikit.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena kata 'Bibi' sering berkonotasi dengan pembantu rumah tangga atau kesan kampungan dalam budaya BSa tertentu.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena 'Tante' adalah kata asli bahasa Indonesia yang paling tua.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena tokoh dalam cerita tersebut bukan merupakan kerabat kandung.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 9.33, pemilihan 'Tante' dilakukan berdasarkan aspek kesesuaian dan keberterimaan budaya BSa. Kata 'Bibi' dihindari karena memiliki beban konotasi sosial (pembantu/kampungan) yang tidak sesuai dengan karakter dalam novel tersebut."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Mengapa kata 'pink' tetap dipertahankan (transferensi) dalam terjemahan novel tersebut?",
+                    "pilihan": [
+                        {
+                            "option": "Karena bahasa Indonesia tidak memiliki kata untuk warna merah muda.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk menampilkan nuansa budaya asli dan memberikan kesan 'keletah bahasa' yang menambah nilai estetis fiksi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Agar pembaca bisa belajar kosakata bahasa Inggris sambil membaca novel.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya karena penerjemah tidak ingin mencari padanan warna yang tepat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 9.33, prosedur transferensi 'pink' digunakan karena kata tersebut sudah dianggap bagian dari budaya BSa oleh kalangan tertentu dan memberikan nilai estetis 'keletah bahasa' pada teks fiksi."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Perubahan penulisan dari 'Aladdin' menjadi 'Aladin' dalam TSa dikategorikan sebagai prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Adaptasi Budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.34, perubahan morfologis ini disebut naturalisasi (Newmark, 1988), yang bertujuan agar penulisan nama tersebut lebih sesuai dengan kaidah ejaan dan lidah pembaca BSa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5 & 2.6) Mengapa 'Mr. Ladd' dan 'Mrs. Cobb' diubah menjadi 'Tuan Adam' dan 'Ibu Jeremiah'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah ingin mengganti nama tokoh agar lebih lokal.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai bentuk adaptasi budaya, karena dalam budaya BSa (Indonesia) lazim menyapa orang dengan sebutan diikuti nama depan, bukan nama belakang (nama keluarga).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena penggunaan nama belakang dianggap ilegal dalam penerjemahan novel anak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar pembaca tidak bingung membedakan antara pria dan wanita.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 9.34, dalam budaya Barat dipanggil nama belakang adalah wajar, namun di Indonesia jauh lebih wajar menggunakan gelar sapaan diikuti nama depan (Tuan Adam) agar terjemahan terasa natural."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.7) Kalimat 'What’s the matter, child?' diterjemahkan menjadi 'Ada apa sayang?'. Penggunaan laras bahasa ini bertujuan untuk...",
+                    "pilihan": [
+                        {
+                            "option": "Mengikuti kaidah tata bahasa Indonesia yang kaku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menciptakan suasana percakapan informal yang santai dan menambah keindahan hubungan antartokoh dalam fiksi.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menghilangkan makna asli dari kata 'child'.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memastikan jumlah kata dalam kalimat tetap empat kata.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.34, dalam konteks informal, TSa menggunakan laras bahasa yang tidak terikat kaku pada kaidah agar percakapan terasa lebih wajar dan emosional."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.1) Dalam cerpen berlatar India, kata 'Sari' dipertahankan dalam TSa. Apa landasan ideologi di balik keputusan ini?",
+                    "pilihan": [
+                        {
+                            "option": "Domestikasi; agar pembaca menganggap itu pakaian Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Foreignization (Pengasingan); untuk mempertahankan warna lokal TSu agar pembaca tetap merasakan latar budaya aslinya.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Modulasi; mengubah sudut pandang pakaian.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi; mengubah kelas kata dari benda menjadi sifat.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 9.41, pemertahanan kata 'sari' adalah upaya menjaga warna lokal India (foreignization) agar pembaca tidak kehilangan alur dan latar cerita yang asli."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.2) Mengapa istilah 'Rangoli' tidak dipadankan dengan kata 'hiasan lantai' saja?",
+                    "pilihan": [
+                        {
+                            "option": "Karena hiasan lantai tidak memiliki makna religius.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar pembaca tetap merasakan nuansa religius Hindu India dan tidak kehilangan detail spesifik dari latar cerita.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kata 'hiasan' terlalu sulit diterjemahkan kembali ke bahasa Inggris.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena prosedur penerjemahan resmi melarang penggunaan kata umum.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.41, 'Rangoli' adalah dekorasi khas yang bermakna penyambutan dewa. Mempertahankan istilah asli membantu pembaca tetap berada dalam konteks budaya yang sedang diceritakan."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.3) Nama alat musik 'Senhai' tetap digunakan dalam TSa meskipun ada padanan instrumen yang mirip di BSa. Hal ini dilakukan guna...",
+                    "pilihan": [
+                        {
+                            "option": "Menghindari kesalahan teknis bunyi musik.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mempertahankan warna lokal TSu dalam upacara pernikahan India.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Memperpendek kalimat dalam paragraf.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengikuti saran dari musisi internasional.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 9.42, meskipun ada alat musik serupa di budaya sasaran, mempertahankan nama 'Senhai' adalah strategi untuk menjaga keaslian identitas budaya sumber."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.4) Penerjemahan 'Rasogula' menjadi 'manisan rasogula' dan 'Sandesh' menjadi 'kue sandesh' merupakan contoh prosedur...",
+                    "pilihan": [
+                        {
+                            "option": "Transposisi struktur",
+                            "flag": false
+                        },
+                        {
+                            "option": "Contextual conditioning (penjelasan tambahan)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemahan harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi ejaan",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 9.42, penambahan kata 'manisan' atau 'kue' dilakukan untuk memudahkan pemahaman pembaca sasaran terhadap jenis makanan asing tersebut (contextual conditioning)."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.5) Ungkapan '(she) lapsed into silence' dipadankan dengan 'diam seribu bahasa'. Metode penerjemahan apa yang paling menonjol di sini?",
+                    "pilihan": [
+                        {
+                            "option": "Metode Harfiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Metode Kata per Kata",
+                            "flag": false
+                        },
+                        {
+                            "option": "Metode Idiomatis",
+                            "flag": true
+                        },
+                        {
+                            "option": "Metode Setia",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.42, penggunaan ungkapan 'bersayap' seperti 'diam seribu bahasa' membuat karya fiksi menjadi lebih indah dan natural dalam BSa (Metode Idiomatis)."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.6) Mengapa frasa umpatan 'your bastard' dipadankan dengan 'sialan' dalam bahasa Indonesia?",
+                    "pilihan": [
+                        {
+                            "option": "Karena kedua kata tersebut memiliki arti yang sama persis di kamus.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena sulit menemukan padanan yang 100% sama secara budaya, sehingga dicari kata yang memiliki dampak emosi serupa (bukan one-to-one correspondence).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena 'sialan' adalah kata yang paling sopan di Indonesia.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penerjemah tidak mengetahui arti kata 'bastard'.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 9.42, menerjemahkan kata serapah sangat sulit karena beban budaya. Mengingat penerjemahan bukan 'one-to-one correspondence' (Machali, 2000), 'sialan' dipilih sebagai reaksi emosional yang paling mendekati."
+                },
+                {
+                    "pertanyaan": "(Penutup Modul) Apa fungsi utama dari penyusunan anotasi bagi seorang mahasiswa yang akan menempuh Tugas Akhir Program (TAP)?",
+                    "pilihan": [
+                        {
+                            "option": "Hanya sebagai pelengkap administrasi ujian.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sebagai pembuktian ilmiah bahwa pilihan padanan didasarkan pada teori linguistik dan budaya yang integral.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Untuk mengubah seluruh isi materi dari Modul 1 sampai 8.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar mahasiswa tidak perlu lagi membaca buku materi pokok.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 9.1 (Pendahuluan), materi Modul 9 disesuaikan agar serupa dengan TAP sebagai gerbang terakhir studi, di mana anotasi menjadi bukti pertanggungjawaban kompetensi penerjemah."
+                }
+            ]
         }
     ]
 }
