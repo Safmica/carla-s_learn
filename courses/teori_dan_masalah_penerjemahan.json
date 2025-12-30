@@ -4482,6 +4482,1398 @@
                     "pembahasan": "Kunci jawaban C (PDF hal. 6.44). Mengonversi sistem ukuran (imperial ke metrik) agar relevan dengan budaya pembaca sasaran adalah bentuk pemadanan budaya."
                 }
             ]
+        },
+        {
+            "id": "modul_7",
+            "title": "Penerjemahan Antarbudaya",
+            "questions": [
+                {
+                    "pertanyaan": "(Latihan 1.1) Dalam kalimat 'Di dalam rumah banyak tamu asing lagi asyik main kuda lumping', mengapa istilah 'kuda lumping' menjadi kendala budaya bagi penerjemah?",
+                    "pilihan": [
+                        {
+                            "option": "Karena kuda lumping adalah jenis hewan yang tidak ada di luar negeri.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena kuda lumping merupakan hasil kesenian unik Indonesia yang tidak memiliki padanan langsung dalam budaya Inggris.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena kata 'kuda' dalam bahasa Inggris memiliki terlalu banyak sinonim.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena istilah tersebut dilarang untuk diterjemahkan ke dalam bahasa asing.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.28, hasil kesenian bangsa Indonesia seperti 'kuda lumping' tidak akan ada padanan terjemahnya dalam bahasa Inggris karena perbedaan latar belakang budaya yang jauh, sehingga penerjemah harus mencari deskripsi yang mewakili makna tersebut (seperti: dancing on straw horses)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Mengapa ungkapan 'Tukang panjat kelapa' dan 'kedai kecil' dikategorikan sebagai kendala aspek budaya dalam penerjemahan?",
+                    "pilihan": [
+                        {
+                            "option": "Karena pohon kelapa hanya tumbuh di wilayah pesisir Indonesia saja.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena merujuk pada jenis pekerjaan dan bentuk tempat makan yang spesifik dalam lingkup kehidupan masyarakat Indonesia.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena tata bahasa Inggris tidak mengenal kata benda untuk profesi tradisional.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena istilah 'kedai' dianggap terlalu formal dalam bahasa Inggris.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.28, profesi seperti 'tukang panjat kelapa' adalah spesifik budaya lokal. Penerjemah harus mengubahnya menjadi deskripsi fungsional (the men who climbed the trees) agar pembaca BSa memahami konteks pekerjaannya."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Istilah 'balai-balai' diterjemahkan menjadi 'the sleeping platform'. Kendala budaya apa yang melatarbelakangi penggunaan deskripsi tersebut?",
+                    "pilihan": [
+                        {
+                            "option": "Ketiadaan konsep ruang 'balai-balai' dalam arsitektur rumah tradisional masyarakat Inggris.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kesalahan penerjemah dalam memahami fungsi tempat tidur.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Aturan bahasa Inggris yang mengharuskan penggunaan kata benda abstrak.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena 'balai-balai' merupakan nama diri yang harus dipertahankan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.28, 'balai-balai' tidak dikenal dalam konsep rumah orang Inggris, sehingga penerjemah terpaksa memberikan penjelasan tambahan atau padanan fungsional sesuai cara penggunaannya."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.4) Ungkapan 'pencari beling' dalam teks sumber diterjemahkan menjadi 'used bottle collectors'. Apa kendala yang dihadapi dalam pemadanan ini?",
+                    "pilihan": [
+                        {
+                            "option": "Perbedaan sistem ekonomi yang menyebabkan istilah tersebut tidak relevan.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Aspek budaya terkait peran sosial-ekonomi spesifik di Indonesia (Senen) yang tidak memiliki istilah setara di BSa.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kata 'beling' dalam bahasa Inggris hanya berarti perhiasan mewah.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penerjemah tidak diperbolehkan menggunakan kata serapan.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.28, pekerjaan seperti 'pencari beling' adalah realitas sosial Indonesia. Penerjemah menggunakan strategi pemilihan kata yang menggambarkan aktivitasnya (mengumpulkan botol/gelas bekas) agar pesan tersampaikan."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Penerjemahan 'Satpam' menjadi 'Security guard' merupakan strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Padanan deskriptif",
+                            "flag": false
+                        },
+                        {
+                            "option": "Padanan Budaya (Cultural Equivalent)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pentransferan",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pola Khusus-Umum",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, 'security guard' adalah padanan budaya yang paling setara untuk menjelaskan fungsi 'satpam' dalam konteks global."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Kata 'Gedung komedi' yang dipadankan dengan 'Opera' menggunakan strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Pola Khusus-Umum",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kata serapan",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Modifikasi ciri dan bentuk",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, 'gedung komedi' (khusus) dipadankan dengan 'opera' (umum/universal) agar pembaca BSa memahami jenis tempat tersebut melalui kategori yang lebih luas."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Ungkapan 'Ada bayuan, Emak?' diterjemahkan menjadi 'Still got some of that wine from last night?'. Strategi yang digunakan adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Modifikasi bentuk dan fungsi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Padanan deskriptif",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kata serapan tanpa modifikasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pola Umum-Khusus",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33, istilah 'bayuan' (sisa minuman kemarin) tidak memiliki kata tunggal di BSa, sehingga digunakan deskripsi panjang untuk menjelaskan maknanya."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Pemadanan 'Tepak sirih' dengan 'Betel box' menggunakan strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Padanan Budaya",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pentransferan",
+                            "flag": false
+                        },
+                        {
+                            "option": "Modifikasi pernyataan fungsi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.14 (Tabel Latihan 2 No. 4), 'betel box' adalah padanan budaya yang tepat untuk benda tradisional 'tepak sirih'."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) Penerjemahan 'wolon' menjadi 'wolon, the resting period' adalah contoh strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Kata serapan tanpa modifikasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata serapan dengan modifikasi/penjelasan tambahan",
+                            "flag": true
+                        },
+                        {
+                            "option": "Modifikasi ciri dan bentuk",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pola Khusus-Umum",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, kata asli 'wolon' dipertahankan (diserap) namun diberi penjelasan fungsi 'the resting period' agar pembaca tidak bingung."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.6) Strategi apa yang digunakan saat menerjemahkan 'Sengguhu' menjadi 'rank of sengguhu'?",
+                    "pilihan": [
+                        {
+                            "option": "Padanan deskriptif",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata serapan tanpa modifikasi (hanya diberi kategori)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Modifikasi bentuk dan fungsi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pola Umum-Khusus",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, istilah hirarki agama Hindu 'sengguhu' tetap digunakan untuk menjaga warna lokal asli."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.7) Kata 'Kain kafan' diterjemahkan menjadi 'Burial cloth'. Ini adalah strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Pola khusus-umum",
+                            "flag": true
+                        },
+                        {
+                            "option": "Modifikasi pernyataan fungsi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pentransferan",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.14, 'kain kafan' yang spesifik dalam ritual Islam/lokal diubah menjadi kategori kain pemakaman yang lebih umum (burial cloth)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.8) Penerjemahan 'Tuak & Arak' menjadi 'Coconut wine & Rice beer' menggunakan strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Padanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Modifikasi pernyataan fungsi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kata serapan",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, minuman tradisional dipadankan dengan nama minuman di BSa yang memiliki bahan dasar atau fungsi serupa."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.9) Kata 'Keris' dipertahankan menjadi 'kris' dalam TSa. Prosedur ini disebut...",
+                    "pilihan": [
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pentransferan (Transfer)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kalke",
+                            "flag": false
+                        },
+                        {
+                            "option": "Modulasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, memindahkan kata budaya asli ke BSa tanpa mengubah substansi (hanya penyesuaian ejaan) adalah pentransferan."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.10) Frasa 'balai-balai' diterjemahkan menjadi 'sleeping platform' (panggung tidur) menggunakan strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Modifikasi bentuk dan fungsi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pola Umum-Khusus",
+                            "flag": false
+                        },
+                        {
+                            "option": "Padanan Budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pentransferan",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, deskripsi 'sleeping platform' menjelaskan baik bentuk (platform) maupun fungsinya (sleeping) bagi benda tersebut."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.11) Penerjemahan 'mengapur sirih' menjadi 'prepared a wad of betel' menggunakan strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Modifikasi ciri dan bentuk",
+                            "flag": true
+                        },
+                        {
+                            "option": "Padanan budaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Transposisi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33, strategi ini menitikberatkan pada proses atau karakteristik fisik dari kegiatan budaya tersebut."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.12) 'Tukang beca & pencari beling' dipadankan dengan 'Pedicab drivers & used bottle collectors'. Ini adalah strategi...",
+                    "pilihan": [
+                        {
+                            "option": "Pola Umum-Khusus",
+                            "flag": true
+                        },
+                        {
+                            "option": "Modifikasi fungsi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Naturalisasi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Padanan budaya",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, strategi ini mencari istilah yang lebih spesifik dalam BSa untuk kategori umum yang dimaksud di BSu."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.1) Berdasarkan hubungan antara bahasa dan budaya, mengapa bahasa dikatakan bersifat 'arbiter'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena setiap bahasa memiliki aturan tata bahasa yang logis dan tetap.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena tidak ada hubungan langsung antara simbol/lambang bunyi dengan objek rujukannya (misal: anjing/dog/hund).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena bahasa hanya dipengaruhi oleh kondisi geografis penuturnya.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena bahasa merupakan sistem yang tidak pernah berubah sejak zaman kuno.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Dikutip dari PDF hal. 7.28, Finocchiaro (1974) menyatakan bahasa bersifat arbiter karena penyimbolan lambang dengan objek rujukan bersifat manasuka atau sewenang-wenang."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.2) Mengapa penerjemahan sering dianggap sebagai sebuah 'praktik budaya'?",
+                    "pilihan": [
+                        {
+                            "option": "Karena penerjemah hanya bekerja di lembaga kebudayaan nasional.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penerjemah harus menjembatani hubungan rumit antara sistem nilai, norma, dan sejarah yang berbeda di antara dua masyarakat.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya karena bahasa merupakan bagian dari kesenian.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena penerjemah wajib menggunakan pakaian adat saat bekerja.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.32, penerjemahan dipandang sebagai praktik budaya karena melibatkan keterikatan penerjemah terhadap sistem nilai masyarakat sekelilingnya."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 1.3) Apa yang sebaiknya dilakukan seorang penerjemah profesional jika menemukan unsur budaya sumber yang tidak memiliki padanan di bahasa sasaran?",
+                    "pilihan": [
+                        {
+                            "option": "Menghapus unsur tersebut agar teks menjadi lebih singkat.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memberikan penjelasan tambahan, menggunakan kata generik dengan deskripsi, atau menggunakan kata pinjaman (loan word).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya menerjemahkan secara harfiah tanpa memedulikan pemahaman pembaca.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Meminta pembaca sasaran untuk mempelajari budaya bahasa sumber terlebih dahulu.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.35 (Rangkuman), strategi profesional meliputi penggunaan kata generik dengan penjelasan tambahan, pentransferan kata, atau penggantian dengan unsur budaya sasaran yang mirip."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.1) Analisislah simile 'She is as bright as a star'. Manakah yang merupakan Topik (T), Citraan (C), dan Titik Kesamaan (S)?",
+                    "pilihan": [
+                        {
+                            "option": "T: Star, C: She, S: Bright",
+                            "flag": false
+                        },
+                        {
+                            "option": "T: She, C: Star, S: Bright (Cemerlang)",
+                            "flag": true
+                        },
+                        {
+                            "option": "T: Bright, C: Star, S: She",
+                            "flag": false
+                        },
+                        {
+                            "option": "T: Star, C: Bright, S: She",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33, 'She' adalah subjek yang dibicarakan (Topik), 'Star' adalah objek pembanding (Citraan), dan 'Bright' adalah sifat yang menyamakan keduanya (Titik Kesamaan)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.2) Dalam simile 'He is as brave as a lion', apa Titik Kesamaan (S) yang ditekankan?",
+                    "pilihan": [
+                        {
+                            "option": "Kekuatan fisik",
+                            "flag": false
+                        },
+                        {
+                            "option": "Keberanian",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kecepatan lari",
+                            "flag": false
+                        },
+                        {
+                            "option": "Suara yang keras",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, 'lion' (singa) digunakan sebagai citraan untuk menggambarkan sifat 'brave' (berani) pada subjek 'He'."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.3) Ungkapan 'Timun was sick as a parrot' jika diterjemahkan menurut makna idiomatiknya di BSa menjadi...",
+                    "pilihan": [
+                        {
+                            "option": "Timun sakit seperti burung beo",
+                            "flag": false
+                        },
+                        {
+                            "option": "Timun sangat kecewa",
+                            "flag": true
+                        },
+                        {
+                            "option": "Timun tertular penyakit burung",
+                            "flag": false
+                        },
+                        {
+                            "option": "Timun diam seribu bahasa",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, karena bahasa Indonesia tidak mengenal konsep 'sakit seperti burung beo', maka ungkapan ini dianggap sebagai idiom yang bermakna 'sangat kecewa'."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.4) Analisislah simile 'looking like a fish out of water'. Apa Titik Kesamaan (S) yang dirasakan oleh subjek Bob?",
+                    "pilihan": [
+                        {
+                            "option": "Sangat kehausan",
+                            "flag": false
+                        },
+                        {
+                            "option": "Tampak sangat tidak pantas/canggung",
+                            "flag": true
+                        },
+                        {
+                            "option": "Sangat lincah bergerak",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ingin segera berenang",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, 'fish out of water' menggambarkan ketidakpantasan atau kecanggungan seseorang dalam suatu situasi (tampak sangat tidak pantas)."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.5) Dalam kalimat 'I feel like a fish out of water', apa yang dirasakan oleh penutur (Topik)?",
+                    "pilihan": [
+                        {
+                            "option": "Merasa sangat segar",
+                            "flag": false
+                        },
+                        {
+                            "option": "Merasa sangat tidak enak/canggung",
+                            "flag": true
+                        },
+                        {
+                            "option": "Merasa bebas melakukan apapun",
+                            "flag": false
+                        },
+                        {
+                            "option": "Merasa seperti sedang berpetualang",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33, perasaan 'like a fish out of water' pada diri sendiri diinterpretasikan sebagai perasaan sangat tidak enak atau canggung di lingkungan tersebut."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.6) Kalimat 'she went at her books like a boy killing snakes' menggambarkan subjek yang sedang...",
+                    "pilihan": [
+                        {
+                            "option": "Berburu binatang di perpustakaan",
+                            "flag": false
+                        },
+                        {
+                            "option": "Belajar dengan sangat tekun/bekerja sekeras mungkin",
+                            "flag": true
+                        },
+                        {
+                            "option": "Takut membaca buku tertentu",
+                            "flag": false
+                        },
+                        {
+                            "option": "Merusak buku-buku yang ada",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, citraan 'boy killing snakes' digunakan untuk menunjukkan intensitas Titik Kesamaan (S) yaitu 'bekerja sekeras mungkin' atau sangat tekun."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.7) Dalam kalimat 'I hired Joe to weed my garden, and he went at it like a boy killing snakes', apa makna dari tindakan Joe?",
+                    "pilihan": [
+                        {
+                            "option": "Joe bekerja sangat keras membersihkan taman",
+                            "flag": true
+                        },
+                        {
+                            "option": "Joe menemukan ular di taman",
+                            "flag": false
+                        },
+                        {
+                            "option": "Joe bekerja dengan sangat lamban",
+                            "flag": false
+                        },
+                        {
+                            "option": "Joe merusak tanaman hias",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, Titik Kesamaan (S) pada pengerjaan tugas taman tersebut adalah intensitas kerja yang 'sangat keras'."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.8) Simile 'Arguing with you is like fighting snakes' memiliki Titik Kesamaan (S) yaitu...",
+                    "pilihan": [
+                        {
+                            "option": "Sangat membosankan",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sungguh sangat menantang/sulit",
+                            "flag": true
+                        },
+                        {
+                            "option": "Sangat lucu dan menghibur",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sangat cepat selesai",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33, berdebat disamakan dengan melawan ular, yang diinterpretasikan sebagai sesuatu yang 'sungguh sangat menantang'."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.9) Kalimat 'he was like a deer caught in the headlights' menunjukkan kondisi Topik yang...",
+                    "pilihan": [
+                        {
+                            "option": "Sangat berani menghadapi masalah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sangat gugup/tertegun tidak bisa bergerak",
+                            "flag": true
+                        },
+                        {
+                            "option": "Sangat ceria mendapatkan perhatian",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sangat cepat melarikan diri",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, citraan rusa yang terkena lampu mobil menggambarkan Titik Kesamaan (S) yaitu 'sangat gugup'."
+                },
+                {
+                    "pertanyaan": "(Latihan 1.10) Ungkapan 'we fought like cats and dogs' memiliki padanan budaya yang tepat di Indonesia yaitu...",
+                    "pilihan": [
+                        {
+                            "option": "Bertengkar seperti gajah dan semut",
+                            "flag": false
+                        },
+                        {
+                            "option": "Selalu bertengkar seperti kucing dan anjing",
+                            "flag": true
+                        },
+                        {
+                            "option": "Akur seperti saudara kandung",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bekerja sama seperti lebah",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, ungkapan ini memiliki titik kesamaan citraan yang sama antara budaya Inggris dan Indonesia untuk menggambarkan pertengkaran yang terus-menerus."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.1) Analisislah metafora 'until the day breaks'. Apa Titik Kesamaan (S) yang dimaksud?",
+                    "pilihan": [
+                        {
+                            "option": "Hari yang sedang hancur",
+                            "flag": false
+                        },
+                        {
+                            "option": "Fajar menjelang / pagi hari",
+                            "flag": true
+                        },
+                        {
+                            "option": "Malam yang sangat gelap",
+                            "flag": false
+                        },
+                        {
+                            "option": "Waktu istirahat kerja",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33 (Latihan 2 No. 1), 'day breaks' adalah metafora untuk waktu fajar atau pagi hari."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.2) Apa makna metaforis dari 'a whole school of poetry'?",
+                    "pilihan": [
+                        {
+                            "option": "Bangunan sekolah sastra",
+                            "flag": false
+                        },
+                        {
+                            "option": "Suatu aliran puisi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kumpulan buku puisi lama",
+                            "flag": false
+                        },
+                        {
+                            "option": "Guru-guru yang menulis puisi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, 'school' dalam konteks ini merujuk pada 'aliran' atau kelompok pemikiran tertentu dalam seni puisi."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.3) Kalimat 'Her mother has a very sharp-tongue' jika diterjemahkan maknanya adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Ibunya memiliki lidah yang runcing",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ibunya berlidah tajam (sering berkata pedas)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Ibunya sangat suka makan makanan tajam",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ibunya pandai berbahasa asing",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, 'sharp-tongue' adalah metafora untuk cara bicara yang pedas atau menyakitkan (berlidah tajam)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.4) Dalam metafora 'Tourism is... the economic backbone of the nation', apa Titik Kesamaan (S) yang dimaksud?",
+                    "pilihan": [
+                        {
+                            "option": "Pariwisata adalah beban negara",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pariwisata menjadi tulang punggung (pendukung utama) perekonomian",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pariwisata adalah bagian belakang negara",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pariwisata hanya dilakukan oleh atlet",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33, 'backbone' (tulang punggung) melambangkan peran sebagai penyokong utama atau pendukung vital."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.5) Ungkapan 'He fell in love with the girl' merupakan metafora yang umum. Apa maknanya di BSa?",
+                    "pilihan": [
+                        {
+                            "option": "Dia terjatuh saat bersama gadis itu",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dia jatuh cinta kepada gadis itu",
+                            "flag": true
+                        },
+                        {
+                            "option": "Dia tidak sengaja menabrak gadis itu",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dia membenci gadis itu",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, 'fell in love' diterjemahkan secara metaforis menjadi 'jatuh cinta' dalam bahasa Indonesia."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.6) Apa arti dari metafora 'I have always been scapegoats'?",
+                    "pilihan": [
+                        {
+                            "option": "Saya selalu memelihara kambing hitam",
+                            "flag": false
+                        },
+                        {
+                            "option": "Aku selalu saja menjadi kambing hitam (orang yang dipersalahkan)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Saya sangat suka makan daging kambing",
+                            "flag": false
+                        },
+                        {
+                            "option": "Saya selalu menjadi pemimpin kelompok",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, 'scapegoat' adalah metafora untuk orang yang dijadikan sasaran kesalahan orang lain (kambing hitam)."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.7) Metafora 'unsung heroes' dalam konteks perjuangan perumahan merujuk pada...",
+                    "pilihan": [
+                        {
+                            "option": "Pahlawan yang suka menyanyi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pahlawan yang terlupakan / tidak dikenal jasanya",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pahlawan yang tidak memiliki suara",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pahlawan dari kalangan penyanyi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.33, 'unsung heroes' diterjemahkan sebagai pahlawan yang jasanya tidak dipuji secara publik atau terlupakan."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.8) Dalam kalimat 'His attitude was simply a flower of his general good nature', apa fungsi metafora 'flower'?",
+                    "pilihan": [
+                        {
+                            "option": "Menunjukkan bahwa dia suka bunga",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sikapnya menjadi teladan/perwujudan kebaikan bagi semua orang",
+                            "flag": true
+                        },
+                        {
+                            "option": "Sikapnya sangat wangi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sikapnya sangat lemah",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.33, 'flower' di sini melambangkan hasil terbaik atau perwujudan teladan dari sifat baiknya."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.9) Metafora 'The train snaked along' menggambarkan kereta api yang...",
+                    "pilihan": [
+                        {
+                            "option": "Berjalan sangat cepat seperti gigitan ular",
+                            "flag": false
+                        },
+                        {
+                            "option": "Meliuk-liuk seperti seekor ular saat menuruni bukit",
+                            "flag": true
+                        },
+                        {
+                            "option": "Berhenti mendadak karena ada ular",
+                            "flag": false
+                        },
+                        {
+                            "option": "Memiliki warna seperti kulit ular",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.33, 'snaked along' merujuk pada gerakan fisik kereta yang berkelok-kelok menyerupai gerakan ular."
+                },
+                {
+                    "pertanyaan": "(Latihan 2.10) Apa yang dimaksud dengan 'a worm's eye view of society' dalam sebuah novel?",
+                    "pilihan": [
+                        {
+                            "option": "Pandangan dari sudut mata seekor cacing tanah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Gambaran yang detil tentang masyarakat kelas bawah",
+                            "flag": true
+                        },
+                        {
+                            "option": "Pandangan masyarakat terhadap binatang cacing",
+                            "flag": false
+                        },
+                        {
+                            "option": "Novel yang bercerita tentang kehidupan bawah tanah",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.34, 'worm's eye view' adalah metafora untuk melihat masyarakat dari posisi paling bawah atau rakyat kecil (masyarakat kelas bawah)."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.1) Cari padanan bahasa Indonesia untuk ungkapan: 'It’s the law of the jungle'.",
+                    "pilihan": [
+                        {
+                            "option": "Ini adalah aturan di hutan rimba",
+                            "flag": false
+                        },
+                        {
+                            "option": "Siapa kuat, dia yang dapat; Siapa yang kuat, dia yang menang",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hukum harus ditegakkan di mana saja",
+                            "flag": false
+                        },
+                        {
+                            "option": "Hanya hewan yang bebas hukum",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, 'law of the jungle' merujuk pada prinsip kelangsungan hidup di mana pihak yang lebih kuat mendominasi."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.2) Apa padanan bahasa Indonesia untuk 'The best laid plan of mice and men gang often go awry'?",
+                    "pilihan": [
+                        {
+                            "option": "Tikus dan manusia sering berkelahi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Manusia merencanakan, Tuhan yang menentukan",
+                            "flag": true
+                        },
+                        {
+                            "option": "Rencana yang baik harus dilakukan oleh tim",
+                            "flag": false
+                        },
+                        {
+                            "option": "Semua rencana manusia akan gagal",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, ungkapan ini sepadan dengan peribahasa Indonesia mengenai rencana manusia yang tidak selalu sejalan dengan takdir Tuhan."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.3) Ungkapan 'You are teaching your grandmother to suck eggs' sepadan dengan peribahasa...",
+                    "pilihan": [
+                        {
+                            "option": "Bagai telur di ujung tanduk",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kamu ini mengajari itik berenang",
+                            "flag": true
+                        },
+                        {
+                            "option": "Jangan membuang garam ke laut",
+                            "flag": false
+                        },
+                        {
+                            "option": "Seperti kera mendapat bunga",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.34, ungkapan ini digunakan untuk menyindir orang yang mencoba mengajari orang lain yang sudah jauh lebih ahli."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.4) Peribahasa Inggris yang berkaitan dengan pengeluaran berlebihan dan padanannya adalah...",
+                    "pilihan": [
+                        {
+                            "option": "If you spend more than you should :: Jangan lebih besar pasak daripada tiang",
+                            "flag": true
+                        },
+                        {
+                            "option": "Money talks :: Uang adalah segalanya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Time is money :: Waktu adalah uang",
+                            "flag": false
+                        },
+                        {
+                            "option": "A penny saved :: Berakit-rakit ke hulu",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, peribahasa ini merujuk pada pengelolaan keuangan yang tidak seimbang antara pengeluaran dan pemasukan."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.5) Apa makna padanan dari 'Beware.. Take heed of the snake in the grass'?",
+                    "pilihan": [
+                        {
+                            "option": "Hati-hati ada ular di rumput",
+                            "flag": false
+                        },
+                        {
+                            "option": "Awas, berjaga-jaga, ada musuh dalam selimut",
+                            "flag": true
+                        },
+                        {
+                            "option": "Jangan bermain di padang rumput",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ular hijau sangat berbahaya",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, 'snake in the grass' melambangkan bahaya tersembunyi dari orang terdekat (musuh dalam selimut)."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.6) Bagaimana cara menerjemahkan 'Don’t take the teacher’s remark to your heart' agar wajar di BSa?",
+                    "pilihan": [
+                        {
+                            "option": "Jangan masukkan kata-kata guru ke dalam jantungmu",
+                            "flag": false
+                        },
+                        {
+                            "option": "Jangan terlalu masuk ke dalam hati apa yang dikatakan gurumu (anggap sebagai tantangan)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Abaikan saja apa yang dikatakan gurumu",
+                            "flag": false
+                        },
+                        {
+                            "option": "Guru tidak pernah salah",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.34, 'to your heart' diterjemahkan dengan penjelasan fungsional agar pembaca tidak tersinggung dan tetap termotivasi."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.7) Apa padanan untuk 'Still water run deep'?",
+                    "pilihan": [
+                        {
+                            "option": "Air tenang menghanyutkan",
+                            "flag": true
+                        },
+                        {
+                            "option": "Air yang diam itu dalam",
+                            "flag": false
+                        },
+                        {
+                            "option": "Jangan berenang di air tenang",
+                            "flag": false
+                        },
+                        {
+                            "option": "Air selalu mengalir ke bawah",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, ini adalah peribahasa yang memiliki citraan dan makna yang identik dalam kedua budaya."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.8) Apa makna dari ungkapan 'swim against the tide' dalam konteks bertahan hidup?",
+                    "pilihan": [
+                        {
+                            "option": "Berenang melawan arus laut",
+                            "flag": false
+                        },
+                        {
+                            "option": "Harus lebih kreatif dan berani menentang arus",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menunggu ombak reda",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ikuti saja kemauan orang lain",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, metafora ini digunakan untuk mendorong sikap berani mengambil risiko atau berbeda dari umum."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.9) Ungkapan 'She is standing on the edge of a precipice' atau 'hanging on a thread' sepadan dengan...",
+                    "pilihan": [
+                        {
+                            "option": "Dia sedang berada di puncak gunung",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dia itu sedang kritis, seperti telur di ujung tanduk",
+                            "flag": true
+                        },
+                        {
+                            "option": "Dia sedang menjahit baju",
+                            "flag": false
+                        },
+                        {
+                            "option": "Dia sedang terjatuh ke jurang",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.34, metafora bahaya ekstrem ini dipadankan dengan ungkapan lokal 'seperti telur di ujung tanduk'."
+                },
+                {
+                    "pertanyaan": "(Latihan 3.10) Apa makna padanan dari 'You have to stand on your own two feet'?",
+                    "pilihan": [
+                        {
+                            "option": "Kamu harus berdiri menggunakan dua kaki",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kamu harus bisa berdiri sendiri / harus mandiri",
+                            "flag": true
+                        },
+                        {
+                            "option": "Jangan duduk terlalu lama",
+                            "flag": false
+                        },
+                        {
+                            "option": "Gunakan sepatu yang nyaman",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, metafora 'dua kaki' melambangkan kemandirian dalam hidup."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.1) Apa padanan eufemisme untuk 'chemical dependency'?",
+                    "pilihan": [
+                        {
+                            "option": "Kecanduan bahan kimia berbahaya",
+                            "flag": false
+                        },
+                        {
+                            "option": "Ketergantungan pada obat-obatan",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hobi melakukan eksperimen sains",
+                            "flag": false
+                        },
+                        {
+                            "option": "Alergi terhadap zat kimia",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34 (Latihan 4 No. 1), istilah ini digunakan untuk menghaluskan sebutan bagi pecandu narkoba/obat."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.2) Eufemisme 'gentlemen's club' dipadankan dengan...",
+                    "pilihan": [
+                        {
+                            "option": "Klub pria terhormat",
+                            "flag": false
+                        },
+                        {
+                            "option": "Klab malam",
+                            "flag": true
+                        },
+                        {
+                            "option": "Tempat diskusi formal",
+                            "flag": false
+                        },
+                        {
+                            "option": "Perpustakaan khusus pria",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, 'gentlemen's club' adalah eufemisme untuk tempat hiburan dewasa (klab malam)."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.3) Ungkapan 'feeling no pain' atau 'getting smashed' merujuk pada kondisi...",
+                    "pilihan": [
+                        {
+                            "option": "Sehat walafiat",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mabuk",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kematian",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kecelakaan mobil",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.34, ini adalah cara halus/gaul dalam BSu untuk menyebut kondisi mabuk."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.4) Apa padanan untuk eufemisme 'to take legal action'?",
+                    "pilihan": [
+                        {
+                            "option": "Melakukan tindakan ilegal",
+                            "flag": false
+                        },
+                        {
+                            "option": "Mengadu (ke jalur hukum)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Menangkap penjahat",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menulis undang-undang baru",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, istilah ini digunakan dalam konteks melaporkan atau menuntut secara hukum."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.5) Eufemisme 'peer homework help' sering digunakan untuk menghaluskan kata...",
+                    "pilihan": [
+                        {
+                            "option": "Belajar kelompok",
+                            "flag": false
+                        },
+                        {
+                            "option": "Menyontek",
+                            "flag": true
+                        },
+                        {
+                            "option": "Diskusi ilmiah",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kursus tambahan",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, ini adalah istilah halus untuk tindakan menyalin pekerjaan rumah teman."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.6) 'Outgassing or runoff' merupakan eufemisme industri untuk menyebut...",
+                    "pilihan": [
+                        {
+                            "option": "Produksi energi",
+                            "flag": false
+                        },
+                        {
+                            "option": "Polusi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Gas alam bersih",
+                            "flag": false
+                        },
+                        {
+                            "option": "Aliran air sungai",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.34, kata-kata teknis ini sering dipakai untuk menyembunyikan efek negatif limbah (polusi)."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.7) Ungkapan 'adult entertainment' atau 'erotica' dipadankan dengan...",
+                    "pilihan": [
+                        {
+                            "option": "Hiburan orang tua",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pornografi",
+                            "flag": true
+                        },
+                        {
+                            "option": "Seni lukis tubuh",
+                            "flag": false
+                        },
+                        {
+                            "option": "Film aksi dewasa",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, istilah ini adalah cara halus untuk menyebut konten pornografi."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.8) Apa yang dimaksud dengan eufemisme militer 'collateral damage'?",
+                    "pilihan": [
+                        {
+                            "option": "Kemenangan perang",
+                            "flag": false
+                        },
+                        {
+                            "option": "Salah tembak sasaran (korban sipil)",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kerusakan bangunan musuh",
+                            "flag": false
+                        },
+                        {
+                            "option": "Perbaikan pangkalan militer",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.34, 'collateral damage' digunakan untuk menghaluskan fakta adanya korban yang tidak disengaja dalam operasi militer."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.9) Padanan untuk eufemisme 'intellectually challenged' adalah...",
+                    "pilihan": [
+                        {
+                            "option": "Jenius yang rendah hati",
+                            "flag": false
+                        },
+                        {
+                            "option": "Terbelakang mental",
+                            "flag": true
+                        },
+                        {
+                            "option": "Malas belajar",
+                            "flag": false
+                        },
+                        {
+                            "option": "Sangat pintar bersosialisasi",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.34, ini adalah istilah medis/sosial yang lebih halus untuk menyebut kondisi keterbelakangan mental."
+                },
+                {
+                    "pertanyaan": "(Latihan 4.10) Ungkapan 'lost their lives' merupakan eufemisme untuk kata...",
+                    "pilihan": [
+                        {
+                            "option": "Tersesat di jalan",
+                            "flag": false
+                        },
+                        {
+                            "option": "Terbunuh / Meninggal dunia",
+                            "flag": true
+                        },
+                        {
+                            "option": "Kehilangan harta benda",
+                            "flag": false
+                        },
+                        {
+                            "option": "Pensiun dari pekerjaan",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.34, 'lost their lives' digunakan agar berita kematian tidak terdengar terlalu kasar atau traumatis."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.1) Berdasarkan materi, apa definisi yang paling akurat mengenai bahasa figuratif?",
+                    "pilihan": [
+                        {
+                            "option": "Bahasa yang hanya berisi data teknis dan statistik.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bahasa kiasan yang digunakan untuk meningkatkan efek pernyataan melalui perbandingan, perumpamaan, atau sindiran.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Bahasa yang hanya digunakan dalam dokumen hukum resmi.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bahasa yang diterjemahkan secara harfiah kata demi kata.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Sesuai PDF hal. 7.47, bahasa figuratif bertujuan menghidupkan cara pengungkapan dan suasana wacana agar menjadi penuh makna bagi pembaca."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 2.2) Manakah permasalahan utama yang ditemui dalam menerjemahkan bahasa figuratif antarbudaya?",
+                    "pilihan": [
+                        {
+                            "option": "Kesulitan menghitung jumlah majas dalam satu buku.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Kesulitan menemukan titik kesamaan (point of similarity) dan citraan yang tepat dalam budaya bahasa sasaran.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Penerjemah dilarang menggunakan kamus saat menerjemahkan metafora.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Bahasa sasaran biasanya tidak memiliki emosi sehingga metafora hilang.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.47-7.48, kendala terbesar adalah menemukan padanan yang memiliki maksud dan tujuan pengungkapan yang sama tanpa merusak nilai estetis aslinya."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.1) Berdasarkan teori SKOPOS yang diperkenalkan oleh Hans Vermeer, mengapa seorang penerjemah harus menentukan tujuan penerjemahan terlebih dahulu?",
+                    "pilihan": [
+                        {
+                            "option": "Agar penerjemah dapat menentukan tarif jasa yang sesuai dengan panjang teks.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Karena tujuan (skopos) akan menentukan metode, strategi, dan teknik yang paling tepat untuk menghasilkan 'translatum' bagi pembaca.",
+                            "flag": true
+                        },
+                        {
+                            "option": "Hanya untuk memastikan bahwa teks sasaran memiliki jumlah halaman yang sama dengan teks sumber.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar penerjemah bisa bekerja secara mandiri tanpa bantuan kamus ekabahasa.",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Berdasarkan PDF hal. 7.48, Kunci Jawaban Tes Formatif 3 nomor 1, teori SKOPOS (dari bahasa Yunani yang berarti 'maksud') menaruh perhatian pada pertanyaan 'mengapa teks diterjemahkan' dan 'apa fungsi teks tersebut bagi pembaca'. Jawaban atas tujuan ini menjadi dasar utama dalam menentukan langkah-langkah penerjemahan selanjutnya agar hasil karya (translatum) efektif."
+                },
+                {
+                    "pertanyaan": "(Tes Formatif 3.2) Mengapa penetapan sasaran penerjemahan melalui konsep 'Audience Design' dianggap sebagai tahapan krusial yang tidak boleh diabaikan?",
+                    "pilihan": [
+                        {
+                            "option": "Agar penerjemah tahu siapa yang akan membayar royalti buku tersebut.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Untuk mempermudah pemilihan gaya pengungkapan, laras bahasa, dan tingkat formalitas yang sesuai dengan latar belakang pengguna terjemahan (usia, pendidikan, budaya).",
+                            "flag": true
+                        },
+                        {
+                            "option": "Karena audience design hanya diperlukan untuk menerjemahkan naskah drama internasional.",
+                            "flag": false
+                        },
+                        {
+                            "option": "Agar penerjemah tidak perlu lagi melakukan analisis kebutuhan (needs analysis).",
+                            "flag": false
+                        }
+                    ],
+                    "pembahasan": "Menurut PDF hal. 7.48-7.49, Kunci Jawaban Tes Formatif 3 nomor 2, penetapan sasaran (audience design) diperlukan untuk mempelajari siapa pengguna terjemahan tersebut. Sesuai pendapat Ian Mason (2000), ini membantu penerjemah menyesuaikan teks agar berterima dan logis bagi pembaca tertentu, sehingga tujuan komunikasi dapat tercapai tanpa kesalahpahaman."
+                }
+            ]
         }
     ]
 }
